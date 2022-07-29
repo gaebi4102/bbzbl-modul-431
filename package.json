@@ -6,7 +6,7 @@
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",
-    "build-marp": "marp --input-dir slides --output build/slides",
+    "build-marp": "marp --html --allow-local-files --theme slides/theme.css -I slides --output build/slides ",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
