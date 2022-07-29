@@ -3,6 +3,7 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const oembed = require('@agentofuser/remark-oembed');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -29,15 +30,16 @@ const config = {
 
   presets: [
     [
-      'classic',
+      '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/codingluke/bbzbl-modul-431/tree/main/',
+          remarkPlugins: [oembed],
         },
         // blog: {
         //   showReadingTime: true,
@@ -49,7 +51,7 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-      }),
+      },
     ],
   ],
 
@@ -129,5 +131,5 @@ const config = {
       },
     }),
 };
-
 module.exports = config;
+
