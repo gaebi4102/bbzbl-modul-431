@@ -4,4 +4,4 @@ title: Slides
 
 # Slides
 
-- [Handlungskompetenz](/slides/handlungskompetenz)
+- [Handlungskompetenz](pathname:///slides/handlungskompetenz)
