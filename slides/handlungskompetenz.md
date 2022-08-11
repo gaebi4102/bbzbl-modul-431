@@ -23,7 +23,6 @@ Das **bewusste** ausführen einer Tat <sup>[1](#17)</sup>
 
 ---
 
-
 # Kompetenz <sup>[2](#17)</sup>
 
 **Sachverstand; Fähigkeiten**
