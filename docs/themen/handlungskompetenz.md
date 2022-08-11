@@ -6,15 +6,22 @@ import LiteYouTubeEmbed from 'react-lite-youtube-embed';
 Die Seiten sind extra nicht gefüllt. Damit Ihr bei eurem ePortfolio eine **eigenständige Struktur** erstellt und nicht in Versuchung gerät hier alles zu kopieren ;)
 :::
 
-## 5 Kompetenzen
+## 4 Kompetenzen der Handlungskompetenz
+
+:::note
+diese 4 Kompetenzen ergeben zusammen die [Handlungskompetenz](pathname:///slides/handlungskompetenz)
+:::
 
 - Methodenkompetenz
 - Sozialkompetenz
-- Handlungskompetenz
 - Fachkompetenz
 - Selbstkompetenz
 
 ![](../img/handlungskompetenz.png)
+
+## Slide
+
+<iframe src="/bbzbl-modul-431/slides/handlungskompetenz" width="100%" height="400px"></iframe>
 
 
 ## Youtube Videos zum Thema
