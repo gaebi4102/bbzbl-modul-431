@@ -11,7 +11,7 @@ const config = {
   tagline: 'Aufträge im IT-Umfeld selbstständig durchführen',
   url: 'https://codingluke.github.io',
   baseUrl: '/bbzbl-modul-431/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
 
@@ -71,9 +71,9 @@ const config = {
             position: 'left',
             label: 'Themen',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/slides', label: 'Slides', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/codingluke/bbzbl-modul-431',
             label: 'GitHub',
             position: 'right',
           },

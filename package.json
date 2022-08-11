@@ -7,7 +7,7 @@
     "start": "docusaurus start",
     "start-marp": "env PORT=5000 marp --html --allow-local-files --theme slides/theme.css --watch --server --allow-local-files slides",
     "build": "docusaurus build",
-    "build-marp": "marp --html --allow-local-files --theme slides/theme.css -I slides --output build/slides", 
+    "build-marp": "marp --html --allow-local-files --theme slides/theme.css -I slides --output build/slides",
     "copy-marp-images": "cp -r slides/images build/slides/images",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
@@ -18,11 +18,12 @@
   },
   "dependencies": {
     "@agentofuser/remark-oembed": "^1.0.4",
-    "@docusaurus/core": "^2.0.0-rc.1",
-    "@docusaurus/preset-classic": "^2.0.0-rc.1",
+    "@docusaurus/core": "^2.0.1",
+    "@docusaurus/preset-classic": "^2.0.1",
     "@marp-team/marp-cli": "^2.0.4",
     "@mdx-js/react": "^1.6.22",
     "clsx": "^1.1.1",
+    "prettier": "^2.7.1",
     "prism-react-renderer": "^1.3.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -31,7 +32,7 @@
     "remark-oembed": "^1.2.2"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^2.0.0-rc.1"
+    "@docusaurus/module-type-aliases": "^2.0.1"
   },
   "browserslist": {
     "production": [
