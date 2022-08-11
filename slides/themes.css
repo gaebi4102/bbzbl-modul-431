@@ -34,10 +34,10 @@ section {
   background: rgb(255, 247, 239);
   justify-content: start;
 }
-section.h1 {
+section h1 {
   font-weight: 800;
 }
-section.h2 {
+section h2 {
   font-weight: 600;
   color: rgb(70, 70, 145);
 }

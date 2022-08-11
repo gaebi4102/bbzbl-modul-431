@@ -6,8 +6,6 @@ header: Modul 431 - Woche 1
 footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 ---
 
-<!-- _class: big -->
-
 # Modul 431
 # <!--fit--> Woche 1
 
