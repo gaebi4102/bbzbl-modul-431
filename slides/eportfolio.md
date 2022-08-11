@@ -188,9 +188,9 @@ In der Regel **keine Reflexionen** über ihren Inhalt
 
 ---
 
-# :checkered_flag: Starten Sie jetzt
-
 <div class="columns"><div>
+
+# <!--fit--> :checkered_flag: **Starten Sie jetzt**
 
 - Suchen Sie sich ein Tool das Ihnen passt
 - Probieren Sie es aus
