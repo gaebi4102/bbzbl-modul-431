@@ -71,7 +71,7 @@ const config = {
             position: 'left',
             label: 'Themen',
           },
-          {to: '/slides', label: 'Slides', position: 'left'},
+          {to: '/slides/', label: 'Slides', position: 'left'},
           {
             href: 'https://github.com/codingluke/bbzbl-modul-431',
             label: 'GitHub',
