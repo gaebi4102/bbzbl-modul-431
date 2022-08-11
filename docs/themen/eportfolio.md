@@ -5,7 +5,9 @@ import LiteYouTubeEmbed from 'react-lite-youtube-embed';
 > E-Portfolios sind netzbasierte Sammelmappen, die verschiedene digitale Medien und Services integrieren und auch im E-Learning eingesetzt werden. So können Studierende ein elektronisches nutzen, um Kompetenz auszuweisen und ihren Lernprozess zu reflektieren.
 > - :paperclip: [ePortfolio Beschreibung](https://drive.google.com/file/d/1V7BKzrT3S1HYDpOZPco5qUzgeSuPgPBG/view)
 
-## Slides
+## Präsentation
+
+[:computer: Open in Browser](pathname:///slides/eportfolio) | [:floppy_disk: download PDF](pathname:///slides/eportfolio.pdf)
 
 <iframe src="/bbzbl-modul-431/slides/eportfolio"></iframe>
 

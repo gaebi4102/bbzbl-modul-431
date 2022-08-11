@@ -19,10 +19,11 @@ diese 4 Kompetenzen ergeben zusammen die [Handlungskompetenz](pathname:///slides
 
 ![](../img/handlungskompetenz.png)
 
-## Slide
+## Präsentation
+
+[:computer: Open in Browser](pathname:///slides/handlungskompetenz) | [:floppy_disk: download PDF](pathname:///slides/handlungskompetenz.pdf)
 
 <iframe src="/bbzbl-modul-431/slides/handlungskompetenz" width="100%" height="400px"></iframe>
-
 
 ## Youtube Videos zum Thema
 

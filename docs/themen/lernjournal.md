@@ -19,7 +19,9 @@ Verwendet am besten folgende Vorlage. Die _gelben_ Texte in der Vorlage, dürft 
 1. **:paperclip: [Google Docs Vorlage](https://docs.google.com/document/d/1Pa_FThTbr1Dc1gMTN7aRng5iTRFoYsGSLpmtn8qsx4Y/edit)** öffnen
 1. eine "Kopie" davon machen und bei euch speichern
 
-## Slides
+## Präsentation
+
+[:computer: Open in Browser](pathname:///slides/lernjournal) | [:floppy_disk: download PDF](pathname:///slides/lernjournal.pdf)
 
 <iframe src="/bbzbl-modul-431/slides/lernjournal"></iframe>
 
