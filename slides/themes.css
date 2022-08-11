@@ -1,8 +1,13 @@
 /* @theme bbzbl */
 @import 'default';
 @import url(https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css);
-@import url(https:V//code.cdn.mozilla.net/fonts/fira.css);
+@import url(https://code.cdn.mozilla.net/fonts/fira.css);
 
+:root {
+  font-family: 'Fira Sans', 'Segoe UI', 'Liberation Sans', 'Helvetica', 'Arial', sans-serif;
+}
+
+/* * { font-family: 'Fira', sans-serif;  } */
 code * { font-family: 'Fira Code', monospace;  }
 @supports (font-variation-settings: normal) {
   code * { font-family: 'Fira Code VF', monospace; font-size: 95%; }
@@ -13,10 +18,17 @@ code * { font-family: 'Fira Code', monospace;  }
 /*   section.code { font-family: 'Fira Code VF', monospace; } */
 /* } */
 
-*{font-family: 'Fira Sans', sans-serif;}
+* {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 400;
+}
 .bold{font-weight:bold;}
 .italic{font-style: italic;}
 .oblique{font-style: oblique;}
+
+strong {
+  color: indianred;
+}
 
 section {
   background: rgb(255, 247, 239);
@@ -43,10 +55,27 @@ section.big li {
   font-size: 1.2rem;
 }
 
+section.small-text ul, 
+section.small-text ol, 
+section.small-text p {
+  font-size: 0.8rem;
+}
+section.small-text ul {
+  padding-left: 1rem;
+}
+
+section.center {
+  text-align: center;
+  justify-content: center;
+}
+
 .columns {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1rem;
+}
+.columns h1:first-child, h2:first-child, h3:first-child {
+  margin-top: 0;
 }
 
 .small {
