@@ -35,7 +35,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ---
 
-![bg 65%](../images/ePortfolio-prinzip.png)
+![bg 65%](./images/ePortfolio-prinzip.png)
 
 ---
 
@@ -53,7 +53,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 1. Im ePortfolio **kuratieren** :art:
 
-![bg right fit](../images/ePortfolio-prinzip.png)
+![bg right fit](./images/ePortfolio-prinzip.png)
 
 ---
 
@@ -69,7 +69,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 - Können Verbindungen zu anderen Themen gezogen werden?
 - **Gibt es einen Bezug zum Berufsalltag?**
 
-![bg right ](../images/denker.png)
+![bg right ](./images/denker.png)
 
 ---
 
@@ -79,7 +79,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ## Google Sites
 
-![fit](../images/Google-sites-logo.png)
+![fit](./images/Google-sites-logo.png)
 
 - [Google Sites](https://sites.google.com)
 - [Google Sites Dokumentation](https://support.google.com/sites/answer/6372878?hl=de)

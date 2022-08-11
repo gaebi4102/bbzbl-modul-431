@@ -22,7 +22,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 - Jeder hat ein Lernjournal angelegt
 - Die heutige Ausgangslage wurde eingetragen
 
-![bg right](../images/goals.png)
+![bg right](./images/goals.png)
 
 ---
 

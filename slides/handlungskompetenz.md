@@ -78,7 +78,7 @@ Fertigkeiten, Fähigkeiten, Eigenschaften oder Haltungen, die es ermöglichen, A
 
 ---
 
-![bg fit](images/handlungskompetenz.png)
+![bg fit](./images/handlungskompetenz.png)
 
 ---
 
@@ -108,7 +108,7 @@ Machen Sie sich zum Thema Handlungskompetenz eigene Notizen
 
 Die **Methodenkompetenz** umfasst Fertigkeiten, Kenntnisse und vor allem die Beherrschung und Anwendung verschiedener **allgemein gebräuchlicher**, z.T. auch spezifischer Arbeitsmethoden und Techniken
 
-![bg right](images/Methodenkompetenz.png)
+![bg right](./images/Methodenkompetenz.png)
 
 ---
 
@@ -140,7 +140,7 @@ Die **Methodenkompetenz** umfasst Fertigkeiten, Kenntnisse und vor allem die Beh
 
 </div>
 
-![bg right](images/Fachkompetenz.png)
+![bg right](./images/Fachkompetenz.png)
 
 ---
 
@@ -161,7 +161,7 @@ Die **Methodenkompetenz** umfasst Fertigkeiten, Kenntnisse und vor allem die Beh
 
 Zur Sozialkompetenz zählen **Fähigkeiten, Fertigkeiten und Haltungen**, die es ermöglichen, sich im **Umgang mit den Mitmenschen** sozial angemessen zu verhalten
 
-![bg right](images/Kooperation.png)
+![bg right](./images/Kooperation.png)
 
 ---
 
@@ -185,7 +185,7 @@ Die **Selbstkompetenz** beschreibt die Gesamtheit der verhaltensrelevanten Pers�
 - Fähigkeiten
 - Eigenschaften und Haltungen die den Umgang mit der eigenen Person betreffen
 
-![bg right](images/Selbsttändig.png)
+![bg right](./images/Selbsttändig.png)
 
 ---
 
@@ -213,7 +213,7 @@ Die **Selbstkompetenz** beschreibt die Gesamtheit der verhaltensrelevanten Pers�
 
 # <!-- fit --> Kommunikation
 
-![bg](images/Kommunikation.png)
+![bg](./images/Kommunikation.png)
 
 ---
 
