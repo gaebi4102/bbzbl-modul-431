@@ -7,6 +7,10 @@
   font-family: 'Fira Sans', 'Segoe UI', 'Liberation Sans', 'Helvetica', 'Arial', sans-serif;
 }
 
+body {
+  background-color: #fff;
+}
+
 /* * { font-family: 'Fira', sans-serif;  } */
 code * { font-family: 'Fira Code', monospace;  }
 @supports (font-variation-settings: normal) {
@@ -35,13 +39,16 @@ section {
   justify-content: start;
 }
 section h1 {
-  font-weight: 800;
+  font-weight: 900;
+  letter-spacing: 0.05rem;
+  /* font-stretch: ultra-expanded; */
 }
 section h2 {
   font-weight: 600;
   color: rgb(70, 70, 145);
 }
 
+/* big */
 section.big {
   justify-content: center;
 }
@@ -55,6 +62,28 @@ section.big li {
   font-size: 1.2rem;
 }
 
+/* cover */
+/* section.cover { */
+/*   justify-content: center; */
+/* } */
+/* section.cover h1 { */
+/*   font-size: 3rem; */
+/* } */
+/* section.cover marp-h1 { */
+/*   padding-top: 0; */
+/* } */
+
+/* small */
+.small {
+  font-size: 0.8rem;
+}
+
+/* smaller */
+.smaller {
+  font-size: 0.6rem;
+}
+
+/* small-text */
 section.small-text ul, 
 section.small-text ol, 
 section.small-text p {
@@ -64,11 +93,13 @@ section.small-text ul {
   padding-left: 1rem;
 }
 
+/* center */
 section.center {
   text-align: center;
   justify-content: center;
 }
 
+/* center */
 .columns {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -78,10 +109,3 @@ section.center {
   margin-top: 0;
 }
 
-.small {
-  font-size: 0.8rem;
-}
-
-.smaller {
-  font-size: 0.6rem;
-}

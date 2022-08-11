@@ -6,10 +6,11 @@ header: Modul 431 - Woche 1
 footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 ---
 
+<!-- _class: cover -->
+
 # Modul 431
 # <!--fit--> Woche 1
-
-### Lukas Hodel
+Lukas Hodel
 
 ---
 
@@ -56,10 +57,10 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 - Ich weiss in welchen Wochen es **welche Leistungsbewertungen** gibt
 - Ich kenne die **[Modulwebseite](https://codingluke.github.io/bbzbl-modul-431)**
-- Ich weiss, wo ich alle [Bewertungskriterien](https://codingluke.github.id/bbzbl-modul-431/docs/beurteilungen) der Abgaben nachschlagen kann
-- Ich kann die [4 Kompetenzen der Handlungskompetenz](https://codingluke.github.id/bbzbl-modul-431/docs/themen/handlungskompetenz#5-kompetenzen) aufzählen
+- Ich weiss, wo ich alle [Bewertungskriterien](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen) der Abgaben nachschlagen kann
+- Ich kann die [4 Kompetenzen der Handlungskompetenz](https://codingluke.github.io/bbzbl-modul-431/docs/themen/handlungskompetenz#4-kompetenzen) aufzählen
 - Ich **weiss, was ein ePortfolio ist** und habe erste Notizen für mein ePortfolio festgehalten
-- Ich habe den **erste Lernjournal Eintrag** geschrieben
+- Ich habe den **ersten Lernjournal-Eintrag** geschrieben
 
 ---
 
