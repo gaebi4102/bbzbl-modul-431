@@ -21,8 +21,8 @@ import LiteYouTubeEmbed from 'react-lite-youtube-embed';
 
 ## Einführung in Docusaurus
 
-:::note
-- Bitte wählt diese Methode nur, wenn ihr euch sicher fühlt!
+:::warning
+- Bitte wählt diese Methode nur, wenn ihr euch **sicher fühlt**!
 :::
 
 - [Zur webseite](https://docusaurus.io/)

@@ -59,7 +59,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Modul 404',
+        title: 'Modul 431',
         logo: {
           alt: 'BBZBL Logo',
           src: 'img/bbzbl-logo.png',
