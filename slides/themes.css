@@ -34,8 +34,13 @@ strong {
   color: indianred;
 }
 
+footer {
+  width: 100%;
+}
+
 section {
-  background: rgb(255, 247, 239);
+  /* background: rgb(255, 247, 239); */
+  background: white;
   justify-content: start;
 }
 section h1 {
@@ -46,6 +51,11 @@ section h1 {
 section h2 {
   font-weight: 600;
   color: rgb(70, 70, 145);
+}
+section h1,
+section h2,
+section h3 {
+  color:  #34495e  ;
 }
 
 /* big */

@@ -11,8 +11,6 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 # Modul 431
 # <!--fit--> ePortfolio
 
-### Lukas Hodel
-
 ---
 
 ![bg](http://farm6.static.flickr.com/5299/5509366873_7569248504_z.jpg)
