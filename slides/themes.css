@@ -88,6 +88,10 @@ section.big li {
   font-size: 0.8rem;
 }
 
+.right {
+  float: right;
+}
+
 /* smaller */
 .smaller {
   font-size: 0.6rem;

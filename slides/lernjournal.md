@@ -11,8 +11,6 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 # Modul 431
 # <!--fit--> Lernjournal
 
-### Lukas Hodel
-
 ---
 
 # Lernziele

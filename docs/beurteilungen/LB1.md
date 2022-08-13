@@ -15,17 +15,17 @@ Partnerarbeit| Woche 5 | 12.5%
 
 * [x] Dateiname für Speicherung eingehalten?
 * [x] Kopf- und Fusszeile vorhanden?
-* [x] Ist die Arbeit detailliert genug?
 * [x] Korrekte Rechtschreibung
-* [x] Wurde berücksichtigt, dass keine produktspezifischen Informationen verwendet wurden?
-* [x] Wurden (genügend) Aussagen zur Planung der Präsentation genannt?
-* [x] Wurden (genügend) Aussagen zur Gestaltung der Präsentation genannt?
-* [x] Wurden (genügend) Aussagen zum Präsentationsablauf genannt?
-* [x] Wurden (genügend) Aussagen zum Präsentationsstil genannt?
-* [x] Wurden (genügend) Aussagen zum Lampenfieber genannt?
-* [x] Gestaltung des Dokuments, Einheitlichkeit z.B. Einzüge, Absätze
+* [x] Keine produktspezifischen Informationen
+* [x] Genügend Aussagen zur Planung 
+* [x] Genügend Aussagen zur Gestaltung
+* [x] Genügend Aussagen zum Präsentationsablauf 
+* [x] Genügend Aussagen zum Präsentationsstil
+* [x] Genügend Aussagen zum Lampenfieber
+* [x] Gestaltung des Dokuments ist Einheitlich
+   - z.B. Einzüge, Absätze, Schriftart und Grösse
 * [x] Gesamteindruck
-* [x] Quellenangaben ersichtlich
+* [x] Quellenangaben sind ersichtlich
 
 ## Bewertung
 
