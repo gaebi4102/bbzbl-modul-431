@@ -69,9 +69,9 @@ const config = {
             type: 'doc',
             docId: 'index',
             position: 'left',
-            label: 'Themen',
+            label: 'Unterlagen',
           },
-          {to: '/slides/', label: 'Slides', position: 'left'},
+          {to: '/slides/', label: 'Präsentationen', position: 'left'},
           {
             href: 'https://github.com/codingluke/bbzbl-modul-431',
             label: 'GitHub',

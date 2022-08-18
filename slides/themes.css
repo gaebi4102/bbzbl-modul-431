@@ -57,6 +57,10 @@ section h2,
 section h3 {
   color:  #34495e  ;
 }
+section h1 a
+{
+  float: right;
+}
 
 /* big */
 section.big {

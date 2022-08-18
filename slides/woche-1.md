@@ -8,7 +8,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 <!-- _class: cover -->
 
-# Modul 431
+# Modul 431 [![h:120px](./images/qrcode-modulidentifikation.svg)](https://codingluke.github.io/bbzbl-modul-431/docs/)
 # <!--fit--> Woche 1
 
 ---
@@ -27,18 +27,18 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 - Kennenlernen
 - Lernziele
-- Modulbeschrieb
+- Modulübersicht
 - Quartalsplan
-- Lernjournal
+- ePortfolio
 
 </div><div>
 
 ## Lektionen **3 + 4**
 
+- ePortfolio beginnen
 - Handlungskompetenz
-- Arbeitsauftrag 1
-- Arbeitsauftrag 2
-- ePortfolio
+  - _erster ePortfolio Eintrag_
+- Lernjournal
 
 </div></div>
 
@@ -47,6 +47,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 <!-- _class: big -->
 
 # Kennenlernen
+# <!--fit--> :accordion: :guitar: :climbing: :runner: :lotus_position: :family_man_woman_girl:  
 
 ---
 
@@ -67,11 +68,40 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ---
 
-# Modulthemen
+# Modulübersicht [![w:60px](./images/qrcode-themen.svg)](https://codingluke.github.io/bbzbl-modul-431/docs/themen/)
 
-- Lernjournal
-- Handlungskompetenz
 - ePortfolio
+- Handlungskompetenz
 - Präsentationstechniken
 - Kreativitätstechniken
 - Projektmanagement
+- Lernjournal
+
+---
+
+# Quartalsplan [![w:60px](./images/qrcode-lektionen.svg)](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/)
+
+<div style="font-size: 1rem">
+
+||Woche | Datum | Thema | Leistungsbewertung
+:---:|:---:|:---:|:---|:---
+:point_right:|[Woche&nbsp;1](./woche-1.md) | 19.08.2022 | Einleitung / [ePortfolio](../themen/eportfolio.md) / [Handlungskompetenz](../themen/handlungskompetenz.md) / [Lernjournal](../themen/lernjournal.md) | 
+||Woche&nbsp;2 | 26.08.2022 | IPERKA / Präsentationstechniken und Präsentationskonzept | 
+||Woche&nbsp;3 | 02.09.2022 | Tipps zur Präsentation / Erarbeitung der Präsentation | 
+||Woche&nbsp;4 | 09.09.2022 | Kreativitäts-Techniken | 
+||**Woche&nbsp;5** | **16.09.2022** | Projektmanagement Teil1 | [**LB1**](../beurteilungen/LB1.md) Präsentationskonzept abgeben
+||Woche&nbsp;6 | 23.09.2022 | Projektmanagement Teil2 | 
+||**Woche&nbsp;7** | **30.09.2022** | **Präsentationen / PM Test** | [**LB2**](../beurteilungen/LB2.md) Präsentation<br/>[**LB3**](../beurteilungen/LB3.md) Projektmanagement
+ ||| _07.10.2022_<br/>_14.10.2022_| _Herbstferien_ :roller_coaster: :ferris_wheel: | 
+||Woche&nbsp;8 | 21.10.2022 | EPortfolio bearbeiten | 
+||**Woche&nbsp;9** | **28.10.2022** | Präsentation und Abgabe des ePortfolios | [**LB4**](../beurteilungen/LB4.md) Abgabe ePortfolio
+
+</div>
+
+---
+
+# Weitere Präsentationen
+
+- [ePortfolio](https://codingluke.github.io/bbzbl-modul-431/slides/eportfolio)
+- [Handlungskompetenz](https://codingluke.github.io/bbzbl-modul-431/slides/handlungskompetenz)
+- [Lernjournal](https://codingluke.github.io/bbzbl-modul-431/slides/lernjournal)
