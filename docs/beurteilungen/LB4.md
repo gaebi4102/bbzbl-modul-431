@@ -2,25 +2,25 @@
 
 Ein ePortfolio ist eine **selektiv** und **reflektiert** zusammengestellte, **kommmentierte Sammlung** von "Illustrationen" verschiedenster Art, die die Arbeit und den Fortschritt der Autor\*in in **verschiedenen Kontexten** und über eine **längere Zeitspanne** dokumentiert.
 
-**Form**|**Abgabe**|**Gewicht**
-:---|:---:|---:
+Form         | Abgabe                | Gewicht
+:---         | :---:                 | ---:
 Einzelarbeit | Woche 10 / 21.01.2022 | 50%
 
 ## Auftrag
 
-* Das **ePortfolio** wird **während den Lektionen** fortlaufend erstellt und erweitert
-* **Teil 1 (3/4)**: Das ePortfolio ist der Lehrperson zugänglich und wird bewertet
-* **Teil 2 (1/4)**: Das ePortfolio wird der Klasse präsentiert
+- Das **ePortfolio** wird **während den Lektionen** fortlaufend erstellt und erweitert
+- **Teil 1 (3/4)**: Das ePortfolio ist der Lehrperson zugänglich und wird bewertet
+- **Teil 2 (1/4)**: Das ePortfolio wird der Klasse präsentiert
 
 ## Inhalt
 
-* Gelerntes miteinander verbinden
-* Sammlung von "Illustrationen" verschiedener Art
-* Selektiv
-* **Reflektiert**
-* **Systematisch** zusammengestellt
-* Im Internet zugänglich für individuelle Personen
-* Sinnvoll strukturiert
+- Gelerntes miteinander verbinden
+- Sammlung von "Illustrationen" verschiedener Art
+- Selektiv
+- **Reflektiert**
+- **Systematisch** zusammengestellt
+- Im Internet zugänglich für individuelle Personen
+- Sinnvoll strukturiert
 
 :::note Aber vorsicht!
 - Ein ePortfolio ist **kein Notizbuch**.
@@ -30,52 +30,52 @@ Einzelarbeit | Woche 10 / 21.01.2022 | 50%
 
 ### Vollständigkeit
 
-* [x] Deckt **alle Themen** des Moduls ab
-* [x] Beinhaltet einen **Praxisbezug**
-* [x] Beinhaltet das **Lernjournal**
+- [x] Deckt **alle Themen** des Moduls ab
+- [x] Beinhaltet einen **Praxisbezug**
+- [x] Beinhaltet das **Lernjournal**
 
 ## Bewertungskriterien
 
 ### 1. Vollständiger Unterrichtsbezug
 
-* Einträge zum ePortfolio
-* Einträge zur Handlungskompetenz
-* Einträge zu Modellen der vollständigen Handlung (z.B. IPERKA)
-* Einträge zu Kreativitätstechniken
-* Einträge zu Präsentationstechniken
-* Einträge zum Thema Projektmanagement
+- Einträge zum ePortfolio
+- Einträge zur Handlungskompetenz
+- Einträge zu Modellen der vollständigen Handlung (z.B. IPERKA)
+- Einträge zu Kreativitätstechniken
+- Einträge zu Präsentationstechniken
+- Einträge zum Thema Projektmanagement
 
 **10 Punkte**
 
 ### 2. Verknüpfungen aufzeigen
 
-* Verknüpfungen bzw. Verbindungen zwischen den Themen, Reflexionen, Praxis oder anderen Modulen können aufgezeigt werden
+- Verknüpfungen bzw. Verbindungen zwischen den Themen, Reflexionen, Praxis oder anderen Modulen können aufgezeigt werden
 
 **4 Punkte**
 
 ### 3. Praxistransfer
 
-* Sie zeigen zu einem Themenbereich ein dokumentiertes Beispiel auf
+- Sie zeigen zu einem Themenbereich ein dokumentiertes Beispiel auf
 
 **4 Punkte**
 
 ### 4. Reflexionen / Erkenntnisse
 
-* Reflexionen zu den Einträgen bzw. Belegen aus Punkt 1 sind vorhanden (die Reflexion des eigenen Lehrens und Lernens ist dokumentiert)
-* Die Arbeit wird als Fazit zusammengefasst (Gesamtreflexion)
+- Reflexionen zu den Einträgen bzw. Belegen aus Punkt 1 sind vorhanden (die Reflexion des eigenen Lehrens und Lernens ist dokumentiert)
+- Die Arbeit wird als Fazit zusammengefasst (Gesamtreflexion)
 
 **13 Punkte**
 
 ### 5. Darstellung
 
-* Das ePortfolio ist sinnvoll strukturiert, die Darstellung ist übersichtlich und lesefreundlich
-* Das ePortfolio wurde mit einem sinnvollen Instrument umgesetzt
+- Das ePortfolio ist sinnvoll strukturiert, die Darstellung ist übersichtlich und lesefreundlich
+- Das ePortfolio wurde mit einem sinnvollen Instrument umgesetzt
 
 **4 Punkte**
 
 ### 6. Gesamteindruck 
 
-* Das ePortfolio stellt ein komplettes Ergebnis dar
-* Der Arbeitseinsatz (Motivation) ist ersichtlich
+- Das ePortfolio stellt ein komplettes Ergebnis dar
+- Der Arbeitseinsatz (Motivation) ist ersichtlich
 
 **10 Punkte**

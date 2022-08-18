@@ -10,7 +10,6 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 # Modul 431
 # <!--fit--> Woche 1
-Lukas Hodel
 
 ---
 
@@ -64,7 +63,7 @@ Lukas Hodel
 
 ---
 
-![bg 65%](./images/missverständnis-baum.jpg)
+![bg 65%](./images/missverständnis-baum.jpg)
 
 ---
 
