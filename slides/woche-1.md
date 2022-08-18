@@ -63,7 +63,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ---
 
-![bg 65%](./images/missverständnis-baum.jpg)
+![bg 65%](./images/missverstaendnis-baum.jpg)
 
 ---
 
