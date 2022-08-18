@@ -1,21 +1,18 @@
+---
+sidebar_position: 2
+---
 import LiteYouTubeEmbed from 'react-lite-youtube-embed';
 
 # Handlungskompetenz
 
-:::info
-Die Seiten sind extra nicht gefüllt. Damit Ihr bei eurem ePortfolio eine **eigenständige Struktur** erstellt und nicht in Versuchung gerät hier alles zu kopieren ;)
+> "Handlungskompetenz wird verstanden als die Bereitschaft und Befähigung des Einzelnen, sich in beruflichen, gesellschatlichen und privaten Situationen sachgerecht, durchdacht sowie individuell und sozial verantwortlich zu verhalten. Handlungskompetenz entfaltet sich in den Dimensionen von **Fachkompetenz**, **Selbstkompetenz** und **Sozialkompetenz**."
+> - Kultusministerkonferenz (KMK), 23. September 2011
+
+:::note Hinweis
+Die **Methodenkompetenz** ist in dem oberen Zitat nicht enthalten. Es handelt sich um die Deutsche Kultusministerkonferenz. In der Schweiz wird die **Methodenkompetenz** dazugezählt.
 :::
 
 ## 4 Kompetenzen der Handlungskompetenz
-
-:::note
-diese 4 Kompetenzen ergeben zusammen die [Handlungskompetenz](pathname:///slides/handlungskompetenz)
-:::
-
-- Methodenkompetenz
-- Sozialkompetenz
-- Fachkompetenz
-- Selbstkompetenz
 
 ![](../img/handlungskompetenz.png)
 

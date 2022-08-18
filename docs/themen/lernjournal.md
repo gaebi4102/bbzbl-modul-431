@@ -1,3 +1,6 @@
+---
+sidebar_position: 3
+---
 import LiteYouTubeEmbed from 'react-lite-youtube-embed';
 
 # Lernjournal
