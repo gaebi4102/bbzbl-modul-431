@@ -6,12 +6,10 @@ header: Modul 431 - Handlungskompetenz
 footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 ---
 
-<!-- _class: big -->
+<!-- _class: cover -->
 
-# Modul 431
+# Modul 431 [![h:120px](./images/qrcode-handlungskompetenz.svg)](https://codingluke.github.io/bbzbl-modul-431/docs/themen/handlungskompetenz)
 # <!--fit--> Handlungskompetenz
-
-### Lukas Hodel
 
 ---
 

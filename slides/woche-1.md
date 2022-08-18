@@ -8,7 +8,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 <!-- _class: cover -->
 
-# Modul 431 [![h:120px](./images/qrcode-modulidentifikation.svg)](https://codingluke.github.io/bbzbl-modul-431/docs/)
+# Modul 431 [![h:120px](./images/qrcode-woche1.svg)](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/woche-1)
 # <!--fit--> Woche 1
 
 ---
@@ -69,6 +69,8 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 ---
 
 # Modulübersicht [![w:60px](./images/qrcode-themen.svg)](https://codingluke.github.io/bbzbl-modul-431/docs/themen/)
+
+![bg right fit](./images/kompass.jpg)
 
 - ePortfolio
 - Handlungskompetenz

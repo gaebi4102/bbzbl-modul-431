@@ -6,9 +6,9 @@ header: Modul 431 - Lernjournal
 footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 ---
 
-<!-- _class: big -->
+<!-- _class: cover -->
 
-# Modul 431
+# Modul 431 [![h:120px](./images/qrcode-lernjournal.svg)](https://codingluke.github.io/bbzbl-modul-431/docs/themen/lernjournal)
 # <!--fit--> Lernjournal
 
 ---
