@@ -33,7 +33,6 @@ iframe {
   width: 100%;
   height: 400px;
 }
-
 @media (max-width:996px) {
   iframe {
     height: 250px;
@@ -43,6 +42,9 @@ iframe {
 article .container {
   padding: 0;
 }
-article .row {
-  margin: var(--ifm-spacing-vertical) calc(var(--ifm-spacing-horizontal) * -1);
+@media (min-width:996px) {
+  article .row {
+    /* margin: var(--ifm-spacing-vertical) calc(var(--ifm-spacing-horizontal) * -1); */
+    margin: calc(var(--ifm-spacing-vertical) * 3) calc(var(--ifm-spacing-horizontal) * -1);
+  }
 }

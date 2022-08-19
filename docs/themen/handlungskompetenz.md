@@ -16,13 +16,13 @@ Die **Methodenkompetenz** ist in dem oberen Zitat nicht enthalten. Es handelt si
 
 ![](../img/handlungskompetenz.png)
 
-## Präsentation
+## :teacher: Präsentation
 
 [:computer: Open in Browser](pathname:///slides/handlungskompetenz) | [:floppy_disk: download PDF](pathname:///slides/handlungskompetenz.pdf)
 
 <iframe src="/bbzbl-modul-431/slides/handlungskompetenz" width="100%" height="400px"></iframe>
 
-## Youtube Videos zum Thema
+## :tv: Videos
 
 <div class="container"><div class="row"><div class="col col--6">
 
@@ -46,7 +46,7 @@ Die **Methodenkompetenz** ist in dem oberen Zitat nicht enthalten. Es handelt si
 
 </div></div></div>
 
-## Kommunikation: Zusatz fürs Selbststudium
+### Kommunikation: Zusatz fürs Selbststudium
 
 <div class="container"><div class="row"><div class="col col--6">
 

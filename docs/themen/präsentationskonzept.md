@@ -2,21 +2,25 @@ import LiteYouTubeEmbed from 'react-lite-youtube-embed';
 
 # Präsentationskonzept
 
-## Präsentation
+## :teacher: Präsentation
 
 [:computer: Open in Browser](pathname:///slides/präsentationskonzept) | [:floppy_disk: download PDF](pathname:///slides/präsentationskonzept.pdf)
 
 <iframe src="/bbzbl-modul-431/slides/präsentationskonzept"></iframe>
 
-## Unterlagen
+## :books: Unterlagen
 
-- [:link: Vorlage auf Google Docs](https://docs.google.com/document/d/1q801qPjNKls_0JA0Ng7y2lv-K85w3po9zquc-o3vnIk/edit)
+- [:bangbang: **Vorlage auf Google Docs**](https://docs.google.com/document/d/1q801qPjNKls_0JA0Ng7y2lv-K85w3po9zquc-o3vnIk/edit)
+- Weitere PDFs
+  - [:book: Das ABC der Präsentation](https://drive.google.com/file/d/1S_Rqqi05qTbf3gkcPTZ3j0ll1OrenIa8/view)
+  - [:book: Präsentation mit PowerPoint](https://drive.google.com/file/d/1S_Rqqi05qTbf3gkcPTZ3j0ll1OrenIa8/view)
+  - [:book: Präsentationsregeln](https://drive.google.com/file/d/13zAamK_KvAqFJnR4g1FlBVh8aZSbgMCV/view)
 
-## Videos
+## :tv: Videos zum Selbststudium
 
 <div class="container">
-
 <div class="row"><div class="col">
+<br/>
 
 ### Richtig gute Powerpoint
 Gibt einen sehr guten Überblick worauf man bei einer Präsentation achten muss. Ein guter Start ins Präsentieren. Geht nicht auf Rethorik ein. Kurz und knapp.
@@ -33,7 +37,13 @@ Gibt einen sehr guten Überblick worauf man bei einer Präsentation achten muss.
 
 </div></div>
 
-<div class="row padding-top"><div class="col">
+<div class="row"><div class="col">
+<br/>
+
+### Präsentieren wie Steve Jobs
+**7 Tipps** die Steve Jobs bei seinen Präsentationen verwendet. Diese Tipps sind allgemeingültig. In seinem Fall waren es vor allem Produktpräsentationen.
+
+</div><div class="col">
 
 <LiteYouTubeEmbed
   id="9tR0C93T0hs"
@@ -43,10 +53,77 @@ Gibt einen sehr guten Überblick worauf man bei einer Präsentation achten muss.
   webp
 />
 
+</div></div>
+
+<div class="row"><div class="col">
+<br/>
+
+### Haltung ist wichtig!
+Der Präsentator erzählt primär totaler "non-sense", und zeigt damit auf wie wichtig die Ausstrahlung und Gestikulierung beim Präsentieren ist.
+
 </div><div class="col">
 
-### Präsentieren wie Steve Jobs
-**7 Tipps** die Steve Jobs bei seinen Präsentationen verwendet. Diese Tipps sind allgemeingültig. In seinem Fall waren es vor allem Produktpräsentationen.
+<LiteYouTubeEmbed
+  id="8S0FDjFBj8o"
+  params="autoplay=1&autohide=1&showinfo=0&rel=0"
+  title="Wie man in einem TEDxTalk clever wirkt | Will Stephen | TEDxNewYork "
+  poster="maxresdefault"
+  webp
+/>
+
+</div></div>
+
+<div class="row"><div class="col">
+<br/>
+
+### So präsentiert ein Profi
+In diesem Video geht es vor allem um die **Psychologie während eines Vortrags**. Wie schaffe ich es, dass das Publikum meinen Inhalt auch wirklich verstanden hat. Es ist mit 20 Minuten eher länger und somit aus Zeitgründen für Interessierte in der Freizeit gedacht.
+
+</div><div class="col">
+
+<LiteYouTubeEmbed
+  id="8O7CusRyWC4"
+  params="autoplay=1&autohide=1&showinfo=0&rel=0"
+  title="So präsentiert ein Profi // Matthias Pöhm "
+  poster="maxresdefault"
+  webp
+/>
+
+</div></div>
+
+<div class="row"><div class="col">
+<br/>
+
+### Präsentieren & Referate
+Dieses Video geht vor allem auf die **Struktur eines Vortrags** ein.
+
+</div><div class="col">
+
+<LiteYouTubeEmbed
+  id="cHZFcHaH1JU"
+  params="autoplay=1&autohide=1&showinfo=0&rel=0"
+  title="Präsentieren & Referate - Tipps & Tricks für Vorträge & Präsentationen in Schule, Ausbildung, Uni"
+  poster="maxresdefault"
+  webp
+/>
+
+</div></div>
+
+<div class="row"><div class="col">
+<br/>
+
+### Lampenfieber
+Hier ein paar gute **Tipps gegen das Lampenfieber**. Und nein, ihr müsst nun nicht alle mit einem weissen Kittel präsentieren ;) Am Anfang des Vortrags als Super(wo)man durch das Zimmer fliegen, könnte sicher helfen. 
+
+</div><div class="col">
+
+<LiteYouTubeEmbed
+  id="IVVrG8Rrq7c"
+  params="autoplay=1&autohide=1&showinfo=0&rel=0"
+  title="5 Tipps gegen Lampenfieber!"
+  poster="maxresdefault"
+  webp
+/>
 
 </div></div>
 
