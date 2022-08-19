@@ -7,9 +7,19 @@ Partnerarbeit | Woche 5 | 12.5%
 ## Auftrag
 
 - **Schriftdokument** mit **3-5 Seiten, 12pt**, exklusive Inhaltsverzeichnis, Deckblatt und Bilder
+  - [:link: Vorlage auf Google Docs](https://docs.google.com/document/d/1q801qPjNKls_0JA0Ng7y2lv-K85w3po9zquc-o3vnIk/edit)
 - **Inhalt**: Planung, Gestaltung, Präsentationsablauf, Präsentationsstil, Lampenfieber
-- Laden Sie Ihre Arbeit mit folgender Namensgebung **vor 12:45 am 03.12.2021** auf Google Drive in den Abgabeordner Modul 431
-  - **431\_Praesentationskonzept\_Nachname1\_Nachname2.pdf**
+- **Abgabe**: **Am 16.09.2022 vor 12:45** via Google Drive 
+  - [:file_folder: Abgabeordner Modul 431](https://drive.google.com/drive/folders/1R-JJu43fsbGwz0cRJVh7rnSM_vWPgG1v)
+  - Namensgebung: **431\_Praesentationskonzept\_Nachname1\_Nachname2.pdf**
+
+:::danger Die Abgabe muss:
+- ein PDF sein
+- die Namensgebung **431\_Praesentationskonzept\_Nachname1\_Nachname2.pdf** besitzen
+- sich im Abgabeordner befinden
+- Individuelle Freigaben sind nicht erlaubt!
+:::
+
 
 ## Inhalt
 

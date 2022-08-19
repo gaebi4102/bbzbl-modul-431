@@ -294,6 +294,8 @@ Partnerarbeit<sup>*</sup> | W7 / 17.12.21 | 25%
 - Stellen Sie Ihren Partner vor der Klasse vor
 - **Wie**: Setzen Sie Ihr Präsentationskonzept um
 - Zeit: **max. 7 - 10 Minuten**<sup>\**</sup>
+- [link: Vorlage auf Google Docs](https://docs.google.com/document/d/1q801qPjNKls_0JA0Ng7y2lv-K85w3po9zquc-o3vnIk/edit)
+
 
 
 ## Abgabe

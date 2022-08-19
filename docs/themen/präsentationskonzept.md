@@ -8,6 +8,10 @@ import LiteYouTubeEmbed from 'react-lite-youtube-embed';
 
 <iframe src="/bbzbl-modul-431/slides/präsentationskonzept"></iframe>
 
+## Unterlagen
+
+- [:link: Vorlage auf Google Docs](https://docs.google.com/document/d/1q801qPjNKls_0JA0Ng7y2lv-K85w3po9zquc-o3vnIk/edit)
+
 ## Videos
 
 <div class="container">
