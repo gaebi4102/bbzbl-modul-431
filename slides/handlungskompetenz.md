@@ -153,7 +153,7 @@ _(aus den Bereichen der Methoden-, Sozial- und Selbstkompetenz)_
 
 # **Fa**chkompetenz in eurer Ausbildung
 
-- Modulunterricht gemäss Bidlungsplan
+- Modulunterricht gemäss Bildungsplan
 - Allgemein-bildender Unterricht (ABU)
 - Allgemeine Berufskenntnisse
     - Mathematik
