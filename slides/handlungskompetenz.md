@@ -17,13 +17,19 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 # Handlung
 
-Das **bewusste** ausführen einer Tat <sup>[1](#17)</sup>
+* Das **bewusste** ausführen einer Tat <sup>[1](#17)</sup>
 
 ---
 
-# Kompetenz <sup>[2](#17)</sup>
+<!-- _class: big -->
 
-**Sachverstand; Fähigkeiten**
+# Kompetenz
+
+---
+
+# Kompetenz 
+
+**Sachverstand; Fähigkeiten** <sup>[2](#17)</sup>
 
 Fertigkeiten, Fähigkeiten, Eigenschaften oder Haltungen, die es ermöglichen, Anforderungen in komplexen Situationen erfolgreich und effiziert zu bewältigen
 
@@ -47,8 +53,7 @@ Fertigkeiten, Fähigkeiten, Eigenschaften oder Haltungen, die es ermöglichen, A
 
 ---
 
-
-# Kompetenz <sup>[2](#17)</sup>
+# Kompetenz 
 
 <div class="columns small"> <div>
 
@@ -82,21 +87,21 @@ Fertigkeiten, Fähigkeiten, Eigenschaften oder Haltungen, die es ermöglichen, A
 
 # Arbeitsauftrag 1 :pencil:
 
-Machen Sie sich zum Thema Handlungskompetenz eigene Notizen
+Machen Sie sich zum **Thema Handlungskompetenz** eigene Notizen
 <br>
 <div class="columns small"> <div>
 
-- Welche Arbeitsmethoden kennen Sie?
-- Was sind Ihre Stärken und Schwächen in Sozial- und Selbstkompetenz?
-- Welche Fachkompetenz zum Thema Informatik besitzen Sie bereits?
+- Welche **Arbeitsmethoden** kennen Sie?
+- Was sind Ihre **Stärken und Schwächen** in **Sozial- und Selbstkompetenz**?
+- Welche **Fachkompetenz zum Thema Informatik** besitzen Sie bereits?
 
 </div><div>
 
-- **Dauer:** 10 Minuten
-- **Sozialform:** Einzelarbeit
-- **Produkt / Informationen:**
-  - Ihre Notizen für die Besprechung
-  - Ihre Ergebnisse werden anschliessend im Plenum besprochen
+- Dauer: **10 Minuten**
+- Sozialform: **Einzelarbeit**
+- Produkt / Informationen:
+  - **Ihre Notizen** für die Besprechung
+  - Ergebnisse werden **im Plenum besprochen**
 
 </div></div>
 
@@ -133,8 +138,12 @@ Die **Methodenkompetenz** umfasst Fertigkeiten, Kenntnisse und vor allem die Beh
 
 <div class="small">
 
-- Die Fachkompetenz ergibt sich im Wesentlichen aus der **Sachkenntnis (Wissen)** und Fertigkeiten, die für die Bewältigung **bestimmter fachlicher Aufgaben** notwendig sind
-- Es sind aber je nach Tätigkeit unterschiedliche **überfachliche Kompetenzen erforderlich** (aus den Bereichen der Methoden-, Sozial- und Selbstkompetenz)
+Die Fachkompetenz ergibt sich im Wesentlichen aus der **Sachkenntnis (Wissen)** und **Fertigkeiten**, die für die Bewältigung bestimmter **fachlicher Aufgaben notwendig** sind
+
+Je nach Tätigkeit sind unterschiedliche **überfachliche Kompetenzen erforderlich** 
+
+_(aus den Bereichen der Methoden-, Sozial- und Selbstkompetenz)_
+
 
 </div>
 
@@ -157,7 +166,7 @@ Die **Methodenkompetenz** umfasst Fertigkeiten, Kenntnisse und vor allem die Beh
 
 # **So**zialkompetenz
 
-Zur Sozialkompetenz zählen **Fähigkeiten, Fertigkeiten und Haltungen**, die es ermöglichen, sich im **Umgang mit den Mitmenschen** sozial angemessen zu verhalten
+**Fähigkeiten**, **Fertigkeiten** und **Haltungen**, die es ermöglichen, sich im **Umgang mit den Mitmenschen** sozial angemessen zu verhalten
 
 ![bg right](./images/Kooperation.png)
 
@@ -165,23 +174,28 @@ Zur Sozialkompetenz zählen **Fähigkeiten, Fertigkeiten und Haltungen**, die es
 
 # **So**zialkompetentes Verhalten
 
-- Integration in ein Team und harmonische Zusammenarbeit, Hilfsbereitschaft
-- Kooperation, Integration (sich einordnen können)
-- Bewältigen von Konfliktsituationen
-- Kritikbereitschaft, Offenheit
-- Empathie (sich in andere Menschen hineinfühlen können), Sensibilität
-- Gute Umgangsformen
-- Networking (Beziehungsnetze knüpfen und pflegen), Fairness
+- **Integration** in ein Team, **harmonische Zusammenarbeit** und **Hilfsbereitschaft**
+- **Kooperation**, **Integration** _(sich einordnen können)_
+- **Konfliktmanagement** _(Bewältigen von Konfliktsituationen)_
+- **Kritikbereitschaft**, Offenheit
+- **Sensibilität**, **Empathie** _(sich in andere Menschen hineinfühlen können)_,
+- Gute **Umgangsformen** _(Knigge, Gesellschaftsnormen kennen)_
+- **Networking** _(Beziehungsnetze knüpfen und pflegen)_
+- **Fairness**
 
 ---
 
 # **Se**lbstkompetenz
 
-Die **Selbstkompetenz** beschreibt die Gesamtheit der verhaltensrelevanten Persönlichkeitsmerkmale.
+<div style="font-size: 1.7rem;">
+
+Gesamtheit der **verhaltensrelevanten Persönlichkeitsmerkmale**
+
+</div>
 
 - Fertigkeiten
 - Fähigkeiten
-- Eigenschaften und Haltungen die den Umgang mit der eigenen Person betreffen
+- Eigenschaften und Haltungen die den **Umgang mit der eigenen Person betreffen**
 
 ![bg right](./images/Selbsttändig.png)
 
@@ -207,9 +221,9 @@ Die **Selbstkompetenz** beschreibt die Gesamtheit der verhaltensrelevanten Pers�
 </div>
 
 ---
-<!-- _class: big -->
+<!-- _class: big center -->
 
-# <!-- fit --> Kommunikation
+# **Kommunikation**
 
 ![bg](./images/Kommunikation.png)
 

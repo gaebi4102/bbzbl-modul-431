@@ -59,13 +59,14 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 # :brain: Reflexion
 
-- Welche Probleme werden gelöst?
-- Gibt es Situationen in der Vergangenheit bei denen die Technik hilfreich gewesen wäre?
-    - Wenn ja, welche und warum?
-- Gibt es ein Risiko das neue Problem entstehen?
-- Gibt es alternative Möglichkeiten?
-- Können Verbindungen zu anderen Themen gezogen werden?
-- **Gibt es einen Bezug zum Berufsalltag?**
+- Was sind die **gelösten Probleme?**
+
+- Könnten **evt. neue Probleme** entstehen?
+- Gibt es **alternative Möglichkeiten?**
+- Können **Verbindungen zu anderen Themen** gezogen werden?
+- Gibt es einen **Bezug zum Berufsalltag?**
+- Wäre das gelernte in der Vergangenheit hilfreich gewesen?
+    - Wenn ja, wobei und warum?
 
 ![bg right ](./images/denker.png)
 
@@ -97,12 +98,13 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 # :keyboard: In Code
 
+> :point_up: Nur wenn Ihr euch sicher fühlt!
+
 - ![height:20px](https://github.githubassets.com/images/modules/logos_page/Octocat.png) [Github & Markdown](https://www.github.com)
     - [GitHub Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
     - [Docusaurus](https://docusaurus.io) (Die Modulwebseite ist damit gemacht!)
     - ![height:20px](https://jekyllrb.com/img/logo-2x.png) [Jekyll](https://jekyllrb.com/) (Standard von Github)
 - ![height:20px](https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg) [WordPress](https://wordpress.com/de/com-vs-org/) 
-- ![height:20px](https://seeklogo.com/images/D/drupal-logo-AD2AF3310E-seeklogo.com.png) [Drupal](https://www.drupal.org) 
 
 - :hand: HTML von Hand _(nicht zu empfehlen wegen Aufwand)_
 
@@ -112,15 +114,17 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 # :pencil: Notiz
 
-Spontane Wissensablage
+- Spontane Wissensablage
 
-In der Regel **keine Reflexionen** über ihren Inhalt
+- In der Regel **keine Reflexionen** über ihren Inhalt
 
 </div><div>
 
 # **ePortfolio**
 
-**Beinhaltet Reflexionen** über das Thema!
+- Qualitative Wissensablage
+
+- **Beinhaltet Reflexionen** über das Thema!
 
 </div></div>
 
@@ -172,7 +176,7 @@ In der Regel **keine Reflexionen** über ihren Inhalt
 
 ---
 
-# <!-- fit --> :rotating_light: **Auf das muss speziell geachtet werden!** :rotating_light:
+# **:rotating_light: Auf das muss speziell geachtet werden! :rotating_light:**
 
 - **Alle Themen** finden sich wieder
 - Das Portfolio enthält **Bezüge zu Ihrer Berufspraxis**
@@ -181,14 +185,14 @@ In der Regel **keine Reflexionen** über ihren Inhalt
 - Die Themen werden untereinander **verknüpft**
 - Eigene **Reflexion pro Thema**
 - Es existiert ein **Gesamtfazit/Gesamtreflexion**
-- Das Lernjournal kann integriert werden
-- Sinnvolle Gliederung, übersichtliche Darstellung, lesefreundlich
+- Das **Lernjournal** kann integriert werden
+- **Sinnvoll** gegliedert / **übersichtlich** dargestellt / **lesefreundlich**
 
 ---
 
 <div class="columns"><div>
 
-# <!--fit--> :checkered_flag: **Starten Sie jetzt**
+# <!--fit--> :checkered_flag: Starten Sie jetzt
 
 - Suchen Sie sich ein Tool das Ihnen passt
 - Probieren Sie es aus
