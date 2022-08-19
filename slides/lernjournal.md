@@ -47,14 +47,14 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ---
 
-# Aufbauvorschlag
+# Aufbauvorschlag [:link::book:](https://docs.google.com/document/d/1Pa_FThTbr1Dc1gMTN7aRng5iTRFoYsGSLpmtn8qsx4Y/edit)
 
-- Als Aufbauvorschlag existiert **[folgendes Google Docs Dokument](https://docs.google.com/document/d/1Pa_FThTbr1Dc1gMTN7aRng5iTRFoYsGSLpmtn8qsx4Y/edit)**
+- Als Aufbauvorschlag existiert **:book: [folgendes Google Docs Dokument](https://docs.google.com/document/d/1Pa_FThTbr1Dc1gMTN7aRng5iTRFoYsGSLpmtn8qsx4Y/edit)**
 
-- Ihr dürft es gerne mit der **Technologie eurer Wahl** umsetzen
-- Ebenfalls darf der Inhalt erweitert oder abgeändert werden
-- So dürfen neue **Fragen hinzukommen** aber auf **bestehende hinterfragt** werden
-    - Natürlich mit Begründung
+- Gerne auch mit der **Technologie eurer Wahl**
+- Der Inhalt darf erweitert oder abgeändert werden
+- So dürfen **neue Fragen hinzukommen** aber auf **bestehende hinterfragt** werden
+    - :point_up: Natürlich **mit Begründung** :wink:
 
 ---
 
@@ -69,11 +69,15 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 <div class="columns"><div>
 
-# <!--fit--> :checkered_flag: Starten Sie jetzt
+# **Starten Sie jetzt**
 
 - Wählen Sie ein passendes Tool
 - Erstellen Sie die Struktur
 - Verfassen Sie die Ausgangslage für heute
+
+<br/>
+
+> [:link::book: Google Doc Vorlage](https://docs.google.com/document/d/1Pa_FThTbr1Dc1gMTN7aRng5iTRFoYsGSLpmtn8qsx4Y/edit)
 
 </div><div>
 

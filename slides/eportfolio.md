@@ -192,11 +192,16 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 <div class="columns"><div>
 
-# <!--fit--> :checkered_flag: Starten Sie jetzt
+# **Starten Sie jetzt**
 
-- Suchen Sie sich ein Tool das Ihnen passt
-- Probieren Sie es aus
-- Machen Sie erste Einträge
+1. Das Tool auswählen
+1. Probieren Sie es aus
+1. Machen Sie den ersten Eintrag
+    - _z.B. Handlungskompetenz_
+
+<br>
+
+> :bulb: Wenn Sie heute noch nicht fertig werden ist das kein Problem!
 
 </div><div>
 
