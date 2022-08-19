@@ -33,7 +33,7 @@ Gibt einen sehr guten Überblick worauf man bei einer Präsentation achten muss.
 
 </div></div>
 
-<div class="row"><div class="col">
+<div class="row padding-top"><div class="col">
 
 <LiteYouTubeEmbed
   id="9tR0C93T0hs"
