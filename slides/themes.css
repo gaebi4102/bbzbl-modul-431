@@ -31,7 +31,13 @@ section.code { font-family: 'Fira Code', monospace;  }
 .oblique{font-style: oblique;}
 
 strong {
-  color: indianred;
+  color: #7b241c;
+  text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 10px  #7b241c,
+      0 0 100px  #3498db;
 }
 
 footer {
@@ -46,7 +52,6 @@ section {
 section h1 {
   font-weight: 900;
   letter-spacing: 0.05rem;
-  /* font-stretch: ultra-expanded; */
 }
 section h2 {
   font-weight: 600;
@@ -55,12 +60,34 @@ section h2 {
 section h1,
 section h2,
 section h3 {
-  color:  #34495e  ;
+  color:  #34495e;
+}
+section h1 strong,
+section h2 strong,
+section h3 strong
+{
+  color:  #2874a6 ;
+  text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 10px  #3498db,
+      0 0 100px  #3498db;
 }
 section h1 a
 {
   float: right;
 }
+section strong a {
+  text-shadow: none;
+}
+section a,
+section a:visited{
+  color: darkblue;
+}
+/* section a { */
+/*   color: */
+/* } */
 
 /* big */
 section.big {

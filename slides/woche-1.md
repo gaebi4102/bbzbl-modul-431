@@ -56,7 +56,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 - Ich weiss, was mich im [Modul 431](https://codingluke.github.io/bbzbl-modul-431/docs/) erwartet
 
 - Ich weiss in welchen Wochen es **welche Leistungsbewertungen** gibt
-- Ich kenne die **[Modulwebseite](https://codingluke.github.io/bbzbl-modul-431)**
+- Ich kenne die [Modulwebseite](https://codingluke.github.io/bbzbl-modul-431)
 - Ich weiss, wo ich alle [Bewertungskriterien](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen) der Abgaben nachschlagen kann
 - Ich kann die [4 Kompetenzen der Handlungskompetenz](https://codingluke.github.io/bbzbl-modul-431/docs/themen/handlungskompetenz#4-kompetenzen) aufzählen
 - Ich **weiss, was ein ePortfolio ist** und habe erste Notizen für mein ePortfolio festgehalten
