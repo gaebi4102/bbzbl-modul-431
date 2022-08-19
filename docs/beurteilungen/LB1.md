@@ -53,4 +53,3 @@ Partnerarbeit | Woche 5 | 12.5%
 - [x] Abzug für Mängel (Inhalt, Rechtschreibung, Gesamteindruck, Quellen, ...) **(?)**
 
 **12.5 Punkte**
-
