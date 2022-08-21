@@ -1,7 +1,6 @@
 ---
 sidebar_position: 2
 ---
-import LiteYouTubeEmbed from 'react-lite-youtube-embed';
 
 # Handlungskompetenz
 
@@ -9,7 +8,9 @@ import LiteYouTubeEmbed from 'react-lite-youtube-embed';
 > - Kultusministerkonferenz (KMK), 23. September 2011
 
 :::note Hinweis
+
 Die **Methodenkompetenz** ist in dem oberen Zitat nicht enthalten. Es handelt sich um die Deutsche Kultusministerkonferenz. In der Schweiz wird die **Methodenkompetenz** dazugezählt.
+
 :::
 
 ## 4 Kompetenzen der Handlungskompetenz
@@ -24,48 +25,34 @@ Die **Methodenkompetenz** ist in dem oberen Zitat nicht enthalten. Es handelt si
 
 ## :tv: Videos
 
-<div class="container"><div class="row"><div class="col col--6">
+<div class="grid">
+<div class="row"><div class="col col--6">
 
-<LiteYouTubeEmbed
-  id="JDiAzLe_pMM"
-  params="autoplay=1&autohide=1&showinfo=0&rel=0"
-  title="Docusaurus: Documentation Made Easy"
-  poster="maxresdefault"
-  webp
-/>
+```mdx-code-block
+<YouTube id="JDiAzLe_pMM" title="Docusaurus: Documentation Made Easy" />
+```
 
 </div><div class="col col--6">
 
-<LiteYouTubeEmbed
-  id="Qdx0fgk-sjg"
-  params="autoplay=1&autohide=1&showinfo=0&rel=0"
-  title="Docusaurus: Documentation Made Easy"
-  poster="maxresdefault"
-  webp
-/>
+```mdx-code-block
+<YouTube id="Qdx0fgk-sjg" title="Docusaurus: Documentation Made Easy" />
+```
 
-</div></div></div>
+</div></div>
 
 ### Kommunikation: Zusatz fürs Selbststudium
 
-<div class="container"><div class="row"><div class="col col--6">
+<div class="row"><div class="col col--6">
 
-<LiteYouTubeEmbed
-  id="9VJn1cPbf1A"
-  params="autoplay=1&autohide=1&showinfo=0&rel=0"
-  title="Docusaurus: Documentation Made Easy"
-  poster="maxresdefault"
-  webp
-/>
+```mdx-code-block
+<YouTube id="9VJn1cPbf1A" title="Docusaurus: Documentation Made Easy" />
+```
 
 </div><div class="col col--6">
 
-<LiteYouTubeEmbed
-  id="z4EFDWgVzyw"
-  params="autoplay=1&autohide=1&showinfo=0&rel=0"
-  title="Docusaurus: Documentation Made Easy"
-  poster="maxresdefault"
-  webp
-/>
+```mdx-code-block
+<YouTube id="z4EFDWgVzyw" title="Docusaurus: Documentation Made Easy" />
+```
 
-</div></div></div>
+</div></div>
+</div>

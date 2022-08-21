@@ -39,12 +39,19 @@ iframe {
   }
 }
 
-article .container {
-  padding: 0;
+.grid .row {
+  margin-bottom: 2rem;
+  margin-top: 2rem;
 }
+.grid .row:first-child{
+  margin-top: 0;
+}
+.grid .row:last-child {
+  margin-bottom: 0;
+}
+
 @media (min-width:996px) {
-  article .row {
-    /* margin: var(--ifm-spacing-vertical) calc(var(--ifm-spacing-horizontal) * -1); */
-    margin: calc(var(--ifm-spacing-vertical) * 3) calc(var(--ifm-spacing-horizontal) * -1);
+  .grid .row .col:first-child {
+    padding-top: 1rem;
   }
 }

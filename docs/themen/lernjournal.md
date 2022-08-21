@@ -1,7 +1,6 @@
 ---
 sidebar_position: 3
 ---
-import LiteYouTubeEmbed from 'react-lite-youtube-embed';
 
 # Lernjournal
 
@@ -30,10 +29,10 @@ Verwendet am besten folgende Vorlage. Die _gelben_ Texte in der Vorlage, dürft 
 
 ## :tv: Videos
 
-<LiteYouTubeEmbed
+```mdx-code-block
+<YouTube
   id="R2zze7McWvY"
-  params="autoplay=1&autohide=1&showinfo=0&rel=0"
   title="DU setzt deinen Fokus falsch - mit Lerntagebuch besser fokussieren und konzentrieren StudentenTipps"
-  poster="maxresdefault"
   webp
 />
+```
