@@ -39,19 +39,20 @@ iframe {
   }
 }
 
-.grid .row {
-  margin-bottom: 2rem;
-  margin-top: 2rem;
-}
-.grid .row:first-child{
-  margin-top: 0;
-}
-.grid .row:last-child {
-  margin-bottom: 0;
-}
-
 @media (min-width:996px) {
-  .grid .row .col:first-child {
-    padding-top: 1rem;
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 2rem;
+  }
+  .grid.three {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .grid.four {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+  .grid .center {
+    align-self: center;
   }
 }
+

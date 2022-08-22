@@ -25,14 +25,13 @@ Die **Methodenkompetenz** ist in dem oberen Zitat nicht enthalten. Es handelt si
 
 ## :tv: Videos
 
-<div class="grid">
-<div class="row"><div class="col col--6">
+<div class="grid"><div>
 
 ```mdx-code-block
 <YouTube id="JDiAzLe_pMM" title="Docusaurus: Documentation Made Easy" />
 ```
 
-</div><div class="col col--6">
+</div><div>
 
 ```mdx-code-block
 <YouTube id="Qdx0fgk-sjg" title="Docusaurus: Documentation Made Easy" />
@@ -42,17 +41,16 @@ Die **Methodenkompetenz** ist in dem oberen Zitat nicht enthalten. Es handelt si
 
 ### Kommunikation: Zusatz fürs Selbststudium
 
-<div class="row"><div class="col col--6">
+<div class="grid"><div>
 
 ```mdx-code-block
 <YouTube id="9VJn1cPbf1A" title="Docusaurus: Documentation Made Easy" />
 ```
 
-</div><div class="col col--6">
+</div><div>
 
 ```mdx-code-block
 <YouTube id="z4EFDWgVzyw" title="Docusaurus: Documentation Made Easy" />
 ```
 
 </div></div>
-</div>
