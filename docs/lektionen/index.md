@@ -2,8 +2,8 @@
 
 ||Woche | Datum | Thema | Leistungsbewertung
 :---:|:---:|:---:|:---|:---
-:point_right:|[Woche&nbsp;1](./woche-1.md) | 19.08.2022 | Einleitung<br/> [ePortfolio](../themen/eportfolio.md) / [Handlungskompetenz](../themen/handlungskompetenz.md) / [Lernjournal](../themen/lernjournal.md) | 
-||Woche&nbsp;2 | 26.08.2022 | IPERKA<br/>Präsentationstechniken und Präsentationskonzept | 
+||[Woche&nbsp;1](./woche-1.md) | 19.08.2022 | Einleitung<br/> [ePortfolio](../themen/eportfolio.md) / [Handlungskompetenz](../themen/handlungskompetenz.md) / [Lernjournal](../themen/lernjournal.md) | 
+:point_right: |[Woche&nbsp;2](./woche-2.md) | 26.08.2022 | IPERKA<br/>Präsentationstechniken und Präsentationskonzept | 
 ||Woche&nbsp;3 | 02.09.2022 | Tipps zur Präsentation<br/>Erarbeitung der Präsentation | 
 ||Woche&nbsp;4 | 09.09.2022 | Kreativitäts-Techniken | 
 ||**Woche&nbsp;5** | **16.09.2022** | Projektmanagement Teil1 | [**LB1**](../beurteilungen/LB1.md) Präsentationskonzept abgeben

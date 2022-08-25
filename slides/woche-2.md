@@ -36,8 +36,8 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 - Leistungsbeleg 1 
   - besprechen
-  - bearbeiten
 - ePortfolio 
+  - Handlungskompetenz, IPERKA, Praesentationskonzept
 - Arbeiten am Lernjournal
 
 </div></div>
@@ -53,3 +53,9 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
   - Wurde angefangen zu bearbeiten
 - **Handlungskompetenz** ist im ePortfolio festgehalten
 
+---
+
+# Weitere Präsentationen
+
+- [IPERKA](https://codingluke.github.io/bbzbl-modul-431/slides/iperka)
+- [Präsentationskonzept](https://codingluke.github.io/bbzbl-modul-431/slides/praesentationskonzept)

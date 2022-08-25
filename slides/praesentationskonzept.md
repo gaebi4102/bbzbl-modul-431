@@ -31,12 +31,12 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ![bg right](./images/planen2.jpg)
 
-1. Anlass der Präsentation
-1. Wer ist mein Publikum
-1. Ziel / Nutzen
-1. Zeitpunkt / Ort / Zuschauerzahl
-1. Zeitplan
-1. Hilfsmittel
+- Anlass der Präsentation
+- Wer ist mein Publikum
+- Ziel / Nutzen
+- Zeitpunkt / Ort / Zuschauerzahl
+- Zeitplan
+- Hilfsmittel
 
 ---
 

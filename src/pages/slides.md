@@ -2,7 +2,7 @@
 title: Slides
 ---
 
-# Slides
+# Alle Präsentationen
 
 ## :mechanic: Handlungskompetenz
 
