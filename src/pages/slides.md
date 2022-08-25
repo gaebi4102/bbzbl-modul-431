@@ -6,24 +6,30 @@ title: Slides
 
 ## :mechanic: Handlungskompetenz
 
-[:computer: Open in Browser](pathname:///slides/handlungskompetenz) | [:floppy_disk: download PDF](pathname:///slides/handlungskompetenz.pdf)
+[:computer: Im Browser öffnen](pathname:///slides/handlungskompetenz) | [:floppy_disk: PDF speichern](pathname:///slides/handlungskompetenz.pdf)
 
 <iframe src="/bbzbl-modul-431/slides/handlungskompetenz"></iframe>
 
 ## :artist: ePortfolio
 
-[:computer: Open in Browser](pathname:///slides/eportfolio) | [:floppy_disk: download PDF](pathname:///slides/eportfolio.pdf)
+[:computer: Im Browser öffnen](pathname:///slides/eportfolio) | [:floppy_disk: PDF speichern](pathname:///slides/eportfolio.pdf)
 
 <iframe src="/bbzbl-modul-431/slides/eportfolio"></iframe>
 
 ## :book: Lernjournal
 
-[:computer: Open in Browser](pathname:///slides/lernjournal) | [:floppy_disk: download PDF](pathname:///slides/lernjournal.pdf)
+[:computer: Im Browser öffnen](pathname:///slides/lernjournal) | [:floppy_disk: PDF speichern](pathname:///slides/lernjournal.pdf)
 
 <iframe src="/bbzbl-modul-431/slides/lernjournal"></iframe>
 
 ## :compass: Iperka
 
-[:computer: Open in Browser](pathname:///slides/iperka) | [:floppy_disk: download PDF](pathname:///slides/iperka.pdf)
+[:computer: Im Browser öffnen](pathname:///slides/iperka) | [:floppy_disk: PDF speichern](pathname:///slides/iperka.pdf)
 
 <iframe src="/bbzbl-modul-431/slides/iperka"></iframe>
+
+## :compass: Präsentationskonzept
+
+[:computer: Im Browser öffnen](pathname:///slides/praesentationskonzept) | [:floppy_disk: PDF speichern](pathname:///slides/praesentationskonzept.pdf)
+
+<iframe src="/bbzbl-modul-431/slides/praesentationskonzept"></iframe>

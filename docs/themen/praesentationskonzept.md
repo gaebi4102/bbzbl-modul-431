@@ -2,9 +2,9 @@
 
 ## :teacher: Präsentation
 
-[:computer: Open in Browser](pathname:///slides/präsentationskonzept) | [:floppy_disk: download PDF](pathname:///slides/präsentationskonzept.pdf)
+[:computer: Open in Browser](pathname:///slides/praesentationskonzept) | [:floppy_disk: download PDF](pathname:///slides/praesentationskonzept.pdf)
 
-<iframe src="/bbzbl-modul-431/slides/präsentationskonzept"></iframe>
+<iframe src="/bbzbl-modul-431/slides/praesentationskonzept"></iframe>
 
 ## :books: Unterlagen
 
@@ -19,7 +19,7 @@
 <div class="grid"><div class="center">
 
 ### Richtig gute Powerpoint
-Gibt einen sehr guten Überblick worauf man bei einer Präsentation achten muss. Ein guter Start ins Präsentieren. Geht nicht auf Rethorik ein. Kurz und knapp.
+Gibt einen sehr guten Überblick worauf man bei einer Präsentation achten muss. Ein guter Start ins Präsentieren. Geht nicht auf Rhetorik ein. Kurz und knapp.
 
 </div><div>
 

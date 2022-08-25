@@ -32,12 +32,6 @@ section.code { font-family: 'Fira Code', monospace;  }
 
 strong {
   color: #7b241c;
-  text-shadow:
-      0 0 7px #fff,
-      0 0 10px #fff,
-      0 0 21px #fff,
-      0 0 10px  #7b241c,
-      0 0 100px  #3498db;
 }
 
 footer {
@@ -64,22 +58,18 @@ section h3 {
 }
 section h1 strong,
 section h2 strong,
-section h3 strong
-{
+section h3 strong {
   color:  #2874a6 ;
-  text-shadow:
-      0 0 7px #fff,
-      0 0 10px #fff,
-      0 0 21px #fff,
-      0 0 10px  #3498db,
-      0 0 100px  #3498db;
 }
-section h1 a
-{
+section h1 a {
   float: right;
 }
-section strong a {
-  text-shadow: none;
+section h1 sup a {
+  float: unset;
+}
+section sup a::before, 
+section sup a::after {
+  content: unset;
 }
 section a,
 section a:visited{

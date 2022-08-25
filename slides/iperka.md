@@ -13,7 +13,9 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ---
 
-# Modell der vollständigen Handlung [1]
+<!-- _class: no-float-link -->
+
+# Modell der vollständigen Handlung <sup>[1]</sup>
 
 1. Informieren
 1. Planen
@@ -26,20 +28,21 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ---
 
-# Gemeinsames Brainstorming
+# Gemeinsames Brainstorming 
 
 ![bg right:35% fit](../images/wordcloud.png)
 
 <!-- TODO: neue Links!! -->
 
-Folgende Links führen zu AnswerGarden Fragen
+Folgende Links führen zu [AnswerGarden <sup>![](https://answergarden.ch/favicon.ico)</sup>](https://answergarden.ch)  Fragen
 
-1. [Informieren](https://answergarden.ch/2223075)
-1. [Planen](https://answergarden.ch/2223078)
-1. [Entscheiden](https://answergarden.ch/2223081)
-1. [Realisieren](https://answergarden.ch/2223082)
-1. [Kontrollieren](https://answergarden.ch/2223087)
-1. [Auswerten](https://answergarden.ch/2223089)
+1. [Informieren <sup>![](https://answergarden.ch/favicon.ico)</sup>](https://answergarden.ch/2223075) 
+
+1. [Planen <sup>![](https://answergarden.ch/favicon.ico)</sup>](https://answergarden.ch/2223078)
+1. [Entscheiden <sup>![](https://answergarden.ch/favicon.ico)</sup>](https://answergarden.ch/2223081) 
+1. [Realisieren <sup>![](https://answergarden.ch/favicon.ico)</sup>](https://answergarden.ch/2223082) 
+1. [Kontrollieren <sup>![](https://answergarden.ch/favicon.ico)</sup>](https://answergarden.ch/2223087) 
+1. [Auswerten <sup>![](https://answergarden.ch/favicon.ico)</sup>](https://answergarden.ch/2223089)
 
 ---
 
