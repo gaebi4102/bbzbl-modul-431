@@ -17,12 +17,12 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 # Modell der vollständigen Handlung <sup>[1]</sup>
 
-1. Informieren
-1. Planen
-1. Entscheiden
-1. Realisieren
-1. Kontrollieren
-1. Auswerten
+1) Informieren
+1) Planen
+1) Entscheiden
+1) Realisieren
+1) Kontrollieren
+1) Auswerten
 
 ![bg right:40% fit](./images/iperka-zeitachse.png)
 
