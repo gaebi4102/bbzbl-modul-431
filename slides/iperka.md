@@ -15,22 +15,33 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 <!-- _class: no-float-link -->
 
-# Modell der vollständigen Handlung <sup>[1]</sup>
+# Modell der vollständigen Handlung 
 
-1) Informieren
-1) Planen
-1) Entscheiden
-1) Realisieren
-1) Kontrollieren
-1) Auswerten
+<div class="columns"><div>
 
-![bg right:40% fit](./images/iperka-zeitachse.png)
+## Definition <sup>[1]</sup>
+
+> Es soll der Praxis im Berufsleben entsprechen und den Schülern ermöglichen, **handlungsorientiert** zu lernen um die erworbenen **Handlungskompetenzen** im späteren Berufsleben **selbständig** auf andere Arbeitsprozesse übertragen zu können.
+
+</div><div>
+
+## Die sechs Stufen
+
+1) **Informieren**
+1) **Planen**
+1) **Entscheiden**
+1) **Realisieren**
+1) **Kontrollieren**
+1) **Auswerten**
+
+</div></div>
 
 ---
 
 # Gemeinsames Brainstorming 
 
-![bg right:35% fit](../images/wordcloud.png)
+<!-- ![bg right:35% fit](../images/wordcloud.png) -->
+![bg right:35% fit](./images/iperka-zeitachse.png)
 
 <!-- TODO: neue Links!! -->
 
