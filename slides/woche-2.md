@@ -8,7 +8,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 <!-- _class: cover -->
 
-# Modul 432 [![h:120px](./images/qrcode-woche1.svg)](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/woche-1)
+# Modul 431 [![h:120px](./images/qrcode-woche1.svg)](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/woche-1)
 # <!--fit--> Woche 2
 
 ---
