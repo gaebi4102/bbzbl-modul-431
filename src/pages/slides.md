@@ -4,13 +4,13 @@ title: Slides
 
 # Alle Präsentationen
 
-## :mechanic: Handlungskompetenz
+## :student: Handlungskompetenz
 
 [:computer: Im Browser öffnen](pathname:///slides/handlungskompetenz) | [:floppy_disk: PDF speichern](pathname:///slides/handlungskompetenz.pdf)
 
 <iframe src="/bbzbl-modul-431/slides/handlungskompetenz"></iframe>
 
-## :artist: ePortfolio
+## :smile: ePortfolio
 
 [:computer: Im Browser öffnen](pathname:///slides/eportfolio) | [:floppy_disk: PDF speichern](pathname:///slides/eportfolio.pdf)
 
@@ -28,13 +28,13 @@ title: Slides
 
 <iframe src="/bbzbl-modul-431/slides/iperka"></iframe>
 
-## :compass: Präsentationskonzept
+## :film_projector: Präsentationskonzept
 
 [:computer: Im Browser öffnen](pathname:///slides/praesentationskonzept) | [:floppy_disk: PDF speichern](pathname:///slides/praesentationskonzept.pdf)
 
 <iframe src="/bbzbl-modul-431/slides/praesentationskonzept"></iframe>
 
-## :compass: Kreativitätstechniken
+## :artist: Kreativitätstechniken
 
 [:computer: Im Browser öffnen](pathname:///slides/kreativitaetstechniken) | [:floppy_disk: PDF speichern](pathname:///slides/kreativitaetstechniken.pdf)
 
