@@ -16,7 +16,7 @@ sidebar_position: 3
 
 ## :teacher: Präsentation
 
-[:computer: Open in Browser](pathname:///slides/lernjournal) | [:floppy_disk: download PDF](pathname:///slides/lernjournal.pdf)
+[:computer: Im Browser öffnen](pathname:///slides/lernjournal) | [:floppy_disk: PDF speichern](pathname:///slides/lernjournal.pdf)
 
 <iframe src="/bbzbl-modul-431/slides/lernjournal"></iframe>
 

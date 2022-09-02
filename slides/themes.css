@@ -30,6 +30,23 @@ section.code { font-family: 'Fira Code', monospace;  }
 .italic{font-style: italic;}
 .oblique{font-style: oblique;}
 
+section .sources {
+  position: absolute;
+  bottom: 2rem;
+  font-size: 0.6rem;
+  border-top: 1px solid #eee;
+  padding-top: 0.5rem;
+  width: 87.5%;
+}
+
+section[data-marpit-advanced-background-split="right"] {
+  padding-right: 1rem;
+}
+
+section[data-marpit-advanced-background-split="right"] .sources {
+  width: 83%;
+}
+
 strong {
   color: #7b241c;
 }

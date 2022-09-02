@@ -33,3 +33,9 @@ title: Slides
 [:computer: Im Browser öffnen](pathname:///slides/praesentationskonzept) | [:floppy_disk: PDF speichern](pathname:///slides/praesentationskonzept.pdf)
 
 <iframe src="/bbzbl-modul-431/slides/praesentationskonzept"></iframe>
+
+## :compass: Kreativitätstechniken
+
+[:computer: Im Browser öffnen](pathname:///slides/kreativitaetstechniken) | [:floppy_disk: PDF speichern](pathname:///slides/kreativitaetstechniken.pdf)
+
+<iframe src="/bbzbl-modul-431/slides/kreativitaetstechniken"></iframe>

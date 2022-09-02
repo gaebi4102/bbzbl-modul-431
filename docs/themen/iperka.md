@@ -15,7 +15,7 @@ sidebar_position: 4
 
 ## :teacher: Präsentation
 
-[:computer: Open in Browser](pathname:///slides/iperka) | [:floppy_disk: download PDF](pathname:///slides/iperka.pdf)
+[:computer: Im Browser öffnen](pathname:///slides/iperka) | [:floppy_disk: PDF speichern](pathname:///slides/iperka.pdf)
 
 <iframe src="/bbzbl-modul-431/slides/iperka"></iframe>
 

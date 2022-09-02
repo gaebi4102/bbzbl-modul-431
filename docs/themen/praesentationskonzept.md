@@ -1,8 +1,12 @@
+---
+sidebar_position: 5
+---
+
 # Präsentationskonzept
 
 ## :teacher: Präsentation
 
-[:computer: Open in Browser](pathname:///slides/praesentationskonzept) | [:floppy_disk: download PDF](pathname:///slides/praesentationskonzept.pdf)
+[:computer: Im Browser öffnen](pathname:///slides/praesentationskonzept) | [:floppy_disk: PDF speichern](pathname:///slides/praesentationskonzept.pdf)
 
 <iframe src="/bbzbl-modul-431/slides/praesentationskonzept"></iframe>
 

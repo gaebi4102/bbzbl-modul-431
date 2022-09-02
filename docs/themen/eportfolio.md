@@ -10,7 +10,7 @@ sidebar_position: 1
 
 ## :teacher: Präsentation
 
-[:computer: Open in Browser](pathname:///slides/eportfolio) | [:floppy_disk: download PDF](pathname:///slides/eportfolio.pdf)
+[:computer: Im Browser öffnen](pathname:///slides/eportfolio) | [:floppy_disk: PDF speichern](pathname:///slides/eportfolio.pdf)
 
 <iframe src="/bbzbl-modul-431/slides/eportfolio"></iframe>
 
