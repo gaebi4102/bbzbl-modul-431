@@ -39,7 +39,7 @@ _-- Jonah Lehrer, Imagine! How creativity works_
 
 ---
 
-# Entspannung <sup>\*, \*\*</sup>
+# Entspannung <sup>\*</sup>
 
 - Das Hirn arbeitet immer
 - Bei Entspannung werden weitere Regionen des Hirns aktiviert
@@ -53,7 +53,7 @@ _-- Jonah Lehrer, Imagine! How creativity works_
 <div class="sources">
 
 \* Jonah Lehrer, Imagine! How creativity works
-\*\* Bild von [eurovps.com](https://www.eurovps.com/blog/archimedes/)
+Bild von [eurovps.com](https://www.eurovps.com/blog/archimedes/)
 
 </div>
 
@@ -141,59 +141,53 @@ Sie sind kostenlos und es gibt viele etablierte Methoden!
 
 ## 👉 **Direkt ins ePortfolio einfliessen lassen!**
 
+<!-- --- -->
+
+<!-- # Arbeitsauftrag 2 :pencil: -->
+
+<!-- <div class="columns"><div> -->
+
+<!-- Sehen Sie sich das folgende Video an, kommen Sie auf eine Lösung? -->
+
+<!-- - **6-3-5**: 6x2 = 12 Minuten + 8 Minuten Wahl -->
+<!-- - **Brainwriting Pool**: 10 Minuten aufschreiben, 10 Minuten vorstellen und Wahl  -->
+<!-- - **Strukturlegetechnik**: 10 Minuten probieren, 10 Minuten Wahl -->
+
+<!-- Sind die Techniken geeignet? -->
+
+<!-- </div><div> -->
+
+<!-- - Dauer: **20 Minuten** -->
+<!-- - Sozialform: **Gruppenarbeit** -->
+<!-- - Produkt: **Ihre Lösung** -->
+
+<!-- </div></div> -->
+
+<!-- --- -->
+
+<!-- <iframe width="100%" height="100%" src="https://www.youtube.com/embed/7yDmGnA8Hw0" title=" Can you solve the bridge riddle? - Alex Gendler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
 ---
 
 # Arbeitsauftrag 2 :pencil:
 
 <div class="columns"><div>
 
-Sehen Sie sich das folgende Video an, kommen Sie auf eine Lösung?
+## **635 Methode anwenden**
 
-- **6-3-5**: 6x2 = 12 Minuten + 8 Minuten Wahl
-- **Brainwriting Pool**: 10 Minuten aufschreiben, 10 Minuten vorstellen und Wahl 
-- **Strukturlegetechnik**: 10 Minuten probieren, 10 Minuten Wahl
-
-Sind die Techniken geeignet?
+- Gruppen bilden
+- Wie könnte das BBZ BL Geld sparen?
 
 </div><div>
 
-- Dauer: **20 Minuten**
-- Sozialform: **Gruppenarbeit**
-- Produkt: **Ihre Lösung**
+- Dauer: **25 Minuten**
+- Sozialform: **6er Gruppen**
+- Produkt:
+  - **Ausgefüllte Blätter** der 635-Methode
+  - Ihre **Erkenntnisse festgehalten** zur Weitergabe im Plenum
+  - **10 Min. Besprechung** im Plenum
+- Informationen
+  - Beschrieb 635-Methode
 
 </div></div>
 
----
-
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/7yDmGnA8Hw0" title=" Can you solve the bridge riddle? - Alex Gendler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-# Arbeitsauftrag 3 :pencil:
-
-<div class="columns"><div>
-
-Ihr müsst eine Überraschungs-Geburtstagsparty für 30 Personen organisieren.
-
-- Was soll die Überraschung sein?
-- Wo soll sie stattfinden?
-- Auf was muss man alles achten? 
-
-</div><div>
-
-- **Dauer:** 20 Minuten
-- **Sozialform:** Gruppenarbeit
-- **Produkt:** Ihre Lösung
-
-</div></div>
-
----
-
-# Tools
-
-- [AnswerGarden.ch](https://answergarden.ch)
-  - Kollektives Brainstorming
-- [EdWordle.net](http://www.edwordle.net/create.html)
-  - Generiert tolle Wolke aus AnswerGarden Resultat
-- [WortWolken.com](https://www.wortwolken.com/)
-  - Wie EdWordle
