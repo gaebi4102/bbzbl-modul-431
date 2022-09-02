@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Kreativitätstechniken
+# 🎨 Kreativitätstechniken
 
 > Entfernung und Unterschiede sind die geheime Zutat der Kreativität. Wenn wir nach Hause kommen, ist unser Zuhause immer noch dasselbe. Aber etwas in unserem Kopf hat sich verändert, und das verändert alles.
 >

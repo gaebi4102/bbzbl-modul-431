@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# ePortfolio
+# 😄 ePortfolio
 
 > E-Portfolios sind netzbasierte Sammelmappen, die verschiedene digitale Medien und Services integrieren und auch im E-Learning eingesetzt werden. So können Studierende ein elektronisches nutzen, um Kompetenz auszuweisen und ihren Lernprozess zu reflektieren.
 > 

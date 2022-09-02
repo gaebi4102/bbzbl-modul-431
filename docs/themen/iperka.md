@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# IPERKA
+# 🧭 IPERKA
 
 > Modell der vollständigen Handlung
 

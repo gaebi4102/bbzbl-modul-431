@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Lernjournal
+# 📖 Lernjournal
 
 > - Das Lernjournal ist eine **laufende Aufzeichnung** verschiedener Tätigkeiten
 > - Es gibt Auskunft über den Verlauf und **den Stand von Arbeiten und Projekten**

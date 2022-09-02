@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Handlungskompetenz
+# 🎓 Handlungskompetenz
 
 > "Handlungskompetenz wird verstanden als die Bereitschaft und Befähigung des Einzelnen, sich in beruflichen, gesellschatlichen und privaten Situationen sachgerecht, durchdacht sowie individuell und sozial verantwortlich zu verhalten. Handlungskompetenz entfaltet sich in den Dimensionen von **Fachkompetenz**, **Selbstkompetenz** und **Sozialkompetenz**."
 > - Kultusministerkonferenz (KMK), 23. September 2011
