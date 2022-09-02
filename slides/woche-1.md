@@ -90,8 +90,8 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 ||Woche&nbsp;3 | 02.09.2022 | Tipps zur- und Erarbeitung der Präsentation | 
 ||Woche&nbsp;4 | 09.09.2022 | Kreativitäts-Techniken | 
 ||**Woche&nbsp;5** | **16.09.2022** | Projektmanagement Teil1 | [**LB1**](../beurteilungen/LB1.md) 
-
 ---
+
 
 # Quartalsplan <sup>2/2</sup> [![w:60px](./images/qrcode-lektionen.svg)](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/)
 

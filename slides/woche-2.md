@@ -47,6 +47,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 # Lernziele :dart:
 
 - Ich weiss wie man bei Aufträge mit wenigen Informationen Vorgehen kann
+
 - Ich habe einen **Überblick zum Thema Präsentieren** erhalten
 - Ich kann eine Präsenation planen und durchführen
 - Der **Leistunsbeleg 1** wurde besprochen und Fragen geklärt

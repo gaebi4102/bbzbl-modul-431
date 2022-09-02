@@ -13,3 +13,11 @@
 ||Woche&nbsp;8 | 21.10.2022 | EPortfolio bearbeiten | 
 ||**Woche&nbsp;9** | **28.10.2022** | Präsentation und Abgabe des ePortfolios | [**LB4**](../beurteilungen/LB4.md) Abgabe ePortfolio
 
+## Inhalt
+
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
+
+<DocCardList items={useCurrentSidebarCategory().items}/>
+```
