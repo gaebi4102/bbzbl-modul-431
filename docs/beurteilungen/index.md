@@ -6,3 +6,12 @@ Woche | Datum      | Thema                                          | Gewicht
 7     | 30.09.2022 | [**LB2 - Präsentation**](./LB2.md)             | 25%
 "     | "          | [**LB3 - Projektmanagement**](./LB3.md)        | 12.5%
 9     | 28.10.2022 | [**LB4 - ePortfolio, Präsentation**](./LB4.md) | 50%
+
+## Inhalt
+
+```mdx-code-block
+import DocCardList from '@theme/DocCardList';
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
+
+<DocCardList items={useCurrentSidebarCategory().items}/>
+```
