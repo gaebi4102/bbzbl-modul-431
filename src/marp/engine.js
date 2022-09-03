@@ -1,5 +1,6 @@
 const markdownItMark = require('markdown-it-mark');
 const markdownItContainer = require('markdown-it-container');
+const link = require("markdown-it-external-links");
 
 module.exports = ({ marp }) => marp
   .use(markdownItMark)
@@ -26,4 +27,8 @@ module.exports = ({ marp }) => marp
         return '</div><div>\n';
       return '</div></div>\n';
     }
+  })
+  .use(link, {
+    externalTarget: "_blank",
+    externalRel: "noopener noreferrer"
   })
