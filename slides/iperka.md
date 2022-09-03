@@ -17,13 +17,14 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 # Modell der vollständigen Handlung 
 
-<div class="columns"><div>
+::: columns
 
-## Definition <sup>[1]</sup>
+## Definition
 
 > Es soll der Praxis im Berufsleben entsprechen und den Schülern ermöglichen, **handlungsorientiert** zu lernen um die erworbenen **Handlungskompetenzen** im späteren Berufsleben **selbständig** auf andere Arbeitsprozesse übertragen zu können.
+> -- [Wikipedia](https://de.wikipedia.org/wiki/Modell_der_vollst%C3%A4ndigen_Handlung)
 
-</div><div>
+::: split
 
 ## Die sechs Stufen
 
@@ -34,7 +35,8 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 1) **Kontrollieren**
 1) **Auswerten**
 
-</div></div>
+:::
+
 
 ---
 
@@ -59,7 +61,7 @@ Folgende Links führen zu [AnswerGarden <sup>![](https://answergarden.ch/favicon
 
 # Arbeitsauftrag 1 :pencil:
 
-<div class="columns"><div>
+::: columns
 
 Ordnen Sie die Fragen des folgenden Fragebogen den 6 Schritten zu:
 
@@ -67,8 +69,7 @@ Ordnen Sie die Fragen des folgenden Fragebogen den 6 Schritten zu:
 
 > :point_up: Bitte macht eine **Kopie in ein eigenes Verzeichnis** und füllt die Fragen aus
 
-
-</div><div>
+::: split
 
 - Dauer: **5 Minuten**
 - Sozialform: **Einzelarbeit**
@@ -77,19 +78,19 @@ Ordnen Sie die Fragen des folgenden Fragebogen den 6 Schritten zu:
   - Besprechung im Plenum
   - Lösung wird nach der Lektion freigeschaltet
 
-</div></div>
+:::
 
 ---
 
 # Arbeitsauftrag 2 :pencil:
 
-<div class="columns"><div>
+::: columns
 
 Sie erhalten von Ihrem Bildungs-verantwortlichen einen **Auftrag mit sehr wenigen Angaben**.
 
 - Wie gehen Sie vor, wenn Sie **weitere Informationen benötigen** und den Bildungsverantwortlichen selber an diesem Tag nicht mehr fragen können?
 
-</div><div>
+::: split
 
 - Dauer: **10 Minuten**
 - Sozialform: **Partnerarbeit**
@@ -97,7 +98,7 @@ Sie erhalten von Ihrem Bildungs-verantwortlichen einen **Auftrag mit sehr wenige
 - Informationen:
   - Besprechung im Plenum
 
-</div></div>
+:::
 
 ## 👉 Eintrag im ePortfolio unter IPERKA Reflexion!
 
@@ -111,11 +112,3 @@ Sie erhalten von Ihrem Bildungs-verantwortlichen einen **Auftrag mit sehr wenige
 - Verwenden Sie die gefundenen Quellen für Ihren ePortfolio Eintrag
 - Reflexiren Sie inwiefern IPERKA im Berufsumfeld nützlich sein kann
   - Die Notizen vom IPERKA Arbeitsauftrag dürfen gerne mit einfliessen
-
----
-
-# Quellen
-
-- https://de.wikipedia.org/wiki/Modell_der_vollst%C3%A4ndigen_Handlung
-
-[1]: https://de.wikipedia.org/wiki/Modell_der_vollst%C3%A4ndigen_Handlung

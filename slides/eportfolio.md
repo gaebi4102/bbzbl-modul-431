@@ -74,7 +74,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 # :toolbox: Tools im Web
 
-<div class="columns"><div>
+::: columns
 
 ## Google Sites
 
@@ -83,7 +83,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 - [Google Sites](https://sites.google.com)
 - [Google Sites Dokumentation](https://support.google.com/sites/answer/6372878?hl=de)
 
-</div><div>
+::: split
 
 ## Microsoft OneNote
 
@@ -92,7 +92,8 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 - [Microsoft OneNote](https://onenote.com)
 - [Microsoft OneNote Trainings](https://support.microsoft.com/en-us/office/onenote-video-training-1c983b65-42f6-42c1-ab61-235aae5d0115)
 
-</div></div>
+:::
+
 
 ---
 
@@ -110,7 +111,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ---
 
-<div class="columns"><div>
+::: columns
 
 # :pencil: Notiz
 
@@ -118,7 +119,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 - In der Regel **keine Reflexionen** über ihren Inhalt
 
-</div><div>
+::: split
 
 # **ePortfolio**
 
@@ -126,11 +127,11 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 - **Beinhaltet Reflexionen** über das Thema!
 
-</div></div>
+:::
 
 ---
 
-<div class="columns"><div>
+::: columns
 
 # :file_folder: Dateiablage
 
@@ -139,7 +140,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 - Strukturiert durch Ordner
 - Querverbindungen nicht gut möglich
 
-</div><div>
+::: split
 
 # **ePortfolio**
 
@@ -150,11 +151,11 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 - Strukturiert **Navigierbar**
 - **Verlinken** von Inhalten
 
-</div></div>
+:::
 
 ---
 
-<div class="columns"><div>
+::: columns
 
 # :calendar: Lernjournal
 
@@ -163,7 +164,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 - **Selbstreflexion** beim Lernen
 - Das Lernjournal kann ein **Unterpunkt vom ePortfolio** sein
 
-</div><div>
+::: split
 
 # **ePortfolio**
 
@@ -172,7 +173,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 - **Themen Reflexion**
 - Enthält **verweise zum Lernjournal**  
 
-</div></div>
+:::
 
 ---
 
@@ -190,7 +191,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ---
 
-<div class="columns"><div>
+::: columns
 
 # **Starten Sie jetzt**
 
@@ -203,8 +204,8 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 > :bulb: Wenn Sie heute noch nicht fertig werden ist das kein Problem!
 
-</div><div>
+::: split
 
 # <!-- fit --> :rocket:
 
-</div></div>
+:::

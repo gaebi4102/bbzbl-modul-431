@@ -106,9 +106,6 @@ section a,
 section a:visited{
   color: darkblue;
 }
-/* section a { */
-/*   color: */
-/* } */
 
 /* big */
 section.big {
@@ -120,20 +117,6 @@ section.big h1 {
 section.big h2 {
   font-size: 2rem;
 }
-section.big li {
-  font-size: 1.2rem;
-}
-
-/* cover */
-/* section.cover { */
-/*   justify-content: center; */
-/* } */
-/* section.cover h1 { */
-/*   font-size: 3rem; */
-/* } */
-/* section.cover marp-h1 { */
-/*   padding-top: 0; */
-/* } */
 
 /* small */
 .small {

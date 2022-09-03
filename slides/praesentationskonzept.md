@@ -156,7 +156,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 # Arbeitsauftrag 1 :pencil:
 
-<div class="columns"><div>
+::: columns
 
 Macht euch zum folgenden [Film](https://www.youtube.com/embed/xNsPCFj9Aqw) Notizen
 
@@ -164,7 +164,7 @@ Macht euch zum folgenden [Film](https://www.youtube.com/embed/xNsPCFj9Aqw) Notiz
 
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/xNsPCFj9Aqw" title="Eine richtig gute Powerpoint – So wird es ein toller Vortrag" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</div><div>
+::: split
 
 - Dauer: **20 Minuten**
 - Sozialform: **Einzelarbeit**
@@ -172,7 +172,7 @@ Macht euch zum folgenden [Film](https://www.youtube.com/embed/xNsPCFj9Aqw) Notiz
   - Ihre **Notizen** für die Besprechung
   - Ihre Ergebnisse werden anschliessend **im Plenum besprochen**
 
-</div></div>
+:::
 
 <!-- 
 - Nachdenken 
@@ -191,15 +191,15 @@ Macht euch zum folgenden [Film](https://www.youtube.com/embed/xNsPCFj9Aqw) Notiz
 
 # Freiwilliger Auftrag :pencil:
 
-<div class="columns"><div>
+::: columns
 
 Macht euch zum folgenden [Film](https://www.youtube.com/watch?v=9tR0C93T0hs) Notizen
-
 - Welche **7 Techniken** werden angesprochen?
+
 
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/9tR0C93T0hs" title="Präsentieren wie Steve Jobs - Tipps und Tricks vom Meister" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</div><div>
+::: split
 
 - Dauer: **20 Minuten**
 - Sozialform: **Einzelarbeit**
@@ -207,7 +207,7 @@ Macht euch zum folgenden [Film](https://www.youtube.com/watch?v=9tR0C93T0hs) Not
   - Ihre **Notizen** für die Besprechung
   - Ihre Ergebnisse werden anschliessend **im Plenum besprochen**
 
-</div></div>
+:::
 
 <!-- 
 - Gib ein Motto vor
@@ -226,7 +226,7 @@ Macht euch zum folgenden [Film](https://www.youtube.com/watch?v=9tR0C93T0hs) Not
 
 # LB1 - Präsentationskonzept <span class="right">[:link:](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB1)</span>
 
-<div class="columns smaller"><div>
+::: columns smaller
 
 Form|Abgabe|Gewicht
 :---|:---:|---:
@@ -243,7 +243,7 @@ Partnerarbeit | Woche 5 / **16.09.2022** | 12.5%
 - Google Drive Abgabeordner vom Modul 431
 - Dokumentname: **431_Praesentationskonzept_Nachname1_Nachname2.pdf**
 
-</div><div class="smaller">
+::: split
 
 ## Rahmenbedingungen
 
@@ -261,7 +261,7 @@ Partnerarbeit | Woche 5 / **16.09.2022** | 12.5%
 - Gesamteindruck
 - Quellenangaben sind ersichtlich
 
-</div></div>
+:::
 
 ---
 
@@ -282,12 +282,11 @@ Partnerarbeit | Woche 5 / **16.09.2022** | 12.5%
 
 # LB2 - Präsentation <span class="right">[:link:](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB2)</span>
 
-<div class="columns smaller"><div>
+::: columns smaller
 
 Form|Abgabe|Gewicht
 :---|:---:|---:
 Partnerarbeit<sup>*</sup> | W7 / 17.12.21 | 25%
-
 
 ## Auftrag:
 
@@ -296,17 +295,12 @@ Partnerarbeit<sup>*</sup> | W7 / 17.12.21 | 25%
 - Zeit: **max. 7 - 10 Minuten**<sup>\**</sup>
 - [link: Vorlage auf Google Docs](https://docs.google.com/document/d/1q801qPjNKls_0JA0Ng7y2lv-K85w3po9zquc-o3vnIk/edit)
 
-
-
 ## Abgabe
 
 - Google Drive Abgabeordner vom Modul 431
 - Dokumentname: **431\_Praesentation\_Nachname1\_Nachname2.pdf**
 
-\* in Ausnahmefällen Einzelarbeit oder Dreiergruppe
-\** 3.5 Minuten und max. 5 Minuten für Einzelarbeit
-
-</div><div>
+::: split
 
 ## Detail
 
@@ -318,5 +312,11 @@ Zu dem Auftrag gehört auch die Erarbeitung von vertieftem Wissen und Erkenntnis
 
 ### :point_up: Ergänzen Sie mit diesem neuen "spezifischen" Wissen bzw. Erkenntnissen Ihr ePortfolio.
 
-</div></div>
+:::
+
+::: footnotes right
+
+\* in Ausnahmefällen Einzelarbeit oder Dreiergruppe
+\** 3.5 Minuten und max. 5 Minuten für Einzelarbeit
+:::
 

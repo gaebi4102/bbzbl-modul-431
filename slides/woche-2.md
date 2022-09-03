@@ -21,7 +21,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 # Ablauf
 
-<div class="columns"><div>
+::: columns
 
 ## Lektionen **1 + 2**
 
@@ -30,7 +30,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
   - Arbeitsauftrag 2 (Reflexion)
 - Präsentationskonzept
 
-</div><div>
+::: split
 
 ## Lektionen **3 + 4**
 
@@ -40,7 +40,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
   - Handlungskompetenz, IPERKA, Praesentationskonzept
 - Arbeiten am Lernjournal
 
-</div></div>
+:::
 
 ---
 

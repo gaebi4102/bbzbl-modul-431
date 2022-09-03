@@ -67,7 +67,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ---
 
-<div class="columns"><div>
+::: columns
 
 # **Starten Sie jetzt**
 
@@ -79,8 +79,8 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 > [:link::book: Google Doc Vorlage](https://docs.google.com/document/d/1Pa_FThTbr1Dc1gMTN7aRng5iTRFoYsGSLpmtn8qsx4Y/edit)
 
-</div><div>
+::: split
 
 # <!-- fit --> :rocket:
 
-</div></div>
+:::

@@ -21,7 +21,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 # Ablauf
 
-<div class="columns"><div>
+::: columns
 
 ## Lektionen **1 + 2**
 
@@ -29,13 +29,13 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
   - Arbeitsauftrag 1
   - Arbeitsauftrag 2
 
-</div><div>
+::: split
 
 ## Lektionen **3 + 4**
 
 - Freies Arbeiten
 
-</div></div>
+:::
 
 ---
 

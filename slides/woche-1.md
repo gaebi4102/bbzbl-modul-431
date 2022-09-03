@@ -21,7 +21,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 # Ablauf
 
-<div class="columns"><div>
+::: columns
 
 ## Lektionen **1 + 2**
 
@@ -31,7 +31,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 - Quartalsplan / LBs
 - ePortfolio
 
-</div><div>
+::: split
 
 ## Lektionen **3 + 4**
 
@@ -40,7 +40,8 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
   - _erster ePortfolio Eintrag_
 - Lernjournal
 
-</div></div>
+:::
+
 
 ---
 
