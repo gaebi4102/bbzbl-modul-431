@@ -30,21 +30,35 @@ section.code { font-family: 'Fira Code', monospace;  }
 .italic{font-style: italic;}
 .oblique{font-style: oblique;}
 
-section .sources {
+section .footnotes {
   position: absolute;
   bottom: 2rem;
   font-size: 0.6rem;
   border-top: 1px solid #eee;
   padding-top: 0.5rem;
-  width: 87.5%;
+  z-index: 1;
+  left: 70px;
+  right: 70px;
+}
+
+section .footnotes.left {
+  right: 655px;
+}
+section .footnotes.right {
+  left: 655px;
 }
 
 section[data-marpit-advanced-background-split="right"] {
   padding-right: 1rem;
 }
 
-section[data-marpit-advanced-background-split="right"] .sources {
-  width: 83%;
+header .footnotes,
+header .footnotes-sep,
+section .footnotes-sep,
+section .footnote-backref,
+footer .footnotes,
+footer .footnotes-sep {
+  display: none;
 }
 
 strong {

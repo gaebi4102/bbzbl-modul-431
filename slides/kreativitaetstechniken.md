@@ -27,7 +27,9 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
   - Wissen erweitert Ihre Kreativität
   - Kreativität macht Freude :)
 
-> :point_up: **Bilden Sie sich stetig weiter!**
+:::info 
+:point_up: **Bilden Sie sich stetig weiter!**
+:::
 
 ---
 
@@ -50,12 +52,10 @@ _-- Jonah Lehrer, Imagine! How creativity works_
 
 ![bg right fit](https://www.eurovps.com/blog/wp-content/uploads/2017/11/eureka.jpg)
 
-<div class="sources">
-
+::: footnotes
 \* Jonah Lehrer, Imagine! How creativity works
 Bild von [eurovps.com](https://www.eurovps.com/blog/archimedes/)
-
-</div>
+:::
 
 ---
 
@@ -77,12 +77,10 @@ _-- Albert Einstein_
 
 - **Wissen befähigt**<br/>**Kreativität** und **Intelligenz**
 
-<div class="sources">
-
+::: footnotes
 Bild vom [Friedrich Verlag](https://www.friedrich-verlag.de)
 \* `!=` bedeutet "nicht gleich" in allen Programmiersprachen
-
-</div>
+:::
 
 ---
 
@@ -97,17 +95,15 @@ Systematische **Anregung des kreativen Potenzials** einer Person oder Gruppe
 - Spontane **Geistesblitze**💥
 - Unkonventionelle **Lösungswege**
 
-<div class="sources">
-
+::: footnotes
 Bild vom [Unternehmerlexikon](https://www.unternehmerlexikon.de)
-
-</div>
+:::
 
 ---
 
 # Arbeitsauftrag 1 :pencil:
 
-<div class="columns"><div>
+::: columns
 
 Fast alle **Kreativitätstechniken** sind sowohl in Büchern als auch im Web ausführlich beschrieben.
 
@@ -115,7 +111,7 @@ Sie sind kostenlos und es gibt viele etablierte Methoden!
 
 - **Suchen Sie eine im Internet** und bereiten Sie diese so auf, damit Sie sie anschliessend **im Plenum vorstellen** können.
 
-</div><div>
+::: split
 
 - Dauer: **15 Minuten**
 - Sozialform: **Partnerarbeit**
@@ -125,7 +121,7 @@ Sie sind kostenlos und es gibt viele etablierte Methoden!
   - Besprechung im Plenum
   - **Direkt ins ePortfolio einfliessen lassen**
 
-</div></div>
+:::
 
 ---
 
@@ -145,7 +141,7 @@ Sie sind kostenlos und es gibt viele etablierte Methoden!
 
 <!-- # Arbeitsauftrag 2 :pencil: -->
 
-<!-- <div class="columns"><div> -->
+<!-- ::: columns -->
 
 <!-- Sehen Sie sich das folgende Video an, kommen Sie auf eine Lösung? -->
 
@@ -155,13 +151,13 @@ Sie sind kostenlos und es gibt viele etablierte Methoden!
 
 <!-- Sind die Techniken geeignet? -->
 
-<!-- </div><div> -->
+<!-- ::: split -->
 
 <!-- - Dauer: **20 Minuten** -->
 <!-- - Sozialform: **Gruppenarbeit** -->
 <!-- - Produkt: **Ihre Lösung** -->
 
-<!-- </div></div> -->
+<!-- ::: -->
 
 <!-- --- -->
 
@@ -171,14 +167,14 @@ Sie sind kostenlos und es gibt viele etablierte Methoden!
 
 # Arbeitsauftrag 2 :pencil:
 
-<div class="columns"><div>
+::: columns
 
 ## **635 Methode anwenden**
 
 - Gruppen bilden
 - Wie könnte das BBZ BL Geld sparen?
 
-</div><div>
+::: split
 
 - Dauer: **25 Minuten**
 - Sozialform: **6er Gruppen**
@@ -189,5 +185,4 @@ Sie sind kostenlos und es gibt viele etablierte Methoden!
 - Informationen
   - Beschrieb 635-Methode
 
-</div></div>
-
+:::
