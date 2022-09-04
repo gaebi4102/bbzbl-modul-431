@@ -288,7 +288,7 @@ Form|Abgabe|Gewicht
 :---|:---:|---:
 Partnerarbeit<sup>*</sup> | W7 / 17.12.21 | 25%
 
-## Auftrag:
+## Auftrag
 
 - Stellen Sie Ihren Partner vor der Klasse vor
 - **Wie**: Setzen Sie Ihr Präsentationskonzept um
