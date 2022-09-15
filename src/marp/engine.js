@@ -23,8 +23,9 @@ module.exports = ({ marp }) => marp
   })
   .use(markdownItContainer, 'split', {
     render: function (tokens, idx) {
+      let className = tokens[idx].info.trim().match(/^\s?split(\s+(.*))?$/);
       if (tokens[idx].nesting === 1)
-        return '</div><div>\n';
+        return `</div><div class="${className[1]}">\n`;
       return '</div></div>\n';
     }
   })

@@ -39,3 +39,9 @@ title: Slides
 [:computer: Im Browser öffnen](pathname:///slides/kreativitaetstechniken) | [:floppy_disk: PDF speichern](pathname:///slides/kreativitaetstechniken.pdf)
 
 <iframe src="/bbzbl-modul-431/slides/kreativitaetstechniken"></iframe>
+
+## 📐 Projektmanagement
+
+[:computer: Im Browser öffnen](pathname:///slides/projektmanagement) | [:floppy_disk: PDF speichern](pathname:///slides/projektmanagement.pdf)
+
+<iframe src="/bbzbl-modul-431/slides/projektmanagement"></iframe>

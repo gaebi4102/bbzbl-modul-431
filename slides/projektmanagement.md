@@ -19,6 +19,9 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 - Was ist ein Projekt?
 - Vorgehensmodelle
+
+<hr>
+
 - Arbeitspakete
 - Rollen
 - Kongruenzprinzip
@@ -32,24 +35,24 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ::: columns small
 
-Sie wollen eine Überraschungsparty zum Geburtstag Ihres Vaters/Mutter oder Ihrer Schwester/Bruder mit 30-40 Gäste zu organisieren. Der Geburtstag ist in 2 Monaten.
+Sie wollen eine **Überraschungsparty** zum Geburtstag Ihres Vaters/Mutter oder Ihrer Schwester/Bruder mit 30-40 Gäste zu organisieren. Der Geburtstag ist **in 2 Monaten**.
 
 - **Aufgabe Brainstorming:**
-  - Was ist in groben Zügen alles zu tun, damit die Party ein voller Erfolg werden wird und das Geburtstagskind noch nach Jahren mit Freuden an das Fest zurückdenken wird?
-  - Welche Fragen sind zu klären?
+  - **Was ist in groben Zügen alles zu tun**, damit die Party ein voller Erfolg werden wird und das Geburtstagskind noch nach Jahren mit Freuden an das Fest zurückdenken wird?
+  - **Welche Fragen** sind zu klären?
 - **Anschliessend im Plenum:**
   - Welche Punkte werden angesprochen?
 
 ::: split
 
-- **Dauer:**
-  - 5 Min. Gruppenarbeit
-  - 10 Min. Besprechung
-- **Sozialform:**
-  - Kleingruppen (3-4 Personen)
-- **Produkt / Informationen:**
-  - Ihre Notizen für die Besprechung
-  - Ihre Ergebnisse werden anschliessend im Plenum besprochen
+- Dauer:
+  - **5 Min. Gruppenarbeit**
+  - **10 Min. Besprechung**
+- Sozialform:
+  - **Kleingruppen (3-4 Personen)**
+- Produkt / Informationen:
+  - Ihre **Notizen** für die Besprechung
+  - Ihre Ergebnisse werden anschliessend **im Plenum besprochen**
 
 :::
 
@@ -195,9 +198,11 @@ Lesen Sie die Projektdefinition gemäss der DIN (Deutsche Industrie-Norm) 69901 
 
 # Arbeitsauftrag 3 :pencil:
 
-::: columns smaller
+::: columns
 
 Welche der nachfolgend aufgeführten Vorhaben/Aktivitäten sind Projekte?
+
+<div class="smaller">
 
 1. Verarbeitung von Kundenaufträgen
 1. Bau eines neuen Hauses
@@ -209,14 +214,16 @@ Welche der nachfolgend aufgeführten Vorhaben/Aktivitäten sind Projekte?
 1. Reparaturen
 1. Serviceleistungen
 
-::: split 
+</div>
 
-- **Dauer:**
-  - 5 Minuten
-- **Sozialform:**
-  - Einzelarbeit
-- **Produkt / Informationen:**
-  - Notizen
+::: split
+
+- Dauer:
+  - **5 Minuten**
+- Sozialform:
+  - **Einzelarbeit**
+- Produkt / Informationen:
+  - **Notizen**
   - Besprechung im Plenum
 
 :::
@@ -233,8 +240,7 @@ Wenn grösser evt.:
 
 <!-- _class: big -->
 
-# Vorgehensmodelle
-## Mit Planung ans Ziel
+# Vorgehensmodelle<br/>**Mit Planung ans Ziel**
 
 ---
 
@@ -254,7 +260,7 @@ Wenn grösser evt.:
 ![inline fit](./images/PM-Wasserfallmodell.png)
   
 ::: footnotes
-2. [Wikipedia](https://de.wikipedia.org/wiki/Wasserfallmodell), [Youtube](https://www.youtube.com/watch?v=3fExZRwj2bU)
+2. [Wikipedia | Wasserfallmodell](https://de.wikipedia.org/wiki/Wasserfallmodell), [Youtube](https://www.youtube.com/watch?v=3fExZRwj2bU)
 :::
 
 ---
@@ -264,7 +270,7 @@ Wenn grösser evt.:
 ![bg w:90%](./images/PM-V-Modell.drawio.png)
 
 ::: footnotes 
-10. [Wikipedia](https://de.wikipedia.org/wiki/V-Modell)
+10. [Wikipedia | V-Modell](https://de.wikipedia.org/wiki/V-Modell)
 :::
 
 ---
@@ -293,7 +299,7 @@ Wenn grösser evt.:
 - sich schrittweise in wiederholten Rechengängen der exakten Lösung annähernd
 
 ::: footnotes
-9. [agil](https://www.duden.de/rechtschreibung/agil), [iterativ](https://www.duden.de/rechtschreibung/iterativ), [inkrementell](https://www.duden.de/rechtschreibung/inkrementell)
+9. Duden | [agil](https://www.duden.de/rechtschreibung/agil), [iterativ](https://www.duden.de/rechtschreibung/iterativ), [inkrementell](https://www.duden.de/rechtschreibung/inkrementell)
 :::
 
 ---
@@ -303,7 +309,7 @@ Wenn grösser evt.:
 ![bg w:50%](https://upload.wikimedia.org/wikipedia/commons/5/55/Spiralmodel_nach_Boehm.png)
 
 ::: footnotes left
-3. [Wikipedia](https://de.wikipedia.org/wiki/Spiralmodell)
+3. [Wikipedia | Spiralmodell](https://de.wikipedia.org/wiki/Spiralmodell)
 :::
 
 ---
@@ -313,7 +319,7 @@ Wenn grösser evt.:
 ![bg w:65%](./images/PM-Extreme-Programming.png)
 
 ::: footnotes
-4. [Wikipedia](https://de.wikipedia.org/wiki/Extreme_Programming), [digite.com](https://www.digite.com/agile/extreme-programming-xp/)
+4. [Wikipedia | Extreme Programming](https://de.wikipedia.org/wiki/Extreme_Programming), [digite.com](https://www.digite.com/agile/extreme-programming-xp/)
 :::
 
 ---
@@ -323,7 +329,7 @@ Wenn grösser evt.:
 ![bg w:70%](https://www.marketinginstitut.biz/blog/wp-content/uploads/2020/09/SCRUM-1.png)
 
 ::: footnotes
-5. [Wikipedia](https://de.wikipedia.org/wiki/Scrum), [Marketinginstitut.biz](https://www.marketinginstitut.biz/blog/scrum/), [Youtube](https://www.youtube.com/watch?v=Ibz9STVjtzI)
+5. [Wikipedia | SCRUM](https://de.wikipedia.org/wiki/Scrum), [Marketinginstitut.biz](https://www.marketinginstitut.biz/blog/scrum/), [Youtube](https://www.youtube.com/watch?v=Ibz9STVjtzI)
 :::
 
 ---
@@ -348,7 +354,9 @@ Wenn grösser evt.:
 
 ::: columns small
 
-Sie haben ein Vorgehensmodell zugeteilt bekommen. Lesen Sie den Auszug aus dem Buch „Projektmanagement für IT-Projekte“. Finden Sie selber zusätzliche Informationen zu «Ihrem» Vorgehensmodell. Fassen Sie dies auf einer einzigen Seite grafisch zusammen.
+Sie haben ein Vorgehensmodell zugeteilt bekommen. Lesen Sie den Auszug aus dem Buch [Projektmanagement für IT-Projekte :link:](https://drive.google.com/file/d/102o8_oAEYr34mR5LTSrJZsVDFaEXUwzX/view). 
+
+Finden Sie selber zusätzliche Informationen zu «Ihrem» Vorgehensmodell. Fassen Sie dies **auf einer einzigen Seite** grafisch zusammen.
 
 - Darstellung der Methode in grafischer Form (oder passende Illustration)
 - Einsatzzweck
@@ -357,21 +365,21 @@ Sie haben ein Vorgehensmodell zugeteilt bekommen. Lesen Sie den Auszug aus dem B
 
 ::: split
 
-- **Dauer:**
-  - 30 Minuten
-  - 5 Minuten Präsentation
-- **Sozialform:**
-  - 4 Gruppen
-- **Produkt / Informationen:**
-  - Internet
-  - Buch "Projektmanagement für IT-Projekte"
-  - Gut gemacht, ist es direkt ein ePortfolio Eintrag
+- Dauer:
+  - **30 Minuten vorbereiten**
+  - **5 Minuten Präsentation**
+- Sozialform:
+  - **4 Gruppen**
+- Produkt / Informationen:
+  - **Internet**
+  - Buch **"Projektmanagement für IT-Projekte"**
+  - Gut gemacht, ist es direkt **ein ePortfolio Eintrag**
 
 :::
 
 ---
 
-# Videos zu den Vorgehensmodellen
+# Videos zu den Vorgehensmodellen :tv:
 
 **Klassische Modelle**
 

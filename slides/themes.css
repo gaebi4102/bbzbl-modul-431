@@ -123,13 +123,17 @@ section.big h2 {
   font-size: 0.8rem;
 }
 
+.regular {
+  font-size: 1rem;
+}
+
 .right {
   float: right;
 }
 
 /* smaller */
 .smaller {
-  font-size: 0.6rem;
+  font-size: 0.7rem;
 }
 
 /* small-text */
