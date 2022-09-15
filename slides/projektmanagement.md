@@ -111,44 +111,59 @@ Lesen Sie die Projektdefinition gemäss der DIN (Deutsche Industrie-Norm) 69901 
 ---
 
 <!--
-# Projekt Merkmale
 
 - Einmalig, neuartig
+
 - Klare Zielvorgaben
+
 - Zeitlich, personell und finanziell begrenzt
+
 - Komplexität
+
 - Fachübergreifend, Teamarbeit
 
 -->
 
 # Projektmerkmale
 
-**Einmalig, neuartig**
+* **Einmalig, neuartig**
 
-- Ein Projekt wird zum ersten und zum letzten Mal durchgeführt
+  - Ein Projekt wird zum ersten und zum letzten Mal durchgeführt
 
-**Klare Zielvorgaben**
+* **Klare Zielvorgaben**
 
-- Klare Vorgaben was mit dem Projekt erreicht werden soll
+  - Klare Vorgaben was mit dem Projekt erreicht werden soll
 
-**Zeitlich, personell und finanziell begrenzt**
+* **Zeitlich, personell und finanziell begrenzt**
 
-- Konkreter Anfang-/Endtermin und begrenztes Budget
-- Erfordert ausserordentlichen Aufwand der Mitarbeiter
+  - Konkreter Anfang-/Endtermin und begrenztes Budget
+  - Erfordert ausserordentlichen Aufwand der Mitarbeiter
 
 ---
 
 # Projektmerkmale 2
 
-**Komplexität**
+- **Komplexität**
 
-- Die Lösung der Aufgabe beinhaltet eine gewisse Komplexität
-- Benötigt Fachwissen
+  - Die Lösung der Aufgabe beinhaltet eine gewisse Komplexität
+  - Benötigt Fachwissen
 
-**Fachübergreifend, Teamarbeit**
+* **Fachübergreifend, Teamarbeit**
 
-- Es werden Fachleute aus verschiedenen Bereichen gebraucht
-- Die Fachspezialisten müssen als Team zusammenarbeiten
+  - Es werden Fachleute aus verschiedenen Bereichen gebraucht
+  - Die Fachspezialisten müssen als Team zusammenarbeiten
+
+<!--
+- Einmalig, neuartig
+
+- Klare Zielvorgaben
+
+- Zeitlich, personell und finanziell begrenzt
+
+- Komplexität
+
+- Fachübergreifend, Teamarbeit
+-->
 
 
 ---
@@ -354,7 +369,7 @@ Wenn grösser evt.:
 
 ::: columns small
 
-Sie haben ein Vorgehensmodell zugeteilt bekommen. Lesen Sie den Auszug aus dem Buch [Projektmanagement für IT-Projekte :link:](https://drive.google.com/file/d/102o8_oAEYr34mR5LTSrJZsVDFaEXUwzX/view). 
+Sie werden ein Vorgehensmodell zugeteilt bekommen. Lesen Sie den Auszug aus dem Buch [Projektmanagement für IT-Projekte :link:](https://drive.google.com/file/d/102o8_oAEYr34mR5LTSrJZsVDFaEXUwzX/view). 
 
 Finden Sie selber zusätzliche Informationen zu «Ihrem» Vorgehensmodell. Fassen Sie dies **auf einer einzigen Seite** grafisch zusammen.
 
@@ -369,13 +384,25 @@ Finden Sie selber zusätzliche Informationen zu «Ihrem» Vorgehensmodell. Fasse
   - **30 Minuten vorbereiten**
   - **5 Minuten Präsentation**
 - Sozialform:
-  - **4 Gruppen**
+  - **4er und 3er Gruppen**
 - Produkt / Informationen:
   - **Internet**
   - Buch **"Projektmanagement für IT-Projekte"**
   - Gut gemacht, ist es direkt **ein ePortfolio Eintrag**
 
 :::
+
+<!--
+Gruppe 1: «Vierphasenmodell»
+
+Gruppe 2: «Wasserfall-Modell»
+
+Gruppe 3: «Spiralmodell»
+
+Gruppe 4: «Extreme Programming»
+
+Gruppe 5: «Scrum»
+-->
 
 ---
 
