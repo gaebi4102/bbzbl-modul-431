@@ -1,6 +1,6 @@
 # Woche 5
 
-> [Kreativitätstechniken](../themen/kreativitaetstechniken.md)
+> [Projektmanagement](../themen/projektmanagement.md)
 
 [:computer: Open in Browser](pathname:///slides/woche-5) | [:floppy_disk: download PDF](pathname:///slides/woche-5.pdf) 
 
