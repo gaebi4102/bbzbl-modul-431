@@ -6,10 +6,10 @@ header: Modul 431 - Präsentationskonzept
 footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 ---
 
-<!-- _class: big -->
+<!-- _class: big center -->
 
-# Modul 431
-# <!--fit--> Präsentationskonzept
+# Präsentationskonzept
+## Modul 431
 
 ---
 
@@ -226,7 +226,7 @@ Macht euch zum folgenden [Film](https://www.youtube.com/watch?v=9tR0C93T0hs) Not
 
 # LB1 - Präsentationskonzept <span class="right">[:link:](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB1)</span>
 
-::: columns smaller
+::: columns s4
 
 Form|Abgabe|Gewicht
 :---|:---:|---:
@@ -282,7 +282,7 @@ Partnerarbeit | Woche 5 / **16.09.2022** | 12.5%
 
 # LB2 - Präsentation <span class="right">[:link:](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB2)</span>
 
-::: columns smaller
+::: columns s4
 
 Form|Abgabe|Gewicht
 :---|:---:|---:

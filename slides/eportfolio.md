@@ -6,10 +6,10 @@ header: Modul 431 - ePortfolio
 footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 ---
 
-<!-- _class: cover -->
+<!-- _class: big center -->
 
-# Modul 431 [![h:120px](./images/qrcode-eportfolio.svg)](https://codingluke.github.io/bbzbl-modul-431/docs/themen/eportfolio)
-# <!--fit--> ePortfolio
+# ePortfolio
+## Modul 431
 
 ---
 
@@ -177,7 +177,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ---
 
-# **:rotating_light: Auf das muss speziell geachtet werden! :rotating_light:**
+# **:rotating_light: Auf das muss speziell geachtet werden!**
 
 - **Alle Themen** finden sich wieder
 - Das Portfolio enthält **Bezüge zu Ihrer Berufspraxis**

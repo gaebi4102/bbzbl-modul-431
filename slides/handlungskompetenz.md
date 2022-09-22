@@ -6,11 +6,10 @@ header: Modul 431 - Handlungskompetenz
 footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 ---
 
-<!-- _class: cover -->
+<!-- _class: big center -->
 
-# Modul 431 [![h:120px](./images/qrcode-handlungskompetenz.svg)](https://codingluke.github.io/bbzbl-modul-431/docs/themen/handlungskompetenz)
-
-# <!--fit--> Handlungskompetenz
+# Handlungskompetenz
+## Modul 431 
 
 ---
 
@@ -40,7 +39,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 Fertigkeiten, Fähigkeiten, Eigenschaften oder Haltungen, die es ermöglichen, Anforderungen in komplexen Situationen erfolgreich und effiziert zu bewältigen
 
-::: columns small
+::: columns s2
 
 ### Fertigkeit <sup>2</sup>
 
@@ -70,7 +69,7 @@ Fertigkeiten, Fähigkeiten, Eigenschaften oder Haltungen, die es ermöglichen, A
 
 # Kompetenz
 
-::: columns small 
+::: columns s2
 
 ## Zuständigkeit
 
@@ -112,12 +111,12 @@ Fertigkeiten, Fähigkeiten, Eigenschaften oder Haltungen, die es ermöglichen, A
 
 ---
 
-# Arbeitsauftrag 1 :pencil:
+# :pencil: Arbeitsauftrag 1
 
 Machen Sie sich zum **Thema Handlungskompetenz** eigene Notizen
 <br>
 
-::: columns small
+::: columns s2
 
 - Welche **Arbeitsmethoden** kennen Sie?
 - Was sind Ihre **Stärken und Schwächen** in **Sozial- und Selbstkompetenz**?
@@ -145,7 +144,7 @@ Die **Methodenkompetenz** umfasst Fertigkeiten, Kenntnisse und vor allem die Beh
 
 # **Me**thodenkompetenz / **Beispiele**
 
-<div class="smaller">
+<div class="s4">
 
 | Kompetenz                                               | Beschreibung                                                                                      |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
@@ -164,7 +163,7 @@ Die **Methodenkompetenz** umfasst Fertigkeiten, Kenntnisse und vor allem die Beh
 
 # **Fa**chkompetenz
 
-<div class="small">
+<div class="s2">
 
 Die Fachkompetenz ergibt sich im Wesentlichen aus der **Sachkenntnis (Wissen)** und **Fertigkeiten**, die für die Bewältigung bestimmter **fachlicher Aufgaben notwendig** sind
 
@@ -230,7 +229,7 @@ Gesamtheit der **verhaltensrelevanten Persönlichkeitsmerkmale**
 
 # **Se**lbstkompetenz / **Beispiele**
 
-<div class="smaller">
+<div class="s4">
 
 | Kompetenz                               | Beschreibung                                                                                                   |
 | --------------------------------------- | -------------------------------------------------------------------------------------------------------------- |

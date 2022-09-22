@@ -6,10 +6,10 @@ header: Modul 431 - Kreativitätstechniken
 footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 ---
 
-<!-- _class: big -->
+<!-- _class: big center -->
 
-# Modul 431
-# <!--fit--> Kreativitätstechniken
+# Kreativitätstechniken
+## Modul 431
 
 ---
 
@@ -33,11 +33,10 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ---
 
-<!-- _class: big center -->
+<!-- _class: big -->
 
-Entfernung und Unterschiede sind die geheime Zutat der Kreativität. Wenn wir nach Hause kommen, ist unser Zuhause immer noch dasselbe. Aber etwas in unserem **Kopf hat sich verändert, und das verändert alles**.
-
-_-- Jonah Lehrer, Imagine! How creativity works_
+>Entfernung und Unterschiede sind die geheime Zutat der Kreativität. Wenn wir nach Hause kommen, ist unser Zuhause immer noch dasselbe. Aber etwas in unserem **Kopf hat sich verändert, und das verändert alles**.
+>-- Jonah Lehrer, Imagine! How creativity works
 
 ---
 
@@ -59,11 +58,10 @@ Bild von [eurovps.com](https://www.eurovps.com/blog/archimedes/)
 
 ---
 
-<!-- _class: big center -->
+<!-- _class: big -->
 
-Kreativität ist das Überbleibsel verschwendeter Zeit
-
-_-- Albert Einstein_
+> Kreativität ist das Überbleibsel verschwendeter Zeit
+>-- Albert Einstein
 
 ---
 

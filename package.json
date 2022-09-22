@@ -5,7 +5,7 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
-    "start-marp": "env PORT=5001 marp --engine ./src/marp/engine.js --html --allow-local-files --theme slides/theme.css --watch --server slides",
+    "start-marp": "env PORT=3000 marp --engine ./src/marp/engine.js --html --allow-local-files --theme slides/theme.css --watch --server slides",
     "build": "docusaurus build",
     "build-marp": "marp --engine ./src/marp/engine.js --html --allow-local-files --theme slides/theme.css -I slides --output build/slides",
     "build-marp-pdf": "marp --engine ./src/marp/engine.js --html --allow-local-files --theme slides/theme.css -I slides --output build/slides --pdf --pdf-outlines --pdf-outlines.pages=false",

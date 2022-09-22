@@ -6,10 +6,10 @@ header: Modul 431 - Woche 3
 footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 ---
 
-<!-- _class: cover -->
+<!-- _class: big center -->
 
-# Modul 431 [![h:120px](./images/qrcode-woche1.svg)](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/woche-1)
-# <!--fit--> Woche 3
+# Woche 3
+## Modul 431 
 
 ---
 

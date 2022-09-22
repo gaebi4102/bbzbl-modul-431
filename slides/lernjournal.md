@@ -6,10 +6,10 @@ header: Modul 431 - Lernjournal
 footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 ---
 
-<!-- _class: cover -->
+<!-- _class: big center -->
 
-# Modul 431 [![h:120px](./images/qrcode-lernjournal.svg)](https://codingluke.github.io/bbzbl-modul-431/docs/themen/lernjournal)
-# <!--fit--> Lernjournal
+# Lernjournal
+## Modul 431
 
 ---
 
@@ -33,7 +33,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 <br><br>
 
-> ## <!--fit--> :point_up: Schreiben löst konzentrierte Denkarbeit aus
+## :point_up: Schreiben löst konzentrierte Denkarbeit aus
 
 ---
 
@@ -69,15 +69,15 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ::: columns
 
-# **Starten Sie jetzt**
+# Starten Sie jetzt
 
 - Wählen Sie ein passendes Tool
 - Erstellen Sie die Struktur
 - Verfassen Sie die Ausgangslage für heute
 
-<br/>
+<hr>
 
-> [:link::book: Google Doc Vorlage](https://docs.google.com/document/d/1Pa_FThTbr1Dc1gMTN7aRng5iTRFoYsGSLpmtn8qsx4Y/edit)
+- [:link: Google Doc Vorlage](https://docs.google.com/document/d/1Pa_FThTbr1Dc1gMTN7aRng5iTRFoYsGSLpmtn8qsx4Y/edit)
 
 ::: split
 

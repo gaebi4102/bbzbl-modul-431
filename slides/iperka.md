@@ -6,10 +6,10 @@ header: Modul 431 - IPERKA
 footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 ---
 
-<!-- _class: cover -->
+<!-- _class: big center -->
 
-# Modul 431
-# <!--fit--> IPERKA
+# IPERKA
+## Modul 431
 
 ---
 
@@ -28,12 +28,12 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ## Die sechs Stufen
 
-1) **Informieren**
-1) **Planen**
-1) **Entscheiden**
-1) **Realisieren**
-1) **Kontrollieren**
-1) **Auswerten**
+1) Informieren
+1) Planen
+1) Entscheiden
+1) Realisieren
+1) Kontrollieren
+1) Auswerten
 
 :::
 
@@ -67,7 +67,7 @@ Ordnen Sie die Fragen des folgenden Fragebogen den 6 Schritten zu:
 
 [:link: Fragebogen](https://docs.google.com/spreadsheets/d/1nLLSKc_HXZzrvfeEwa79blUbbQoYpww23377OXSqYqk/edit#gid=0)
 
-> :point_up: Bitte macht eine **Kopie in ein eigenes Verzeichnis** und füllt die Fragen aus
+- Bitte macht eine **Kopie in ein eigenes Verzeichnis** und füllt die Fragen aus
 
 ::: split
 

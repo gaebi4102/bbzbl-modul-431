@@ -6,10 +6,10 @@ header: Modul 431 - Projektmanagement
 footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 ---
 
-<!-- _class: big -->
+<!-- _class: big center -->
 
-# Modul 431
-# <!--fit--> Projektmanagement
+# Projektmanagement
+## Modul 431
 
 ---
 
@@ -31,9 +31,9 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ---
 
-# Arbeitsauftrag 1 :pencil:
+# :pencil: Arbeitsauftrag 1
 
-::: columns small
+::: columns s2
 
 Sie wollen eine **Überraschungsparty** zum Geburtstag Ihres Vaters/Mutter oder Ihrer Schwester/Bruder mit 30-40 Gäste zu organisieren. Der Geburtstag ist **in 2 Monaten**.
 
@@ -85,9 +85,9 @@ Wer räumt auf?
 
 ---
 
-# Arbeitsauftrag 2 :pencil:
+# :pencil: Arbeitsauftrag 2
 
-::: columns smaller
+::: columns s3
 
 Lesen Sie die Projektdefinition gemäss der DIN (Deutsche Industrie-Norm) 69901 durch:
 
@@ -168,11 +168,11 @@ Lesen Sie die Projektdefinition gemäss der DIN (Deutsche Industrie-Norm) 69901 
 
 ---
 
-<!-- _class: big -->
+<!-- _class: big center -->
 
 # Reflexion Arbeitsauftrag 1
 
-## <!-- fit --> Ist die Planung der Geburtstagsparty ein Projekt?
+## Ist die Planung der Geburtstagsparty ein Projekt?
 
 ---
 
@@ -196,7 +196,7 @@ Lesen Sie die Projektdefinition gemäss der DIN (Deutsche Industrie-Norm) 69901 
 
 ---
 
-<!-- _class: big -->
+<!-- _class: big center -->
 
 # Was wird gesteuert im Projekt?
 
@@ -211,13 +211,13 @@ Lesen Sie die Projektdefinition gemäss der DIN (Deutsche Industrie-Norm) 69901 
 
 ---
 
-# Arbeitsauftrag 3 :pencil:
+# :pencil: Arbeitsauftrag 3
 
 ::: columns
 
 Welche der nachfolgend aufgeführten Vorhaben/Aktivitäten sind Projekte?
 
-<div class="smaller">
+<div class="s3">
 
 1. Verarbeitung von Kundenaufträgen
 1. Bau eines neuen Hauses
@@ -253,7 +253,7 @@ Wenn grösser evt.:
 
 ---
 
-<!-- _class: big -->
+<!-- _class: big center -->
 
 # Vorgehensmodelle<br/>**Mit Planung ans Ziel**
 
@@ -365,9 +365,9 @@ Wenn grösser evt.:
 
 ---
 
-# Jetzt seit Ihr dran :pencil:
+# :pencil: Jetzt seit Ihr dran
 
-::: columns small
+::: columns s2
 
 Sie werden ein Vorgehensmodell zugeteilt bekommen. Lesen Sie den Auszug aus dem Buch [Projektmanagement für IT-Projekte :link:](https://drive.google.com/file/d/102o8_oAEYr34mR5LTSrJZsVDFaEXUwzX/view). 
 
@@ -406,7 +406,7 @@ Gruppe 5: «Scrum»
 
 ---
 
-# Videos zu den Vorgehensmodellen :tv:
+# :tv: Videos zu den Vorgehensmodellen
 
 **Klassische Modelle**
 
@@ -420,7 +420,7 @@ Gruppe 5: «Scrum»
 
 ---
 
-<!-- _class: big -->
+<!-- _class: big center -->
 
 # Ende<br>**des ersten Teils**
 
@@ -474,9 +474,9 @@ Gruppe 5: «Scrum»
 
 ---
 
-# Arbeitsauftrag 4 :pencil:
+# :pencil: Arbeitsauftrag 4
 
-::: columns small
+::: columns s1
 
 - Erstellen Sie eine **Liste von Arbeitspaketen** für die Planung der Geburtstagsparty und **gliedern Sie diese** in Form eines Projektstrukturplanes.
 - Erstellen Sie einen **groben Termin- Ablaufplan des Vorhabens** in welchem die Arbeitspakete entsprechend angeordnet sind.
@@ -484,19 +484,25 @@ Gruppe 5: «Scrum»
 
 ::: split
 
-- **Dauer:**
-  - 30 Minuten
+- Dauer:
+  - **30 Minuten**
   - 3-5 Minuten Präsentation
-- **Sozialform:**
-  - 3 Gruppen
-- **Produkt / Informationen:**
-  - alle Unterlagen des Arbeitsauftrags 1
+- Sozialform:
+  - **3er und 4er Gruppen**
+- Produkt / Informationen:
+  - alle **Unterlagen des Arbeitsauftrags 1**
 
 :::
 
+<!-- 
+- Post-it verteilen
+
+- Flipchart Blätter verteile
+-->
+
 ---
 
-<!-- _class: big -->
+<!-- _class: big center -->
 
 # Rollen im Projekt
 
@@ -536,7 +542,7 @@ Einer Person oder einem Team können mehrere Rollen zugewiesen sein.
 
 ---
 
-<!-- _class: big -->
+<!-- _class: big center -->
 
 # Welche Projekt-Rollen kennen Sie?
 
@@ -585,11 +591,13 @@ Einer Person oder einem Team können mehrere Rollen zugewiesen sein.
 
 ---
 
+<!-- _class: small-text -->
+
 # Bewilligungsgremium
 
 **Alle eingereichten Projektanträge** in einem Unternehmen werden zuerst durch ein Bewilligungsgremium bearbeitet. Diese Instanz tagt periodisch (monatlich oder öfter)
 
-::: columns small
+::: columns
 
 ### Aufgabe
 
@@ -598,23 +606,26 @@ Einer Person oder einem Team können mehrere Rollen zugewiesen sein.
 
 ::: split
 
-### Kompetenz
-
-- Freigabe von Projekten
-- Freigabe von Budgets
-
 ### Verantwortung
 
 - Bereinigung von Konflikten zwischen Projekten
 - Strategischen Ausrichtung aller Projekte Sicherstellen
 
+::: split
+
+### Kompetenz
+
+- Freigabe von Projekten
+- Freigabe von Budgets
+
 ::: 
 
 ---
+<!-- _class: small-text -->
 
 # Auftraggeber
 
-Ohne Auftraggeber kein Projekt.
+Ohne Auftraggeber kein Projekt.<br/><br/>
 
 ::: columns
 
@@ -624,23 +635,25 @@ Projekt beschreiben
 
 ::: split
 
-### Kompetenz
-
-Mitglied des Entscheidungsgremiums
-
-::: split
-
 ### Verantwortung
 
 Übernimmt die Kosten
+
+::: split
+
+### Kompetenz
+
+Mitglied des Entscheidungsgremiums
 
 :::
 
 ---
 
-# Entscheidungsgremium <br>Lenkungsausschuss oder Steering Commitee
+<!-- _class: small-text -->
 
-::: columns small
+# Entscheidungsgremium / Lenkungsausschuss <br> Steering Commitee
+
+::: columns
 
 ### Aufgabe
 
@@ -658,6 +671,8 @@ Mitglied des Entscheidungsgremiums
 - Setzen von Prioritäten
 - Änderungsanträgen und Kosten freigeben
 
+::: split
+
 ### Verantwortung
 
 - Korrekte Ausführung des Projektes
@@ -667,9 +682,11 @@ Mitglied des Entscheidungsgremiums
 
 ---
 
+<!-- _class: small-text -->
+
 # Projektleiter
 
-::: columns small
+::: columns 
 
 ### Aufgabe
 
@@ -687,21 +704,23 @@ Definiert und initialisiert das Projekt mit dem Entscheidungsgremium, Auftraggeb
 - Kontrolle und Steuerung aller Projektaufgaben
 - Verwaltung sämtlicher freigegebenen Ressourcen
 
+::: split
+
 ### Verantwortung
 
 Erreichen der Ziele des Auftraggebers
 
-- Zeit
-- Kosten
-- Qualität
+- Zeit / Kosten / Qualität
 
 :::
 
 ---
 
+<!-- _class: small-text -->
+
 # Projektmitarbeiter
 
-Die Projektmitarbeiter realisieren, koordiniert durch den Projektleiter, die Aufgaben Ihrer Arbeitspakete. Planen und steuern Ihre Arbeitspakete weitgehend selbst. Bei Problemen kann Unterstützung vom Projektleiter angefordert werden.
+Die Projektmitarbeiter realisieren, koordiniert durch den Projektleiter, die Aufgaben Ihrer Arbeitspakete. Planen und steuern Ihre Arbeitspakete weitgehend selbst. Bei Problemen kann Unterstützung vom Projektleiter angefordert werden.<br><br>
 
 ::: columns
 
@@ -714,11 +733,13 @@ Die Projektmitarbeiter realisieren, koordiniert durch den Projektleiter, die Auf
 
 ### Kompetenz
 
-Ausarbeitung **eigener** Lösungen im Rahmen der Arbeitspakete
+- Ausarbeitung **eigener** Lösungen im Rahmen der Arbeitspakete
+
+::: split
 
 ### Verantwortung
 
-**Selbstständige** Ausführung von Arbeitspaketen
+- **Selbstständige** Ausführung von Arbeitspaketen
 
 :::
 
@@ -754,7 +775,7 @@ Ausarbeitung **eigener** Lösungen im Rahmen der Arbeitspakete
 
 ---
 
-# Optionale Rollen in Scrum
+# Optionale Rollen in Scrum<sup>*</sup>
 
 Folgende Rollen kann es auch in Scrum geben. Sind jedoch nicht Pflicht
 
@@ -764,13 +785,17 @@ Folgende Rollen kann es auch in Scrum geben. Sind jedoch nicht Pflicht
   - Lenkungsausschuss
   - Steering Commitee
 
+::: footnotes
+\* nicht Prüfungsrelevant
+:::
+
 ---
 
-# Arbeitsauftrag 5 :pencil:
+# :pencil: Arbeitsauftrag 5
 
 Machen Sie sich auf Basis der bereits erarbeiteten Arbeitspakete Gedanken, **welche Rollen** in Ihrem **Geburtstagsparty-Projekt** vorhanden sind.
 
-Nehmen wir an, es wäre keine Überraschungsparty für Ihren Vater / Ihre Mutter, sondern Ihr Vater / Ihre Mutter bitten Sie eine Party für Ihn / Sie zu organisieren. Ihr Vater / Ihre Mutter übernimmt die Kosten, sagt Ihnen aber genau, wie teuer es werden darf. Zu welchen aussenstehenden Personen/Organisationen werden Sie sonst noch Kontakt haben?
+Nehmen wir an, es wäre **keine Überraschungsparty** für Ihren Vater / Ihre Mutter, sondern Ihr Vater / Ihre Mutter bitten Sie eine Party für Ihn / Sie zu organisieren. Ihr Vater / Ihre **Mutter übernimmt die Kosten**, sagt Ihnen aber **genau, wie teuer** es werden darf. Zu welchen aussenstehenden Personen/Organisationen werden Sie sonst noch Kontakt haben?
 
 **Dauer:** 5 Minuten | **Sozialform:** Plenum
 
@@ -791,21 +816,21 @@ Nehmen wir an, es wäre keine Überraschungsparty für Ihren Vater / Ihre Mutter
 
 ---
 
-# Arbeitsauftrag 6 :pencil:
+# :pencil: Arbeitsauftrag 6
 
-<div class="small">
+<div class="s2">
 
-Sie haben nun unterschiedliche Vorstellungen wie die Geburtstagsparty aussehen soll. Sie haben zwei Lager, die einen wollen ein Fest in einer Waldhütte wo die Gäste Ihren Teil beitragen müssen (Salat, Dessert mitbringen) und die anderen wollen ein Fest in einer gediegenen Umgebung eines Hotels.
+Sie haben nun unterschiedliche Vorstellungen wie die Geburtstagsparty aussehen soll. Sie haben **zwei Lager**, die einen wollen ein Fest in einer **Waldhütte** wo die Gäste Ihren Teil beitragen müssen (Salat, Dessert mitbringen) und die anderen wollen ein Fest in einer **gediegenen Umgebung** eines Hotels.
 
-- Beide Lager besprechen sich und tragen die Vor- und Nachteile Ihrer Variante zusammen (10 Min.).
-- Jedes Lager versucht das andere Lager von Ihrer Variante zu überzeugen (je 5 Min.).
-- Jetzt werden die Rollen getauscht – Jedes Lager überlegt sich Vor- und Nachteile der anderen Variante (5 Min.).
+- Beide Lager besprechen sich und tragen die **Vor- und Nachteile** Ihrer Variante zusammen (10 Min.).
+- Jedes Lager versucht das andere Lager von **Ihrer Variante zu überzeugen** (je 5 Min.).
+- Jetzt werden die **Rollen getauscht** – Jedes Lager überlegt sich Vor- und Nachteile der anderen Variante (5 Min.).
 - Die beiden Parteien versuchen nun die jeweils andere Partei von Ihrer Lösung zu überzeugen (je 5 Min.).
-- Reflektieren der Methode im Plenum – finden wir eine gemeinsame Lösung? Was bringt und diese Methode?
+- **Reflektieren der Methode** im Plenum – finden wir eine gemeinsame Lösung? Was bringt und diese Methode?
 
 </div>
 
-**Dauer:** 35 Minuten | **Sozialform:** 2 Gruppen | **Produkt / Informationen:** Individuell
+Dauer: **35 Minuten** | Sozialform: **2 Gruppen** | Produkt / Informationen: **Individuell**
 
 ---
 
@@ -902,7 +927,7 @@ Es gibt aber auch immer noch übergeordnete Gründe für Entscheide:
 
 <!-- _class: big -->
 
-> Es ist wichtiger, das Richtige zu tun, als etwas richtig zu tun. Es ist nichts unbrauchbarer als mit grosser Effizienz das Falsche zu tun.
+> Es ist wichtiger, das Richtige zu tun, als etwas richtig zu tun. **Es ist nichts unbrauchbarer als mit grosser Effizienz das Falsche zu tun**.
 -- Peter F. Drucker (*1909), amerik. Managementlehrer, -berater u. -publizist östr. Herk.
 
 ---

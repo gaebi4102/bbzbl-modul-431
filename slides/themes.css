@@ -7,9 +7,9 @@
   font-family: 'Fira Sans', 'Segoe UI', 'Liberation Sans', 'Helvetica', 'Arial', sans-serif;
 }
 
-body {
-  background-color: #fff;
-}
+/* body { */
+/*   background-color: #fff; */
+/* } */
 
 /* * { font-family: 'Fira', sans-serif;  } */
 code * { font-family: 'Fira Code', monospace;  }
@@ -62,7 +62,7 @@ footer .footnotes-sep {
 }
 
 strong {
-  color: #7b241c;
+  color: var(--color-fg-strong);
 }
 
 footer {
@@ -70,8 +70,6 @@ footer {
 }
 
 section {
-  /* background: rgb(255, 247, 239); */
-  background: white;
   justify-content: start;
 }
 section h1 {
@@ -80,17 +78,15 @@ section h1 {
 }
 section h2 {
   font-weight: 600;
-  color: rgb(70, 70, 145);
 }
-section h1,
-section h2,
-section h3 {
-  color:  #34495e;
+section h2 {
+  color: var(--h2-color);
 }
 section h1 strong,
 section h2 strong,
 section h3 strong {
-  color:  #2874a6 ;
+  color:  var(--color-fg-strong) ;
+  font-style: italic;
 }
 section h1 a {
   float: right;
@@ -106,6 +102,9 @@ section a,
 section a:visited{
   color: darkblue;
 }
+section hr {
+  padding-top: .10em;
+}
 
 /* big */
 section.big {
@@ -115,12 +114,21 @@ section.big h1 {
   font-size: 3rem;
 }
 section.big h2 {
-  font-size: 2rem;
+  font-size: 2.5rem;
 }
 
 /* small */
-.small {
+.s1 {
+  font-size: 0.9rem;
+}
+.s2 {
   font-size: 0.8rem;
+}
+.s3 {
+  font-size: 0.7rem;
+}
+.s4 {
+  font-size: 0.6rem;
 }
 
 .regular {
@@ -131,10 +139,6 @@ section.big h2 {
   float: right;
 }
 
-/* smaller */
-.smaller {
-  font-size: 0.7rem;
-}
 
 /* small-text */
 section.small-text ul, 
@@ -152,7 +156,16 @@ section.center {
   justify-content: center;
 }
 
-/* center */
+section.center footer {
+  text-align: left;
+  justify-content: left;
+}
+
+section blockquote {
+  color: var(--color-fg-blockquote);
+  font-style: italic;
+}
+
 .columns {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -160,5 +173,25 @@ section.center {
 }
 .columns h1:first-child, h2:first-child, h3:first-child {
   margin-top: 0;
+}
+
+/* variables */
+
+section {
+  --color-border-default: rgb(100, 100, 100);
+  --header-footer-color: hsla(0,0%,20%,.65);
+  --color-fg-blockquote: hsla(0,0%,10%,.9);
+  --color-canvas-default: #fff;
+  /* --h1-color: rgb(34, 68, 102); */
+  /* --h2-color: rgb(70, 70, 145) */
+  /* --h1-color: #3a0ca3; */
+  /* --h2-color: #7209b7; */
+  /* --color-fg-strong: #f72585; */
+  --h1-color: #580c1f;
+  /* --h1-color: #000; */
+  --h2-color: #a7333f;
+  --color-fg-strong: #c52233;
+  /* --h1-color-strong: #c52233; */
+  /* color:  #c52233 ; */
 }
 

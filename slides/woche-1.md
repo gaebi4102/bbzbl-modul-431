@@ -6,10 +6,10 @@ header: Modul 431 - Woche 1
 footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 ---
 
-<!-- _class: cover -->
+<!-- _class: big center -->
 
-# Modul 431 [![h:120px](./images/qrcode-woche1.svg)](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/woche-1)
-# <!--fit--> Woche 1
+# Woche 1
+## Modul 431 
 
 ---
 
@@ -96,23 +96,23 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 # Quartalsplan <sup>2/2</sup> [![w:60px](./images/qrcode-lektionen.svg)](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/)
 
-||Woche | Datum | Thema | LB
-:---:|:---:|:---:|:---|:---
-||Woche&nbsp;6 | 23.09.2022 | Projektmanagement Teil2 | 
-||**Woche&nbsp;7** | **30.09.2022** | **Präsentationen / PM Test** | [**LB2**](../beurteilungen/LB2.md) Präsentation<br/>[**LB3**](../beurteilungen/LB3.md) Projektmanagement
- |||| _Herbstferien_ :roller_coaster: :ferris_wheel: | 
-||Woche&nbsp;8 | 21.10.2022 | EPortfolio bearbeiten | 
-||**Woche&nbsp;9** | **28.10.2022** | **ePortfolios Abgabe** | [**LB4**](../beurteilungen/LB4.md) Abgabe ePortfolio
+Woche | Datum | Thema | LB
+:---:|:---:|:---|:---
+|Woche&nbsp;6 | 23.09.2022 | Projektmanagement Teil2 | 
+|**Woche&nbsp;7** | **30.09.2022** | **Präsentationen / PM Test** | [**LB2**](../beurteilungen/LB2.md) Präsentation<br/>[**LB3**](../beurteilungen/LB3.md) Projektmanagement
+||| _Herbstferien_ :roller_coaster: :ferris_wheel: | 
+|Woche&nbsp;8 | 21.10.2022 | EPortfolio bearbeiten | 
+|**Woche&nbsp;9** | **28.10.2022** | **ePortfolios Abgabe** | [**LB4**](../beurteilungen/LB4.md) Abgabe ePortfolio
 
 ---
 
 # Leistungsbeurteilungen [![w:60px](./images/qrcode-beurteilungen.svg)](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/)
 
-||Woche | Datum | Thema | LB
-:---:|:---:|:---:|:---|:---
-||**Woche&nbsp;5** | **16.09.2022** | Projektmanagement Teil1 | [**LB1**](../beurteilungen/LB1.md) Präsentationskonzept
-||**Woche&nbsp;7** | **30.09.2022** | **Präsentationen / PM Test** | [**LB2**](../beurteilungen/LB2.md) Präsentation<br/>[**LB3**](../beurteilungen/LB3.md) Projektmanagement
-||**Woche&nbsp;9** | **28.10.2022** | **ePortfolios Abgabe** | [**LB4**](../beurteilungen/LB4.md) Abgabe ePortfolio
+Woche | Datum | Thema | LB
+:---:|:---:|:---|:---
+|**Woche&nbsp;5** | **16.09.2022** | Projektmanagement Teil1 | [**LB1**](../beurteilungen/LB1.md) Präsentationskonzept
+|**Woche&nbsp;7** | **30.09.2022** | **Präsentationen / PM Test** | [**LB2**](../beurteilungen/LB2.md) Präsentation<br/>[**LB3**](../beurteilungen/LB3.md) Projektmanagement
+|**Woche&nbsp;9** | **28.10.2022** | **ePortfolios Abgabe** | [**LB4**](../beurteilungen/LB4.md) Abgabe ePortfolio
 
 ---
 
