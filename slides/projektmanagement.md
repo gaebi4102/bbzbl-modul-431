@@ -426,7 +426,7 @@ Gruppe 5: «Scrum»
 
 ---
 
-<!-- _class: big -->
+<!-- _class: big center -->
 
 # Wie isst man einen Elefanten?
 
@@ -434,7 +434,7 @@ Gruppe 5: «Scrum»
 
 ---
 
-<!-- _class: big -->
+<!-- _class: big center -->
 
 # In Arbeitspaketen :smiley:
 
@@ -465,7 +465,7 @@ Gruppe 5: «Scrum»
 # Arbeitspakete...
 
 - haben **Abhängigkeiten**
-- werden in einem Projektstrukturplan visualisiert (wenn nicht Scrum)
+- werden in einem Projektstrukturplan visualisiert _(wenn nicht Scrum)_
 - können **Objektorientiert** oder **Funktionsorientiert** gegliedert werden
   - eine Mischung ist in der Praxis gängig
 - müssen eine **klare "Definition of Done"** besitzen
@@ -528,7 +528,7 @@ Einer Person oder einem Team können mehrere Rollen zugewiesen sein.
 
 ---
 
-# <!-- fit --> Aufgabe - Kompetenz - Verantwortung **(AKV)**
+# Aufgabe - Kompetenz - Verantwortung **(AKV)**
 
 - Stellen Sie sich vor, Sie erhalten die einfache **AUFGABE**, einen Sitzungsraum zu reservieren.
 - Um die Aufgabe erledigen zu können, benötigen Sie die **KOMPETENZ**, also das Recht, einen Raum zu reservieren.
@@ -800,14 +800,23 @@ Nehmen wir an, es wäre **keine Überraschungsparty** für Ihren Vater / Ihre Mu
 **Dauer:** 5 Minuten | **Sozialform:** Plenum
 
 <!-- 
-- Basis: Arbeitspakete
--- wer kann welches Paket bearbeiten?
-- Auftraggeber: Vater / Mutter
-- Projektleiter: Party-Organisator
-- Mitarbeiter:
--- z.B. für Essen
--- Räumlichkeiten
--- Rahmenprogramm
+Basis: Arbeitspakete
+
+  - wer kann welches Paket bearbeiten?
+
+Auftraggeber: 
+
+  - Vater / Mutter
+
+Projektleiter: 
+
+  - Party-Organisator
+
+Mitarbeiter:
+
+  - z.B. für Essen
+  - Räumlichkeiten
+  - Rahmenprogramm
 -->
 
 ---
@@ -836,15 +845,18 @@ Dauer: **35 Minuten** | Sozialform: **2 Gruppen** | Produkt / Informationen: **I
 
 # Entscheiden
 
-Mit der Durchführung von Kreativitätstechniken werden sehr viele Ideen und Lösungsvarianten kreiert. Es gilt nun die verschiedenen Varianten systematisch einander gegenüber zu stellen, um einen fundierten Entscheid für eine Variante zu treffen.
+- Mit der Durchführung von Kreativitätstechniken werden sehr viele Ideen und Lösungsvarianten kreiert. 
+
+- Es gilt nun die verschiedenen Varianten **systematisch einander gegenüber zu stellen**, um einen fundierten Entscheid für eine Variante zu treffen.
 
 ---
 
 # Entscheiden / **Machbarkeit prüfen**
 
-- Ein erstes und wohl das wichtigste Kriterium ist der Abgleich mit dem Projektauftrag!
-- Können die gesetzten Ziele erreicht werden?
-- Werden die gegeben Rahmenbedingen eingehalten (z.B.  Technologie)?
+- Ein erstes und wohl das wichtigste Kriterium ist der **Abgleich mit dem Projektauftrag**!
+- Können die gesetzten **Ziele** erreicht werden?
+- Werden die gegeben **Rahmenbedingen** eingehalten (z.B.  Technologie)?
+
 - Wenn nicht, muss die Variante verworfen werden.
 
 ---
@@ -868,6 +880,7 @@ Total      | **6**          | 9          | 9
 Es gibt aber auch immer noch übergeordnete Gründe für Entscheide:
 
 - Langjährige Partnerschaften
+
 - Gegengeschäft
 - Preis
 - Erfahrung des Anbieters
