@@ -121,7 +121,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ::: split
 
-# **ePortfolio**
+## **ePortfolio**
 
 - Qualitative Wissensablage
 
@@ -142,7 +142,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ::: split
 
-# **ePortfolio**
+## **ePortfolio**
 
 - **Sorgfältig Ausgewählte** Inhalte
 - **Erfolge/Misserfolge** dokumentiert
@@ -166,7 +166,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ::: split
 
-# **ePortfolio**
+## **ePortfolio**
 
 - **Inhaltlich** gegliedert
 - Dokumentiert die **Inhalte**

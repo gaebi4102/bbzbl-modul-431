@@ -494,14 +494,6 @@ Gruppe 5: «Scrum»
 
 :::
 
-<!-- 
-^Projekte sind:
-2, 3, 5, 7
-
-^Wenn grösser evt.:
-8, 9
--->
-
 ---
 
 <!-- _class: big -->
