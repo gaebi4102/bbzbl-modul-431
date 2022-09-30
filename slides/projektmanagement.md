@@ -676,7 +676,7 @@ Mitglied des Entscheidungsgremiums
 ### Verantwortung
 
 - Korrekte Ausführung des Projektes
-- Einhaltung der zugeteilten Ressourceno
+- Einhaltung der zugeteilten Ressourcen
 
 :::
 
