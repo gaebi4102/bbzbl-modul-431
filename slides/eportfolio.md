@@ -37,14 +37,14 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ---
 
-<!-- _class: small-text -->
+<!-- _class: small-text emoji-list -->
 
 # :teacher: Prinzip
 
 1. **Lernen**
-    - im Unterricht :mortar_board:
-    - der Arbeit :hammer:
-    - im Leben :bath:
+    - :mortar_board: im Unterricht
+    - :hammer: der Arbeit
+    - :bath: im Leben 
 1. Zusätzliches **Material sammeln** :mag:
     - **Quellenangaben** nicht vergessen!
 1. Material sichten, **auswerten** :eyes:

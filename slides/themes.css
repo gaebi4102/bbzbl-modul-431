@@ -30,6 +30,22 @@ section.code { font-family: 'Fira Code', monospace;  }
 .italic{font-style: italic;}
 .oblique{font-style: oblique;}
 
+section.emoji-list ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+section.emoji-list ul > li {
+  position: relative;
+  /* margin-left: 1rem !important; */
+}
+section.emoji-list ul > li > .emoji {
+  left: -2rem;
+  position: absolute;
+  /* text-align: center; */
+  width: 1rem;
+  line-height: inherit;
+}
+
 section .footnotes {
   position: absolute;
   bottom: 2rem;
