@@ -32,14 +32,15 @@ section.code { font-family: 'Fira Code', monospace;  }
 
 section.emoji-list ul {
   list-style-type: none;
-  padding-left: 0;
+  padding-left: 2rem;
 }
 section.emoji-list ul > li {
   position: relative;
   /* margin-left: 1rem !important; */
 }
-section.emoji-list ul > li > .emoji {
-  left: -2rem;
+section.emoji-list ul > li img {
+  left: -40px;
+  top: 5px;
   position: absolute;
   /* text-align: center; */
   width: 1rem;
@@ -162,9 +163,9 @@ section.small-text ol,
 section.small-text p {
   font-size: 0.8rem;
 }
-section.small-text ul {
-  padding-left: 1rem;
-}
+/* section.small-text ul { */
+/*   padding-left: 1rem; */
+/* } */
 
 /* center */
 section.center {

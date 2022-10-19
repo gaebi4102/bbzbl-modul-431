@@ -17,17 +17,17 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ---
 
-<!-- _class: small-text -->
+<!-- _class: small-text emoji-list -->
 
 # :question: Das ePortfolio
 
-- ist **Persönlich**, allenfalls teilöffentlich
+- :old_key: ist **Persönlich**, allenfalls teilöffentlich
 
-- ist eine **Wissenssammlung**
-- **wächst** mit Ihnen **mit**
-- **begleitet** Sie ein Leben lang _- hoffentlich_
-- soll **Wissen verknüpfen**
-- _sollte_ **portierbar/wiederverwendbar** sein
+- :books: ist eine **Wissenssammlung**
+- :seedling: **wächst** mit Ihnen **mit**
+- :hand: **begleitet** Sie ein Leben lang _- hoffentlich_
+- :link: soll **Wissen verknüpfen**
+- :factory: _sollte_ **portierbar/wiederverwendbar** sein
 
 ![bg right](http://farm6.static.flickr.com/5299/5509366873_7569248504_z.jpg)
 
@@ -46,7 +46,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
     - :hammer: der Arbeit
     - :bath: im Leben 
 1. Zusätzliches **Material sammeln** :mag:
-    - **Quellenangaben** nicht vergessen!
+    - :monocle_face: **Quellenangaben** nicht vergessen!
 1. Material sichten, **auswerten** :eyes:
 
 1. Im ePortfolio **kuratieren** :art:
@@ -97,15 +97,17 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ---
 
+<!-- _class: emoji-list -->
+
 # :keyboard: In Code
 
-> :point_up: Nur wenn Ihr euch sicher fühlt!
+**:point_up: Nur wenn Ihr euch sicher fühlt!**
 
-- ![height:20px](https://github.githubassets.com/images/modules/logos_page/Octocat.png) [Github & Markdown](https://www.github.com)
+- ![height:25px](https://github.githubassets.com/images/modules/logos_page/Octocat.png) [Github & Markdown](https://www.github.com)
     - [GitHub Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
     - [Docusaurus](https://docusaurus.io) (Die Modulwebseite ist damit gemacht!)
-    - ![height:20px](https://jekyllrb.com/img/logo-2x.png) [Jekyll](https://jekyllrb.com/) (Standard von Github)
-- ![height:20px](https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg) [WordPress](https://wordpress.com/de/com-vs-org/) 
+    - ![height:25px](https://jekyllrb.com/img/logo-2x.png) [Jekyll](https://jekyllrb.com/) (Standard von Github)
+- ![height:25px](https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg) [WordPress](https://wordpress.com/de/com-vs-org/) 
 
 - :hand: HTML von Hand _(nicht zu empfehlen wegen Aufwand)_
 
@@ -191,18 +193,21 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ---
 
+<!-- _class: emoji-list -->
+
 ::: columns
 
 # **Starten Sie jetzt**
 
 1. Das Tool auswählen
+
 1. Probieren Sie es aus
 1. Machen Sie den ersten Eintrag
-    - _z.B. Handlungskompetenz_
+    - :arrow_right: _z.B. Handlungskompetenz_
 
 <br>
 
-> :bulb: Wenn Sie heute noch nicht fertig werden ist das kein Problem!
+- :information_desk_person:  **Wenn Sie heute noch nicht fertig werden ist das kein Problem!**
 
 ::: split
 

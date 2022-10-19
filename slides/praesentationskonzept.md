@@ -55,43 +55,52 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ---
 
+<!-- _class: emoji-list -->
+
 # Inhalt
 
-- Bilder 🖼
-- Roter Faden 🧶
-- Dramaturgie 🎭
-- Diagramme statt Zahlen 📈 📊
-- Reduktion aufs Wesentliche ✂️
-- KISS, keep it simple and stupid
+- 🖼 Bilder
+
+- 🧶 Roter Faden 
+- 🎭 Dramaturgie 
+- 📈 📊Diagramme statt Zahlen 
+- ✂️ Reduktion aufs Wesentliche
+- :hatched_chick: KISS, keep it simple and stupid
 
 ![bg right fit](./images/content.png)
 
 ---
 
+<!-- _class: emoji-list -->
+
 # Stil / Auftreten
 
 ![bg right fit](./images/koerperhaltung.jpg)
 
-- Sei begeistert! :clap:
-- Körpersprache :dancers:
-- Biete eine Show 🎩
-- Halte Blickkontakt :eyes:
-- Ruhig und langsamer reden :bath:
-- Spreche frei / Kenne das Thema 🗣
-- Kleidung/Stil dem Publikum entsprechend
+- :clap: Sei begeistert!
+
+- :dancers: Körpersprache 
+- 🎩 Biete eine Show 
+- :eyes: Halte Blickkontakt
+- :bath: Ruhig und langsamer reden
+- 🗣 Spreche frei / Kenne das Thema
+- :sari: Kleidung/Stil dem Publikum entsprechend
 
 ---
+
+<!-- _class: emoji-list -->
 
 # Hilfsmittel
 
 ![bg right](./images/publikum.jpeg)
 
-- Publikum mit einbeziehen 👋
-- Folien / Beamer 💻
-- Flipchart 📋
-- Diskussion 🙋
-- Video 🎞
-- Theater / Sketch 🤹
+- 👋 Publikum mit einbeziehen
+
+- 💻 Folien / Beamer 
+- 📋 Flipchart 
+- 🙋 Diskussion 
+- 🎞 Video 
+- 🤹 Theater / Sketch 
 
 ---
 
