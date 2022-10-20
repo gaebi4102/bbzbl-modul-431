@@ -28,12 +28,14 @@ const config = {
     locales: ['de'],
   },
 
-  plugins: [
+  themes: [
     [
-      require.resolve("@cmfcmf/docusaurus-search-local"),
+      require.resolve("@easyops-cn/docusaurus-search-local"),
       {
-        indexPages: true,
-        language: "de",
+        hashed: true,
+        language: ["de"],
+        indexBlog: false,
+        indexPages: true
       },
     ],
   ],
