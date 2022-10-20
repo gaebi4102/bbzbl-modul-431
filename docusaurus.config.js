@@ -28,6 +28,16 @@ const config = {
     locales: ['de'],
   },
 
+  plugins: [
+    [
+      require.resolve("@cmfcmf/docusaurus-search-local"),
+      {
+        indexPages: true,
+        language: "de",
+      },
+    ],
+  ],
+
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -71,7 +81,7 @@ const config = {
             position: 'left',
             label: 'Unterlagen',
           },
-          {to: '/slides/', label: 'Präsentationen', position: 'left'},
+          { to: '/slides/', label: 'Präsentationen', position: 'left' },
           {
             href: 'https://github.com/codingluke/bbzbl-modul-431',
             label: 'GitHub',

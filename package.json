@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "@agentofuser/remark-oembed": "^1.0.4",
+    "@cmfcmf/docusaurus-search-local": "^0.11.0",
     "@docusaurus/core": "^2.1.0",
     "@docusaurus/preset-classic": "^2.1.0",
     "@marp-team/marp-cli": "^2.2.0",
