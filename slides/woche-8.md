@@ -47,6 +47,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 - **Gesamtreflexion** / **Fazit** vorhanden
 - Sinnvoll **strukturiert**
 - **Motivation** ist ersichtlich
+- Alle **Quellen** sind vorhanden!
 
 ---
 
