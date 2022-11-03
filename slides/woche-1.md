@@ -82,37 +82,37 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ---
 
-# Quartalsplan <sup>1/2</sup> [![w:60px](./images/qrcode-lektionen.svg)](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/)
+# Quartalsplan <sup>1/2</sup>
 
-||Woche | Datum | Thema | LB
-:---:|:---:|:---:|:---|:---
-:point_right:|[Woche&nbsp;1](./woche-1.md) | 19.08.2022 | [ePortfolio](../themen/eportfolio.md) / [Handlungskompetenz](../themen/handlungskompetenz.md) / [Lernjournal](../themen/lernjournal.md) | 
-||Woche&nbsp;2 | 26.08.2022 | IPERKA / Präsentationstechniken- und konzept | 
-||Woche&nbsp;3 | 02.09.2022 | Tipps zur- und Erarbeitung der Präsentation | 
-||Woche&nbsp;4 | 09.09.2022 | Kreativitäts-Techniken | 
-||**Woche&nbsp;5** | **16.09.2022** | Projektmanagement Teil1 | [**LB1**](../beurteilungen/LB1.md) 
+Woche | Datum | Thema | LB 
+:---:|:---:|:---|:---
+[Woche&nbsp;1](./woche-1.md) | 04.11.2022 | [ePortfolio](../themen/eportfolio.md) / [Handlungskompetenz](../themen/handlungskompetenz.md) / [Lernjournal](../themen/lernjournal.md) | 
+[Woche&nbsp;2](./woche-2.md) | 11.11.2022 | [IPERKA](../themen/iperka.md) / [Präsentationskonzept](../themen/praesentationskonzept.md) | 
+[Woche&nbsp;3](./woche-3.md) | 18.11.2022 | Tipps zur Erarbeitung der Präsentation | 
+[Woche&nbsp;4](./woche-4.md) | 25.11.2022 | [Kreativitätstechniken](../themen/kreativitaetstechniken.md) | 
+[**Woche&nbsp;5**](./woche-5.md) | **02.12.2022** | [Projektmanagement Teil1](../themen/projektmanagement.md) | [**LB1**](../beurteilungen/LB1.md) 
+
 ---
 
+# Quartalsplan <sup>2/2</sup>
 
-# Quartalsplan <sup>2/2</sup> [![w:60px](./images/qrcode-lektionen.svg)](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/)
-
-Woche | Datum | Thema | LB
+Woche | Datum | Thema | LB 
 :---:|:---:|:---|:---
-|Woche&nbsp;6 | 23.09.2022 | Projektmanagement Teil2 | 
-|**Woche&nbsp;7** | **30.09.2022** | **Präsentationen / PM Test** | [**LB2**](../beurteilungen/LB2.md) Präsentation<br/>[**LB3**](../beurteilungen/LB3.md) Projektmanagement
-||| _Herbstferien_ :roller_coaster: :ferris_wheel: | 
-|Woche&nbsp;8 | 21.10.2022 | EPortfolio bearbeiten | 
-|**Woche&nbsp;9** | **28.10.2022** | **ePortfolios Abgabe** | [**LB4**](../beurteilungen/LB4.md) Abgabe ePortfolio
+[Woche&nbsp;6](./woche-6.md) | 09.12.2022 | Projektmanagement Teil2 | 
+[**Woche&nbsp;7**](./woche-7.md) | **16.12.2022** | **Präsentationen / PM Test** | [**LB2**](../beurteilungen/LB2.md) / [**LB3**](../beurteilungen/LB3.md) 
+Woche&nbsp;8 | 23.12.2022 | EPortfolio bearbeiten | 
+|| _30.12.2022_<br/>_06.01.2023_| :christmas_tree: *Wheinachtsferien* :christmas_tree: | 
+Woche&nbsp;9 | 13.01.2023 | EPortfolio bearbeiten | 
+**Woche&nbsp;10** | **20.01.2023** | Präsentation und Abgabe des ePortfolios | [**LB4**](../beurteilungen/LB4.md)
 
 ---
 
 # Leistungsbeurteilungen [![w:60px](./images/qrcode-beurteilungen.svg)](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/)
-
-Woche | Datum | Thema | LB
-:---:|:---:|:---|:---
-|**Woche&nbsp;5** | **16.09.2022** | Projektmanagement Teil1 | [**LB1**](../beurteilungen/LB1.md) Präsentationskonzept
-|**Woche&nbsp;7** | **30.09.2022** | **Präsentationen / PM Test** | [**LB2**](../beurteilungen/LB2.md) Präsentation<br/>[**LB3**](../beurteilungen/LB3.md) Projektmanagement
-|**Woche&nbsp;9** | **28.10.2022** | **ePortfolios Abgabe** | [**LB4**](../beurteilungen/LB4.md) Abgabe ePortfolio
+||Woche | Datum | Thema | LB 
+:---:|:---:|:---:|:---|:---
+||[**Woche&nbsp;5**](./woche-5.md) | **02.12.2022** | Präsentationskonzept | [**LB1**](../beurteilungen/LB1.md) 
+||[**Woche&nbsp;7**](./woche-7.md) | **16.12.2022** | Präsentationen / PM Test | [**LB2**](../beurteilungen/LB2.md) / [**LB3**](../beurteilungen/LB3.md) 
+||**Woche&nbsp;10** | **20.01.2023** | Präsentation und Abgabe des ePortfolios | [**LB4**](../beurteilungen/LB4.md)
 
 ---
 

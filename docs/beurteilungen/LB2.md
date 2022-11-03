@@ -2,7 +2,7 @@
 
 **Form**          | **Abgabe** | **Gewicht**
 :---              | :---:      | ---:
-Partnerarbeit[^1] | Woche 7    | 25%
+Partnerarbeit[^1] | Woche 7 / 16.12.2022    | 25%
 
 [^1]: in Ausnahmefällen Dreiergruppe oder Einzelarbeit
 

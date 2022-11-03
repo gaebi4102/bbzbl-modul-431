@@ -1,8 +1,8 @@
 # LB3 - Projektmanagement
 
-Form | Abgabe  | Gewicht
-:--- | :---:   | ---:
-Test | Woche 7 | 12.5%
+Form | Abgabe               | Gewicht
+:--- | :---:                | ---:
+Test | Woche 7 / 16.12.2022 | 12.5%
 
 ## Auftrag
 
@@ -12,9 +12,9 @@ Test | Woche 7 | 12.5%
 
 ## Inhalt
 
-- [x] Projektauslöser
-- [x] Projektmerkmale
-- [x] Projektmodelle
-- [x] Projektrollen
-- [x] Arbeitspakete
-- [x] Entscheidungsfindung
+- [X] Projektauslöser
+- [X] Projektmerkmale
+- [X] Projektmodelle
+- [X] Projektrollen
+- [X] Arbeitspakete
+- [X] Entscheidungsfindung

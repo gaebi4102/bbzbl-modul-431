@@ -239,7 +239,7 @@ Macht euch zum folgenden [Film](https://www.youtube.com/watch?v=9tR0C93T0hs) Not
 
 Form|Abgabe|Gewicht
 :---|:---:|---:
-Partnerarbeit | Woche 5 / **16.09.2022** | 12.5%
+Partnerarbeit | Woche 5 / **02.12.2022** | 12.5%
 
 ## Auftrag
 
@@ -248,7 +248,7 @@ Partnerarbeit | Woche 5 / **16.09.2022** | 12.5%
 
 ## Abgabe
 
-- Vor 12:45 am 16.09.2022
+- Vor 12:45 am 02.12.2022
 - Google Drive Abgabeordner vom Modul 431
 - Dokumentname: **431_Praesentationskonzept_Nachname1_Nachname2.pdf**
 
