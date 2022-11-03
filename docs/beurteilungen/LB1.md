@@ -35,19 +35,7 @@ Partnerarbeit | Woche 5 / 02.12.2022 **vor 12:45** | 12.5%
    - z.B. Einzüge, Absätze, Schriftart und Grösse
 - [x] Gesamteindruck
 - [x] Quellenangaben sind ersichtlich
-- [x] Dateiname für Speicherung eingehalten?
-- [x] Kopf- und Fusszeile vorhanden?
 - [x] Ist die Arbeit detailliert genug?
-- [x] Korrekte Rechtschreibung
-- [x] Wurde berücksichtigt, dass keine produktspezifischen Informationen verwendet wurden?
-- [x] Wurden (genügend) Aussagen zur Planung der Präsentation genannt?
-- [x] Wurden (genügend) Aussagen zur Gestaltung der Präsentation genannt?
-- [x] Wurden (genügend) Aussagen zum Präsentationsablauf genannt?
-- [x] Wurden (genügend) Aussagen zum Präsentationsstil genannt?
-- [x] Wurden (genügend) Aussagen zum Lampenfieber genannt?
-- [x] Gestaltung des Dokuments, Einheitlichkeit z.B. Einzüge, Absätze
-- [x] Gesamteindruck
-- [x] Quellenangaben ersichtlich
 
 ## Bewertung
 

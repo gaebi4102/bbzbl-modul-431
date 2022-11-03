@@ -69,7 +69,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ---
 
-# Modulübersicht [![w:60px](./images/qrcode-themen.svg)](https://codingluke.github.io/bbzbl-modul-431/docs/themen/)
+# Modulübersicht
 
 ![bg right fit](./images/kompass.jpg)
 

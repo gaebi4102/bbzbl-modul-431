@@ -9,8 +9,8 @@ Einzelarbeit | Woche 10 / 20.01.2023 | 50%
 ## Auftrag
 
 - Das **ePortfolio** wird **während den Lektionen** fortlaufend erstellt und erweitert
-- **Teil 1 (3/4)**: Das ePortfolio ist der Lehrperson zugänglich und wird bewertet
-- **Teil 2 (1/4)**: Das ePortfolio wird der Klasse präsentiert
+- **Teil 1 (4/4)**: Das ePortfolio ist der Lehrperson zugänglich und wird bewertet
+- **Teil 2**: Das ePortfolio wird der Klasse präsentiert (nicht benotet)
 
 ## Inhalt
 
@@ -30,9 +30,13 @@ Einzelarbeit | Woche 10 / 20.01.2023 | 50%
 
 ### Vollständigkeit
 
-- [x] Deckt **alle Themen** des Moduls ab
-- [x] Beinhaltet einen **Praxisbezug**
-- [x] Beinhaltet das **Lernjournal**
+- [X] Deckt **alle Themen** des Moduls ab
+- [X] Beinhaltet mindestens einen detaillierteren **Praxisbezug**
+- [X] Beinhaltet das **Lernjournal**
+- [X] **Verknüpft** die Themen untereinander
+- [X] Beinhaltat eine **Reflexion zu jedem Thema**
+- [X] Beinhaltet eine **Gesamtreflexion**
+- **Quellen** werden angegeben
 
 ## Bewertungskriterien
 
