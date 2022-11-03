@@ -2,9 +2,9 @@
 
 Ein ePortfolio ist eine **selektiv** und **reflektiert** zusammengestellte, **kommmentierte Sammlung** von "Illustrationen" verschiedenster Art, die die Arbeit und den Fortschritt der Autor\*in in **verschiedenen Kontexten** und über eine **längere Zeitspanne** dokumentiert.
 
-Form         | Abgabe                | Gewicht
-:---         | :---:                 | ---:
-Einzelarbeit | Woche 10 / 20.01.2023 | 50%
+Form         | Abgabe               | Gewicht
+:---         | :---:                | ---:
+Einzelarbeit | Woche 9 / 13.01.2023 | 50%
 
 ## Auftrag
 

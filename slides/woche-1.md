@@ -102,8 +102,7 @@ Woche | Datum | Thema | LB
 [**Woche&nbsp;7**](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/woche-7) | **16.12.2022** | **Präsentationen / PM Test** | [**LB2**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB2) / [**LB3**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB3) 
 Woche&nbsp;8 | 23.12.2022 | EPortfolio bearbeiten | 
 || _30.12.2022_<br/>_06.01.2023_| :christmas_tree: *Wheinachtsferien* :christmas_tree: | 
-Woche&nbsp;9 | 13.01.2023 | EPortfolio bearbeiten | 
-**Woche&nbsp;10** | **20.01.2023** | Präsentation und Abgabe des ePortfolios | [**LB4**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB4)
+**Woche&nbsp;9** | **13.01.2023** | Präsentation und Abgabe des ePortfolios | [**LB4**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB4)
 
 ---
 
@@ -113,7 +112,7 @@ Woche&nbsp;9 | 13.01.2023 | EPortfolio bearbeiten |
 :---:|:---:|:---:|:---|:---
 ||[**Woche&nbsp;5**](./woche-5) | **02.12.2022** | Präsentationskonzept | [**LB1**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB1) 
 ||[**Woche&nbsp;7**](./woche-7) | **16.12.2022** | Präsentationen / PM Test | [**LB2**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB2) / [**LB3**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB3) 
-||**Woche&nbsp;10** | **20.01.2023** | Präsentation und Abgabe des ePortfolios | [**LB4**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB4)
+||**Woche&nbsp;9** | **13.01.2023** | Präsentation und Abgabe des ePortfolios | [**LB4**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB4)
 
 ---
 
