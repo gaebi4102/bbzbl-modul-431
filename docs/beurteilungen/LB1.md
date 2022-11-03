@@ -1,7 +1,7 @@
 # LB1 - Präsentationskonzept
 
-Form          | Abgabe  | Gewicht
-:---          | :---:   | ---:
+Form          | Abgabe                             | Gewicht
+:---          | :---:                              | ---:
 Partnerarbeit | Woche 5 / 16.09.2022 **vor 12:45** | 12.5%
 
 ## Auftrag

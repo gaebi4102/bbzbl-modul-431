@@ -15,6 +15,10 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
 
+  markdown: {
+    mermaid: true,
+  },
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'codingluke', // Usually your GitHub org/user name.
@@ -38,6 +42,7 @@ const config = {
         indexPages: true
       },
     ],
+    require.resolve("@docusaurus/theme-mermaid"),
   ],
 
   presets: [
@@ -70,6 +75,9 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      mermaid: {
+        theme: { light: 'neutral', dark: 'forest' },
+      },
       navbar: {
         title: 'Modul 431',
         logo: {

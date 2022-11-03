@@ -214,9 +214,3 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 # <!-- fit --> :rocket:
 
 :::
-
----
-
-# tolle neue seite
-
-![bg right fit](https://www.roche.ch/dam/jcr:0309f9a6-fc89-449b-b529-6125e7ed4dbd/Hero%20Image_roche.ch.jpg)
