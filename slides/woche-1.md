@@ -87,10 +87,10 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 Woche | Datum | Thema | LB 
 :---:|:---:|:---|:---
 [Woche&nbsp;1](./woche-1) | 04.11.2022 | [ePortfolio](https://codingluke.github.io/bbzbl-modul-431/docs/themen/eportfolio) / [Handlungskompetenz](https://codingluke.github.io/bbzbl-modul-431/docs/themen/handlungskompetenz) / [Lernjournal](https://codingluke.github.io/bbzbl-modul-431/docs/themen/lernjournal) | 
-[Woche&nbsp;2](./woche-2) | 11.11.2022 | [IPERKA](https://codingluke.github.io/bbzbl-modul-431/docs/themen/iperka) / [Präsentationskonzept](https://codingluke.github.io/bbzbl-modul-431/docs/themen/praesentationskonzept) | 
-[Woche&nbsp;3](./woche-3) | 18.11.2022 | Tipps zur Erarbeitung der Präsentation | 
-[Woche&nbsp;4](./woche-4) | 25.11.2022 | [Kreativitätstechniken](https://codingluke.github.io/bbzbl-modul-431/docs/themen/kreativitaetstechniken) | 
-[**Woche&nbsp;5**](./woche-5) | **02.12.2022** | [Projektmanagement Teil1](https://codingluke.github.io/bbzbl-modul-431/docs/themen/projektmanagement) | [**LB1**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB1) 
+[Woche&nbsp;2](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/woche-2) | 11.11.2022 | [IPERKA](https://codingluke.github.io/bbzbl-modul-431/docs/themen/iperka) / [Präsentationskonzept](https://codingluke.github.io/bbzbl-modul-431/docs/themen/praesentationskonzept) | 
+[Woche&nbsp;3](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/woche-3) | 18.11.2022 | Tipps zur Erarbeitung der Präsentation | 
+[Woche&nbsp;4](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/woche-4) | 25.11.2022 | [Kreativitätstechniken](https://codingluke.github.io/bbzbl-modul-431/docs/themen/kreativitaetstechniken) | 
+[**Woche&nbsp;5**](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/woche-5) | **02.12.2022** | [Projektmanagement Teil1](https://codingluke.github.io/bbzbl-modul-431/docs/themen/projektmanagement) | [**LB1**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB1) 
 
 ---
 
@@ -98,7 +98,7 @@ Woche | Datum | Thema | LB
 
 Woche | Datum | Thema | LB 
 :---:|:---:|:---|:---
-[Woche&nbsp;6](./woche-6) | 09.12.2022 | Projektmanagement Teil2 | 
+[Woche&nbsp;6](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/woche-6) | 09.12.2022 | Projektmanagement Teil2 | 
 [**Woche&nbsp;7**](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/woche-7) | **16.12.2022** | **Präsentationen / PM Test** | [**LB2**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB2) / [**LB3**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB3) 
 Woche&nbsp;8 | 23.12.2022 | EPortfolio bearbeiten | 
 || _30.12.2022_<br/>_06.01.2023_| :christmas_tree: *Wheinachtsferien* :christmas_tree: | 
