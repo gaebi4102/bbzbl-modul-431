@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Woche 2
 
 > [IPERKA](../themen/iperka.md) / [Präsentationskonzept](../themen/praesentationskonzept.md)

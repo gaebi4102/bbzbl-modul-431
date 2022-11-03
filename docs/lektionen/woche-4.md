@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Woche 4
 
 > [Kreativitätstechniken](../themen/kreativitaetstechniken.md)

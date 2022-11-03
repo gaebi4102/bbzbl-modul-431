@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Woche 1
 
 > Einleitung / [ePortfolio](../themen/eportfolio.md) / [Handlungskompetenz](../themen/handlungskompetenz.md) / [Lernjournal](../themen/lernjournal.md)

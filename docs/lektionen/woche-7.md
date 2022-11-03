@@ -1,3 +1,7 @@
+---
+sidebar_position: 7
+---
+
 # Woche 7
 
 > Präsentationen & PM Prüfung

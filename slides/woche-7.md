@@ -49,8 +49,3 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 - Die PM-Prüfung wurde geschrieben
 - Das ePortfolio ist beinahe fertig
 
----
-
-# Ausblick
-
-## <!-- fit --> :roller_coaster: :ferris_wheel:

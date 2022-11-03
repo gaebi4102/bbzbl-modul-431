@@ -9,10 +9,10 @@
 ||[**Woche&nbsp;5**](./woche-5.md) | **02.12.2022** | [Projektmanagement Teil1](../themen/projektmanagement.md) | [**LB1**](../beurteilungen/LB1.md) Präsentationskonzept abgeben
 ||[Woche&nbsp;6](./woche-6.md) | 09.12.2022 | Projektmanagement Teil2 | 
 ||[**Woche&nbsp;7**](./woche-7.md) | **16.12.2022** | **Präsentationen / PM Test** | [**LB2**](../beurteilungen/LB2.md) Präsentation<br/>[**LB3**](../beurteilungen/LB3.md) Projektmanagement
-||Woche&nbsp;8 | 23.12.2022 | EPortfolio bearbeiten | 
+||[Woche&nbsp;8](./woche-8.md) | 23.12.2022 | EPortfolio bearbeiten | 
  ||| _30.12.2022_<br/>_06.01.2023_| :christmas_tree: *Wheinachtsferien* :christmas_tree: | 
-||Woche&nbsp;9 | 13.01.2023 | EPortfolio bearbeiten | 
-||**Woche&nbsp;10** | **20.01.2023** | Präsentation und Abgabe des ePortfolios | [**LB4**](../beurteilungen/LB4.md) Abgabe ePortfolio
+||[Woche&nbsp;9](./woche-9.md) | 13.01.2023 | EPortfolio bearbeiten | 
+||[**Woche&nbsp;10**](./woche-10.md) | **20.01.2023** | Präsentation und Abgabe des ePortfolios | [**LB4**](../beurteilungen/LB4.md) Abgabe ePortfolio
 
 ## Inhalt
 

@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # Woche 5
 
 > [Projektmanagement](../themen/projektmanagement.md)

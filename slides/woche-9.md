@@ -2,13 +2,13 @@
 marp: true
 theme: bbzbl
 paginate: true
-header: Modul 431 - Woche 8
+header: Modul 431 - Woche 9
 footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 ---
 
 <!-- _class: big center -->
 
-# Woche 8
+# Woche 9
 ## Modul 431 
 
 ---
@@ -56,9 +56,3 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 # Lernziele :dart:
 
 ## **E-Portfolio sollte fertig sein!**
-
----
-
-# Ausblick
-
-## <!-- fit --> :christmas_tree: :gift:

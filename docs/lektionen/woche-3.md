@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Woche 3
 
 > Tipps zur Präsentation / Erarbeitung der Präsentation

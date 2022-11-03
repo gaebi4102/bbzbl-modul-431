@@ -1,3 +1,7 @@
+---
+sidebar_position: 8
+---
+
 # Woche 8
 
 > Freies Arbeiten am E-Portfoilo
