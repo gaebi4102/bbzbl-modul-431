@@ -10,13 +10,13 @@ Partnerarbeit | Woche 5 / 02.12.2022 **vor 12:45** | 12.5%
   - [:link: Vorlage auf Google Docs](https://docs.google.com/document/d/1q801qPjNKls_0JA0Ng7y2lv-K85w3po9zquc-o3vnIk/edit)
 - **Inhalt**: Planung, Gestaltung, Präsentationsablauf, Präsentationsstil, Lampenfieber
 - **Abgabe**: **Am 02.12.2022 vor 12:45** via Google Drive 
-  - [:file_folder: Abgabeordner Modul 431](https://drive.google.com/drive/folders/1R-JJu43fsbGwz0cRJVh7rnSM_vWPgG1v)
+  - [:file_folder: Abgabeordner Modul 431](https://drive.google.com/drive/folders/1pfW0csBesX65Eo1-StB_9OSj2Qg37QEM)
   - Namensgebung: **431\_Praesentationskonzept\_Nachname1\_Nachname2.pdf**
 
 :::danger Die Abgabe muss:
 - ein PDF sein
 - die Namensgebung **431\_Praesentationskonzept\_Nachname1\_Nachname2.pdf** besitzen
-- sich im **[:file_folder: Abgabeordner](https://drive.google.com/drive/folders/1R-JJu43fsbGwz0cRJVh7rnSM_vWPgG1v)** befinden
+- sich im **[:file_folder: Abgabeordner](https://drive.google.com/drive/folders/1pfW0csBesX65Eo1-StB_9OSj2Qg37QEM)** befinden
 - Individuelle Freigaben sind nicht erlaubt!
 :::
 

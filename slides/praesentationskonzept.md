@@ -249,7 +249,7 @@ Partnerarbeit | Woche 5 / **02.12.2022** | 12.5%
 ## Abgabe
 
 - Vor 12:45 am 02.12.2022
-- Google Drive Abgabeordner vom Modul 431
+- Google Drive [Abgabeordner](https://drive.google.com/drive/folders/1pfW0csBesX65Eo1-StB_9OSj2Qg37QEM) vom Modul 431
 - Dokumentname: **431_Praesentationskonzept_Nachname1_Nachname2.pdf**
 
 ::: split
@@ -306,7 +306,7 @@ Partnerarbeit<sup>*</sup> | W7 / 17.12.21 | 25%
 
 ## Abgabe
 
-- Google Drive Abgabeordner vom Modul 431
+- Google Drive [Abgabeordner](https://drive.google.com/drive/folders/1pfW0csBesX65Eo1-StB_9OSj2Qg37QEM) vom Modul 431
 - Dokumentname: **431\_Praesentation\_Nachname1\_Nachname2.pdf**
 
 ::: split
