@@ -28,12 +28,14 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 - IPERKA
   - Arbeitsauftrag 1 (Fragen)
   - Arbeitsauftrag 2 (Reflexion)
-- Präsentationskonzept
+- ePortfolio 
+  - IPERKA
 
 ::: split
 
 ## Lektionen **3 + 4**
 
+- Präsentationskonzept
 - Leistungsbeleg 1 
   - besprechen
 - ePortfolio 
