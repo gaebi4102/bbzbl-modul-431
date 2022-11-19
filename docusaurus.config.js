@@ -45,6 +45,21 @@ const config = {
     require.resolve("@docusaurus/theme-mermaid"),
   ],
 
+  plugins: [
+    ["devserver-config",
+      {
+        proxy: {
+          "/bbzbl-modul-431/slides": {
+            target: "http://localhost:3003",
+            pathRewrite: function(/** @type {string} */ path, /** @type {any} */ _req) {
+              return path.replace("/bbzbl-modul-431/slides", '') + ".md";
+            }
+          }
+        }
+      }
+    ]
+  ],
+
   presets: [
     [
       '@docusaurus/preset-classic',
