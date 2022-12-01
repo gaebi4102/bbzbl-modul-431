@@ -29,11 +29,11 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 ## Die sechs Stufen
 
 1) Informieren
-1) Planen
-1) Entscheiden
-1) Realisieren
-1) Kontrollieren
-1) Auswerten
+2) Planen
+3) Entscheiden
+4) Realisieren
+5) Kontrollieren
+6) Auswerten
 
 :::
 

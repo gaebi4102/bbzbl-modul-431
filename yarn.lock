@@ -1925,10 +1925,10 @@
   resolved "https://registry.yarnpkg.com/@leichtgewicht/ip-codec/-/ip-codec-2.0.4.tgz#b2ac626d6cb9c8718ab459166d4bb405b8ffa78b"
   integrity sha512-Hcv+nVC0kZnQ3tD9GVu5xSMR4VVYOteQIr/hwFPVEvPdlXqgGEuRjiheChHgdM+JyqdgNcmzZOX/tnl0JOiI7A==
 
-"@marp-team/marp-cli@^2.2.1":
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/@marp-team/marp-cli/-/marp-cli-2.2.1.tgz#582eb86304816228e8442c55af191e5015c4c963"
-  integrity sha512-sbl9AAzYDDU1mTLR/z1GLMyUbHpqyOQMFS/apq2wjEYTCzOQRmsDo4nzw5Esf5QbtjdCQgiGET5wcsVWjWnUBA==
+"@marp-team/marp-cli@^2.2.2":
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/@marp-team/marp-cli/-/marp-cli-2.2.2.tgz#66f3ac9306cc581a92f6e084f43242961b6b2703"
+  integrity sha512-Efzpmf9xc/eo38Bqn+qnZCAwm2/jzbta6dTV0OoEysb4dXbhAxRFUq3TE55iUOQT6pOfm+b+9Hd1i/j/Sx+lHg==
   dependencies:
     "@marp-team/marp-core" "^3.4.0"
     "@marp-team/marpit" "^2.4.2"

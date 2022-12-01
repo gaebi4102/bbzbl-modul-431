@@ -1,5 +1,5 @@
 {
-  "name": "docosaurus-rex",
+  "name": "bbzbl-modul-431",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -39,7 +39,7 @@
     "@docusaurus/preset-classic": "^2.2.0",
     "@docusaurus/theme-mermaid": "^2.2.0",
     "@easyops-cn/docusaurus-search-local": "^0.33.4",
-    "@marp-team/marp-cli": "^2.2.1",
+    "@marp-team/marp-cli": "^2.2.2",
     "@mdx-js/react": "^1.6.22",
     "clsx": "^1.1.1",
     "devserver-config": "file:plugins/devserver-config",
