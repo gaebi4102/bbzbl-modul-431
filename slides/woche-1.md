@@ -101,7 +101,7 @@ Woche | Datum | Thema | LB
 [Woche&nbsp;6](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/woche-6) | 09.12.2022 | Projektmanagement Teil2 | 
 [**Woche&nbsp;7**](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/woche-7) | **16.12.2022** | **Präsentationen / PM Test** | [**LB2**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB2) / [**LB3**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB3) 
 Woche&nbsp;8 | 23.12.2022 | EPortfolio bearbeiten | 
-|| _30.12.2022_<br/>_06.01.2023_| :christmas_tree: *Wheinachtsferien* :christmas_tree: | 
+|| _30.12.2022_<br/>_06.01.2023_| :christmas_tree: *Weihnachtsferien* :christmas_tree: | 
 **Woche&nbsp;9** | **13.01.2023** | Präsentation und Abgabe des ePortfolios | [**LB4**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB4)
 
 ---
