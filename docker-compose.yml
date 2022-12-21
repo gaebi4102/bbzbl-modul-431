@@ -9,4 +9,3 @@ services:
       - ./docs:/app/docs
       - ./slides:/app/slides
     network_mode: "host"
-    user: root

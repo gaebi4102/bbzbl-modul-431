@@ -25,13 +25,16 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ## Lektionen **1 + 2**
 
-### Freies Arbeiten
+# :nail_care: 
+
+### Feinschliff!
 
 ::: split
 
 ## Lektionen **3 + 4**
 
-### Freies Arbeiten
+# :judge: 
+### Präsentationen / Abgabe
 
 :::
 
@@ -39,8 +42,8 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 # Ist euer ePortfolio vollständig?
 
-- Es existieren **alle Themen**
-  - ePortfolio, IPERKA, Kreativitätstechniken, Präsentationstechniken, Projektmanagement
+- Es existieren **[alle Themen](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB4#1-vollst%C3%A4ndiger-unterrichtsbezug)**
+
 - **Verknüpfungen** zwischen den Themen sind aufgezeigt
 - **Praxistransfer** eines Themengebietes ist aufgezeigt
 - **Reflexion** zu allen Themen sind vorhanden
@@ -51,8 +54,8 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 ---
 
-<!-- _class: big -->
+<!-- _class: big center -->
 
 # Lernziele :dart:
 
-## **E-Portfolio sollte fertig sein!**
+## E-Portfolios sind Abgegeben
