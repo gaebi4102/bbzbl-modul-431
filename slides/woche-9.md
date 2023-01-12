@@ -42,7 +42,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 # Ist euer ePortfolio vollständig?
 
-- Es existieren **[alle Themen](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB4#1-vollst%C3%A4ndiger-unterrichtsbezug)**
+- Es existieren **[alle Themen](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB4#1-vollst%C3%A4ndiger-unterrichtsbezu)**
 
 - **Verknüpfungen** zwischen den Themen sind aufgezeigt
 - **Praxistransfer** eines Themengebietes ist aufgezeigt

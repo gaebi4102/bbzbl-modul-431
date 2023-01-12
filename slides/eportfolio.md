@@ -94,7 +94,6 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 :::
 
-
 ---
 
 <!-- _class: emoji-list -->
