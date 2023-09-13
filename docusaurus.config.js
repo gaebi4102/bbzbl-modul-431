@@ -9,7 +9,7 @@ const oembed = require('@agentofuser/remark-oembed');
 const config = {
   title: 'Modul 431',
   tagline: 'Aufträge im IT-Umfeld selbstständig durchführen',
-  url: 'https://codingluke.github.io',
+  url: 'https://gaebi4102.github.io',
   baseUrl: '/bbzbl-modul-431/',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
@@ -21,7 +21,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'codingluke', // Usually your GitHub org/user name.
+  organizationName: 'gaebi4102', // Usually your GitHub org/user name.
   projectName: 'bbzbl-modul-431', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -70,7 +70,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/codingluke/bbzbl-modul-431/tree/main/',
+            'https://github.com/gaebi4102/bbzbl-modul-431/tree/main/',
           remarkPlugins: [oembed],
         },
         // blog: {
@@ -108,7 +108,7 @@ const config = {
           },
           { to: '/slides/', label: 'Präsentationen', position: 'left' },
           {
-            href: 'https://github.com/codingluke/bbzbl-modul-431',
+            href: 'https://github.com/gaebi4102/bbzbl-modul-431',
             label: 'GitHub',
             position: 'right',
           },
