@@ -15,7 +15,6 @@ const getBase64ImgTag = (path) => {
   return `<img height="30px" src="data:image/png;base64, ${base64Logo}"/>`;
 };
 
-
 generatePDF({
   initialDocURLs: [
     `http://localhost:3000/${modulConfig.repoName}/docs`,
