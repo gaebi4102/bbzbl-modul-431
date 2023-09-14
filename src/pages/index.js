@@ -2,8 +2,6 @@ import React from "react";
 import clsx from "clsx";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
-import 'react-lite-youtube-embed/dist/LiteYouTubeEmbed.css';
-
 
 import styles from "./index.module.css";
 import Link from "@docusaurus/Link";
