@@ -4,7 +4,7 @@
  * work well for content-centric websites.
  */
 
-@font-face {
+ @font-face {
   font-family: "Noto Emoji";
   src: url("../../static/fonts/NotoEmoji-VariableFont_wght.ttf") format("truetype");
 }
