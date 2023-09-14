@@ -24,11 +24,15 @@ section.code { font-family: 'Fira Code', monospace;  }
 
 * {
   font-family: 'Fira Sans', sans-serif;
-  font-weight: 400;
+  font-weight: 300;
 }
 .bold{font-weight:bold;}
 .italic{font-style: italic;}
 .oblique{font-style: oblique;}
+
+.mermaid {
+  text-align: center;
+}
 
 section.emoji-list ul {
   list-style-type: none;
@@ -40,7 +44,7 @@ section.emoji-list ul > li {
 }
 section.emoji-list ul > li img {
   left: -40px;
-  top: 5px;
+  top: 3px;
   position: absolute;
   /* text-align: center; */
   width: 1rem;
@@ -90,11 +94,13 @@ section {
   justify-content: start;
 }
 section h1 {
-  font-weight: 900;
+  font-weight: 400;
   letter-spacing: 0.05rem;
+  margin-bottom: 5px;
+  padding-bottom: 0;
 }
 section h2 {
-  font-weight: 600;
+  font-weight: 300;
 }
 section h2 {
   color: var(--h2-color);
@@ -128,10 +134,10 @@ section.big {
   justify-content: center;
 }
 section.big h1 {
-  font-size: 3rem;
+  font-size: 2.5rem;
 }
 section.big h2 {
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 
 /* small */
