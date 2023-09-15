@@ -1,7 +1,5 @@
 ---
 sidebar_position: 8
-keywords:
-  - pdf
 ---
 
 # Woche 8

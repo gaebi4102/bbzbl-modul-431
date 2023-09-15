@@ -1,7 +1,5 @@
 ---
 sidebar_position: 1
-keywords:
-  - pdf
 ---
 
 # Woche 1

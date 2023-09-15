@@ -1,7 +1,6 @@
 ---
 sidebar_position: 4
-keywords:
-  - pdf
+
 ---
 
 # Woche 4
