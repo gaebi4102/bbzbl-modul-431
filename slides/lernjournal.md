@@ -61,9 +61,9 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 # Welche Lösungen gibt es?
 
 - Google Docs
-
 - Google Site mit Textfeld
-- Github Markdown
+- Github Markdown     
+
 
 ---
 
@@ -78,7 +78,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 <hr>
 
 - [:link: Google Doc Vorlage](https://docs.google.com/document/d/1Pa_FThTbr1Dc1gMTN7aRng5iTRFoYsGSLpmtn8qsx4Y/edit)
-
+- [:link: Github Markdown Vorlage](https://github.com/gaebi4102/bbzbl-lernjournal-vorlage)
 ::: split
 
 # <!-- fit --> :rocket:

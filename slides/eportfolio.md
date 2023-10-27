@@ -106,6 +106,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
     - [GitHub Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
     - [Docusaurus](https://docusaurus.io) (Die Modulwebseite ist damit gemacht!)
     - ![height:25px](https://jekyllrb.com/img/logo-2x.png) [Jekyll](https://jekyllrb.com/) (Standard von Github)
+    - [:link: Github Markdown Vorlage](https://github.com/gaebi4102/bbzbl-lernjournal-vorlage)
 - ![height:25px](https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg) [WordPress](https://wordpress.com/de/com-vs-org/) 
 
 - :hand: HTML von Hand _(nicht zu empfehlen wegen Aufwand)_

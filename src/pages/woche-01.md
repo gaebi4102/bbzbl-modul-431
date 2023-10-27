@@ -6,11 +6,16 @@ hide_table_of_contents: true
 <Timeline title="Woche 1">
 <Event time="12:45">
 
-## Markdown Header
+## Einführung
+- :wave: Kennenlernen
 
-- :smiley: liste
+- :dart: Lernziele
 
-- :pencil: Aufgabe
+- :telescope: Modulübersicht
+
+- :bookmark: Quartalsplanung/ LBs
+
+- :notebook: [ePortfolio](../themen/eportfolio.md)
 
 </Event>
 <Event time="14:20">
@@ -20,7 +25,10 @@ hide_table_of_contents: true
 </Event>
 <Event time="14:40">
 
-## Whatever!
+## Setup von ePortfolio
+- :pencil: [Handlungskompetenz](../themen/handlungskompetenz.md)
+
+- :ear: [Lernjournal](../themen/lernjournal.md)
 
 </Event>
 <Event time="16:15">

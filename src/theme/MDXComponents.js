@@ -1,9 +1,10 @@
-import React from "react";
 // Import the original mapper
 import MDXComponents from "@theme-original/MDXComponents";
 import LiteYouTubeEmbed from "react-lite-youtube-embed";
 import DocCardList from "@theme/DocCardList";
 import Timeline, { Event } from "../components/Timeline/index";
+
+import 'react-lite-youtube-embed/dist/LiteYouTubeEmbed.css'
 
 export default {
   // Re-use the default mapping

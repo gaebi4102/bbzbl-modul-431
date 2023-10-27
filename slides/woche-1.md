@@ -3,7 +3,7 @@ marp: true
 theme: bbzbl
 paginate: true
 header: Modul 431 - Woche 1
-footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
+footer: BBZBL / Lukas Hodel/ Gianluca Aebi / Aufträge im IT-Umfeld selbstständig durchführen
 ---
 
 <!-- _class: big center -->
@@ -54,12 +54,12 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 # Lernziele :dart:
 
-- Ich weiss, was mich im [Modul 431](https://codingluke.github.io/bbzbl-modul-431/docs/) erwartet
+- Ich weiss, was mich im [Modul 431](https://gaebi4102.github.io/bbzbl-modul-431//docs/) erwartet
 
 - Ich weiss in welchen Wochen es **welche Leistungsbewertungen** gibt
-- Ich kenne die [Modulwebseite](https://codingluke.github.io/bbzbl-modul-431)
-- Ich weiss, wo ich alle [Bewertungskriterien](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen) der Abgaben nachschlagen kann
-- Ich kann die [4 Kompetenzen der Handlungskompetenz](https://codingluke.github.io/bbzbl-modul-431/docs/themen/handlungskompetenz#4-kompetenzen) aufzählen
+- Ich kenne die [Modulwebseite](https://gaebi4102.github.io/bbzbl-modul-431/)
+- Ich weiss, wo ich alle [Bewertungskriterien](https://gaebi4102.github.io/bbzbl-modul-431//docs/beurteilungen) der Abgaben nachschlagen kann
+- Ich kann die [4 Kompetenzen der Handlungskompetenz](https://gaebi4102.github.io/bbzbl-modul-431//docs/themen/handlungskompetenz#4-kompetenzen) aufzählen
 - Ich **weiss, was ein ePortfolio ist** und habe erste Notizen für mein ePortfolio festgehalten
 - Ich habe den **ersten Lernjournal-Eintrag** geschrieben
 
@@ -86,11 +86,11 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 Woche | Datum | Thema | LB 
 :---:|:---:|:---|:---
-[Woche&nbsp;1](./woche-1) | 04.11.2022 | [ePortfolio](https://codingluke.github.io/bbzbl-modul-431/docs/themen/eportfolio) / [Handlungskompetenz](https://codingluke.github.io/bbzbl-modul-431/docs/themen/handlungskompetenz) / [Lernjournal](https://codingluke.github.io/bbzbl-modul-431/docs/themen/lernjournal) | 
-[Woche&nbsp;2](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/woche-2) | 11.11.2022 | [IPERKA](https://codingluke.github.io/bbzbl-modul-431/docs/themen/iperka) / [Präsentationskonzept](https://codingluke.github.io/bbzbl-modul-431/docs/themen/praesentationskonzept) | 
-[Woche&nbsp;3](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/woche-3) | 18.11.2022 | Tipps zur Erarbeitung der Präsentation | 
-[Woche&nbsp;4](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/woche-4) | 25.11.2022 | [Kreativitätstechniken](https://codingluke.github.io/bbzbl-modul-431/docs/themen/kreativitaetstechniken) | 
-[**Woche&nbsp;5**](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/woche-5) | **02.12.2022** | [Projektmanagement Teil1](https://codingluke.github.io/bbzbl-modul-431/docs/themen/projektmanagement) | [**LB1**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB1) 
+[Woche&nbsp;1](./woche-1) | 03.11.2023 | [ePortfolio](https://gaebi4102.github.io/bbzbl-modul-431//docs/themen/eportfolio) / [Handlungskompetenz](https://gaebi4102.github.io/bbzbl-modul-431//docs/themen/handlungskompetenz) / [Lernjournal](https://gaebi4102.github.io/bbzbl-modul-431//docs/themen/lernjournal) | 
+[Woche&nbsp;2](https://gaebi4102.github.io/bbzbl-modul-431//docs/lektionen/woche-2) | 10.11.2023 | [IPERKA](https://gaebi4102.github.io/bbzbl-modul-431//docs/themen/iperka) / [Präsentationskonzept](https://gaebi4102.github.io/bbzbl-modul-431//docs/themen/praesentationskonzept) | 
+[Woche&nbsp;3](https://gaebi4102.github.io/bbzbl-modul-431//docs/lektionen/woche-3) | 17.11.2023 | Tipps zur Erarbeitung der Präsentation | 
+[Woche&nbsp;4](https://gaebi4102.github.io/bbzbl-modul-431//docs/lektionen/woche-4) | 24.11.2022 | [Kreativitätstechniken](https://gaebi4102.github.io/bbzbl-modul-431//docs/themen/kreativitaetstechniken) | 
+[**Woche&nbsp;5**](https://gaebi4102.github.io/bbzbl-modul-431//docs/lektionen/woche-5) | **01.12.2023** | [Projektmanagement Teil1](https://gaebi4102.github.io/bbzbl-modul-431//docs/themen/projektmanagement) | [**LB1**](https://gaebi4102.github.io/bbzbl-modul-431//docs/beurteilungen/LB1) 
 
 ---
 
@@ -98,11 +98,11 @@ Woche | Datum | Thema | LB
 
 Woche | Datum | Thema | LB 
 :---:|:---:|:---|:---
-[Woche&nbsp;6](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/woche-6) | 09.12.2022 | Projektmanagement Teil2 | 
-[**Woche&nbsp;7**](https://codingluke.github.io/bbzbl-modul-431/docs/lektionen/woche-7) | **16.12.2022** | **Präsentationen / PM Test** | [**LB2**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB2) / [**LB3**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB3) 
-Woche&nbsp;8 | 23.12.2022 | EPortfolio bearbeiten | 
-|| _30.12.2022_<br/>_06.01.2023_| :christmas_tree: *Weihnachtsferien* :christmas_tree: | 
-**Woche&nbsp;9** | **13.01.2023** | Präsentation und Abgabe des ePortfolios | [**LB4**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB4)
+[Woche&nbsp;6](https://gaebi4102.github.io/bbzbl-modul-431//docs/lektionen/woche-6) | 08.12.2023 | Projektmanagement Teil2 | 
+[**Woche&nbsp;7**](https://gaebi4102.github.io/bbzbl-modul-431//docs/lektionen/woche-7) | **15.12.2023 ** | **Präsentationen / PM Test** | [**LB2**](https://gaebi4102.github.io/bbzbl-modul-431//docs/beurteilungen/LB2) / [**LB3**](https://gaebi4102.github.io/bbzbl-modul-431//docs/beurteilungen/LB3) 
+Woche&nbsp;8 | 22.12.2023  | EPortfolio bearbeiten | 
+|| _30.12.2022_<br/>_07.01.2024_| :christmas_tree: *Weihnachtsferien* :christmas_tree: | 
+**Woche&nbsp;9** | **12.01.2023** | Präsentation und Abgabe des ePortfolios | [**LB4**](https://gaebi4102.github.io/bbzbl-modul-431//docs/beurteilungen/LB4)
 
 ---
 
@@ -110,14 +110,14 @@ Woche&nbsp;8 | 23.12.2022 | EPortfolio bearbeiten |
 
 ||Woche | Datum | Thema | LB 
 :---:|:---:|:---:|:---|:---
-||[**Woche&nbsp;5**](./woche-5) | **02.12.2022** | Präsentationskonzept | [**LB1**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB1) 
-||[**Woche&nbsp;7**](./woche-7) | **16.12.2022** | Präsentationen / PM Test | [**LB2**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB2) / [**LB3**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB3) 
-||**Woche&nbsp;9** | **13.01.2023** | Präsentation und Abgabe des ePortfolios | [**LB4**](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB4)
+||[**Woche&nbsp;5**](./woche-5) | **01.12.2023** | Präsentationskonzept | [**LB1**](https://gaebi4102.github.io/bbzbl-modul-431//docs/beurteilungen/LB1) 
+||[**Woche&nbsp;7**](./woche-7) | **15.12.2023** | Präsentationen / PM Test | [**LB2**](https://gaebi4102.github.io/bbzbl-modul-431//docs/beurteilungen/LB2) / [**LB3**](https://gaebi4102.github.io/bbzbl-modul-431//docs/beurteilungen/LB3) 
+||**Woche&nbsp;9** | **12.01.2023** | Präsentation und Abgabe des ePortfolios | [**LB4**](https://gaebi4102.github.io/bbzbl-modul-431//docs/beurteilungen/LB4)
 
 ---
 
 # Weitere Präsentationen
 
-- [ePortfolio](https://codingluke.github.io/bbzbl-modul-431/slides/eportfolio)
-- [Handlungskompetenz](https://codingluke.github.io/bbzbl-modul-431/slides/handlungskompetenz)
-- [Lernjournal](https://codingluke.github.io/bbzbl-modul-431/slides/lernjournal)
+- [ePortfolio](https://gaebi4102.github.io/bbzbl-modul-431//slides/eportfolio)
+- [Handlungskompetenz](https://gaebi4102.github.io/bbzbl-modul-431//slides/handlungskompetenz)
+- [Lernjournal](https://gaebi4102.github.io/bbzbl-modul-431//slides/lernjournal)
