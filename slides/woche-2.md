@@ -60,5 +60,5 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 # Weitere Präsentationen
 
-- [IPERKA](https://codingluke.github.io/bbzbl-modul-431/slides/iperka)
-- [Präsentationskonzept](https://codingluke.github.io/bbzbl-modul-431/slides/praesentationskonzept)
+- [IPERKA](https://gaebi4102.github.io/bbzbl-modul-431/slides/iperka)
+- [Präsentationskonzept](https://gaebi4102.github.io/bbzbl-modul-431/slides/praesentationskonzept)

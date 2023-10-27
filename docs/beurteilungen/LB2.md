@@ -6,7 +6,7 @@ keywords:
 
 **Form**          | **Abgabe** | **Gewicht**
 :---              | :---:      | ---:
-Partnerarbeit[^1] | Woche 7 / 16.12.2022    | 25%
+Partnerarbeit[^1] | Woche 7 / 15.12.2023    | 25%
 
 [^1]: in Ausnahmefällen Dreiergruppe oder Einzelarbeit
 
@@ -21,7 +21,7 @@ Partnerarbeit[^1] | Woche 7 / 16.12.2022    | 25%
 ## Rahmenbedingungen
 
 1. Wenn Sie das Konzept fertig haben, erstellen Sie eine Präsentation über sich selbst bzw. Sie beide (nutzen Sie besondere Ideen, um den von lhnen gewählten Inhalt in geschickter Form zu übertragen). Das Layout bei der Partnerarbeit ist durchgehend. Zu dem Auftrag gehört auch die Erarbeitung von vertieftem Wissen und Erkenntnissen im gewählten Präsentationsprogramm.
-1. Laden Sie Ihre Präsentation unter dem Namen **431\_Praesentation\_Nachname1\_Nachname2.pdf** bis zum Abgabetermin auf Google Drive in den [Abgabeordner](https://drive.google.com/drive/folders/1pfW0csBesX65Eo1-StB_9OSj2Qg37QEM) Modul 431.
+1. Laden Sie Ihre Präsentation unter dem Namen **431\_Praesentation\_Nachname1\_Nachname2.pdf** bis zum Abgabetermin auf Google Drive in den [Abgabeordner](https://drive.google.com/drive/folders/1-2mimuNZrckcNaW0X9fxHalwUoRooKHv) Modul 431.
 1. Ergänzen Sie mit diesem neuen "spezifischen" Wissen bzw. Erkenntnissen Ihr ePortfolio.
 
 ---

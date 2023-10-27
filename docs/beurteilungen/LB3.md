@@ -6,7 +6,7 @@ keywords:
 
 Form | Abgabe               | Gewicht
 :--- | :---:                | ---:
-Test | Woche 7 / 16.12.2022 | 12.5%
+Test | Woche 7 / 15.12.2023 | 12.5%
 
 ## Auftrag
 

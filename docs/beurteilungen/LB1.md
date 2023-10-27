@@ -7,21 +7,21 @@ keywords:
 
 Form          | Abgabe                             | Gewicht
 :---          | :---:                              | ---:
-Partnerarbeit | Woche 5 / 02.12.2022 **vor 12:45** | 12.5%
+Partnerarbeit | Woche 5 / 01.12.2023 **vor 12:45** | 12.5%
 
 ## Auftrag
 
 - **Schriftdokument** mit **3-5 Seiten, 12pt**, exklusive Inhaltsverzeichnis, Deckblatt und Bilder
-  - [:link: Vorlage auf Google Docs](https://docs.google.com/document/d/1q801qPjNKls_0JA0Ng7y2lv-K85w3po9zquc-o3vnIk/edit)
+  - [:link: Vorlage auf Google Docs](https://docs.google.com/document/d/1RU2ZZziMQXqWGzG3-G5iiAPeCqdUjY9p/edit)
 - **Inhalt**: Planung, Gestaltung, Präsentationsablauf, Präsentationsstil, Lampenfieber
-- **Abgabe**: **Am 02.12.2022 vor 12:45** via Google Drive 
-  - [:file_folder: Abgabeordner Modul 431](https://drive.google.com/drive/folders/1pfW0csBesX65Eo1-StB_9OSj2Qg37QEM)
+- **Abgabe**: **Am 01.12.2023 vor 12:45** via Google Drive 
+  - [:file_folder: Abgabeordner Modul 431](https://drive.google.com/drive/folders/1-2mimuNZrckcNaW0X9fxHalwUoRooKHv)
   - Namensgebung: **431\_Praesentationskonzept\_Nachname1\_Nachname2.pdf**
 
 :::danger Die Abgabe muss:
 - ein PDF sein
 - die Namensgebung **431\_Praesentationskonzept\_Nachname1\_Nachname2.pdf** besitzen
-- sich im **[:file_folder: Abgabeordner](https://drive.google.com/drive/folders/1pfW0csBesX65Eo1-StB_9OSj2Qg37QEM)** befinden
+- sich im **[:file_folder: Abgabeordner](https://drive.google.com/drive/folders/1-2mimuNZrckcNaW0X9fxHalwUoRooKHv)** befinden
 - Individuelle Freigaben sind nicht erlaubt!
 :::
 

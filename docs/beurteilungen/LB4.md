@@ -8,7 +8,7 @@ Ein ePortfolio ist eine **selektiv** und **reflektiert** zusammengestellte, **ko
 
 Form         | Abgabe               | Gewicht
 :---         | :---:                | ---:
-Einzelarbeit | Woche 9 / 13.01.2023 | 50%
+Einzelarbeit | Woche 9 / 12.01.2024 | 50%
 
 ## Auftrag
 

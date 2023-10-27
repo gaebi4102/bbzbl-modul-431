@@ -49,13 +49,12 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 Folgende Links führen zu [AnswerGarden <sup>![](https://answergarden.ch/favicon.ico)</sup>](https://answergarden.ch)  Fragen
 
-1. [Informieren <sup>![](https://answergarden.ch/favicon.ico)</sup>](https://answergarden.ch/2223075) 
-
-1. [Planen <sup>![](https://answergarden.ch/favicon.ico)</sup>](https://answergarden.ch/2223078)
-1. [Entscheiden <sup>![](https://answergarden.ch/favicon.ico)</sup>](https://answergarden.ch/2223081) 
-1. [Realisieren <sup>![](https://answergarden.ch/favicon.ico)</sup>](https://answergarden.ch/2223082) 
-1. [Kontrollieren <sup>![](https://answergarden.ch/favicon.ico)</sup>](https://answergarden.ch/2223087) 
-1. [Auswerten <sup>![](https://answergarden.ch/favicon.ico)</sup>](https://answergarden.ch/2223089)
+1. [Informieren <sup>![](https://answergarden.ch/favicon.ico)</sup>](https://answergarden.ch/3861608) 
+1. [Planen <sup>![](https://answergarden.ch/favicon.ico)</sup>](https://answergarden.ch/3861609)
+1. [Entscheiden <sup>![](https://answergarden.ch/favicon.ico)</sup>](https://answergarden.ch/3861611) 
+1. [Realisieren <sup>![](https://answergarden.ch/favicon.ico)</sup>](https://answergarden.ch/3861612) 
+1. [Kontrollieren <sup>![](https://answergarden.ch/favicon.ico)</sup>](https://answergarden.ch/3861613) 
+1. [Auswerten <sup>![](https://answergarden.ch/favicon.ico)</sup>](https://answergarden.ch/3861614)
 
 ---
 
