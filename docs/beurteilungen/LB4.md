@@ -1,3 +1,7 @@
+---
+keywords:
+  - pdf
+---
 # LB4 - ePortfolio
 
 Ein ePortfolio ist eine **selektiv** und **reflektiert** zusammengestellte, **kommmentierte Sammlung** von "Illustrationen" verschiedenster Art, die die Arbeit und den Fortschritt der Autor\*in in **verschiedenen Kontexten** und über eine **längere Zeitspanne** dokumentiert.

@@ -1,3 +1,7 @@
+---
+keywords:
+  - pdf
+---
 # LB2 - Präsentation
 
 **Form**          | **Abgabe** | **Gewicht**

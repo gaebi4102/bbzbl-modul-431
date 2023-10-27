@@ -1,3 +1,7 @@
+---
+keywords:
+  - pdf
+---
 # Beurteilungen
 
 Woche | Datum      | Thema                                          | Gewicht

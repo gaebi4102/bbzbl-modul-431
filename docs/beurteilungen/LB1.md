@@ -1,3 +1,8 @@
+---
+keywords:
+  - pdf
+---
+
 # LB1 - Präsentationskonzept
 
 Form          | Abgabe                             | Gewicht

@@ -1,3 +1,7 @@
+---
+keywords:
+  - pdf
+---
 # LB3 - Projektmanagement
 
 Form | Abgabe               | Gewicht
