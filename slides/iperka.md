@@ -64,7 +64,7 @@ Folgende Links führen zu [AnswerGarden <sup>![](https://answergarden.ch/favicon
 
 Ordnen Sie die Fragen des folgenden Fragebogen den 6 Schritten zu:
 
-[:link: Fragebogen](https://docs.google.com/spreadsheets/d/1nLLSKc_HXZzrvfeEwa79blUbbQoYpww23377OXSqYqk/edit#gid=0)
+[:link: Fragebogen](https://docs.google.com/spreadsheets/d/1zOi_gNs5lnmbUjP40J4r9kUtKPg1v0JX/edit)
 
 - Bitte macht eine **Kopie in ein eigenes Verzeichnis** und füllt die Fragen aus
 
