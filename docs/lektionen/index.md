@@ -1,6 +1,7 @@
+keywords:
+  - pdf
 
 # Lektionen
-[:floppy_disk: PDF speichern](pathname:///docs/lektionen.pdf)
 
 ||Woche | Datum | Thema | Leistungsbewertung
 :---:|:---:|:---:|:---|:---
