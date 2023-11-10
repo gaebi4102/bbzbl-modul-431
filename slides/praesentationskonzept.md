@@ -233,13 +233,13 @@ Macht euch zum folgenden [Film](https://www.youtube.com/watch?v=9tR0C93T0hs) Not
 
 ---
 
-# LB1 - Präsentationskonzept <span class="right">[:link:](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB1)</span>
+# LB1 - Präsentationskonzept <span class="right">[:link:](https://gaebi4102.github.io/bbzbl-modul-431/docs/beurteilungen/LB1)</span>
 
 ::: columns s4
 
 Form|Abgabe|Gewicht
 :---|:---:|---:
-Partnerarbeit | Woche 5 / **02.12.2022** | 12.5%
+Partnerarbeit | Woche 5 / **01.12.2023** | 12.5%
 
 ## Auftrag
 
@@ -248,8 +248,8 @@ Partnerarbeit | Woche 5 / **02.12.2022** | 12.5%
 
 ## Abgabe
 
-- Vor 12:45 am 02.12.2022
-- Google Drive [Abgabeordner](https://drive.google.com/drive/folders/1pfW0csBesX65Eo1-StB_9OSj2Qg37QEM) vom Modul 431
+- Vor 12:45 am 01.12.2023
+- Google Drive [Abgabeordner](https://drive.google.com/drive/folders/1-2mimuNZrckcNaW0X9fxHalwUoRooKHv) vom Modul 431
 - Dokumentname: **431_Praesentationskonzept_Nachname1_Nachname2.pdf**
 
 ::: split
@@ -289,13 +289,13 @@ Partnerarbeit | Woche 5 / **02.12.2022** | 12.5%
 
 ---
 
-# LB2 - Präsentation <span class="right">[:link:](https://codingluke.github.io/bbzbl-modul-431/docs/beurteilungen/LB2)</span>
+# LB2 - Präsentation <span class="right">[:link:](https://gaebi4102.github.io/bbzbl-modul-431/docs/beurteilungen/LB2)</span>
 
 ::: columns s4
 
 Form|Abgabe|Gewicht
 :---|:---:|---:
-Partnerarbeit<sup>*</sup> | W7 / 17.12.21 | 25%
+Partnerarbeit<sup>*</sup> | W7 / 15.12.2023 | 25%
 
 ## Auftrag
 
@@ -306,7 +306,7 @@ Partnerarbeit<sup>*</sup> | W7 / 17.12.21 | 25%
 
 ## Abgabe
 
-- Google Drive [Abgabeordner](https://drive.google.com/drive/folders/1pfW0csBesX65Eo1-StB_9OSj2Qg37QEM) vom Modul 431
+- Google Drive [Abgabeordner](https://drive.google.com/drive/folders/1-2mimuNZrckcNaW0X9fxHalwUoRooKHv) vom Modul 431
 - Dokumentname: **431\_Praesentation\_Nachname1\_Nachname2.pdf**
 
 ::: split
