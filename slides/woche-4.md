@@ -26,8 +26,7 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 ## Lektionen **1 + 2**
 
 - Kreativitätstechniken
-  - Arbeitsauftrag 1
-  - Arbeitsauftrag 2
+  - Arbeitsauftrag - Think, Pair, Share
 
 ::: split
 

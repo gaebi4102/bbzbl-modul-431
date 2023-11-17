@@ -12,7 +12,21 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 ## Modul 431
 
 ---
+# KAWA
+## zu Kreativitätstechniken
+![bg right fit](./images/KAWA_Erfolgreich_FINAL_full_resolution-1024x724_optimiert.jpg)
 
+::: footnotes
+
+Quelle: [blog.brain-friendly.de](https://blog.brain-friendly.de/2020/10/die-2-erfolgreichsten-denkwerkzeuge-von-vera-f-birkenbihl-abc-listen-und-analograffiti/)
+
+:::
+
+
+
+
+
+---
 # Kreativität
 
 ![bg right fit](https://www.tinguely.ch/.imaging/tinguely_jpg/dam/Newsletter-Bilder/jean-tinguely-meta-matic-no-10-1959.jpg)
@@ -99,7 +113,7 @@ Bild vom [Unternehmerlexikon](https://www.unternehmerlexikon.de)
 
 ---
 
-# Arbeitsauftrag 1 :pencil:
+# Arbeitsauftrag  :pencil:
 
 ::: columns
 
@@ -111,8 +125,9 @@ Sie sind kostenlos und es gibt viele etablierte Methoden!
 
 ::: split
 
-- Dauer: **15 Minuten**
-- Sozialform: **Partnerarbeit**
+- Dauer: **45 Minuten**
+- Sozialform: **Einzel und Partnerarbeit**
+- Methode: **Think, Pair, Share**
 - Produkt: Ihre ausgewählte **Technik** zur Besprechung **visualisiert**
 - **Informationen:**
   - Das Vorstellen soll nicht länger als **3 Minuten** dauern.
@@ -135,52 +150,25 @@ Sie sind kostenlos und es gibt viele etablierte Methoden!
 
 ## 👉 **Direkt ins ePortfolio einfliessen lassen!**
 
-<!-- --- -->
-
-<!-- # Arbeitsauftrag 2 :pencil: -->
-
-<!-- ::: columns -->
-
-<!-- Sehen Sie sich das folgende Video an, kommen Sie auf eine Lösung? -->
-
-<!-- - **6-3-5**: 6x2 = 12 Minuten + 8 Minuten Wahl -->
-<!-- - **Brainwriting Pool**: 10 Minuten aufschreiben, 10 Minuten vorstellen und Wahl  -->
-<!-- - **Strukturlegetechnik**: 10 Minuten probieren, 10 Minuten Wahl -->
-
-<!-- Sind die Techniken geeignet? -->
-
-<!-- ::: split -->
-
-<!-- - Dauer: **20 Minuten** -->
-<!-- - Sozialform: **Gruppenarbeit** -->
-<!-- - Produkt: **Ihre Lösung** -->
-
-<!-- ::: -->
-
-<!-- --- -->
-
-<!-- <iframe width="100%" height="100%" src="https://www.youtube.com/embed/7yDmGnA8Hw0" title=" Can you solve the bridge riddle? - Alex Gendler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
 ---
-
-# Arbeitsauftrag 2 :pencil:
-
 ::: columns
-
-## **635 Methode anwenden**
-
-- Gruppen bilden
-- Wie könnte das BBZ BL Geld sparen?
+- Think
+Zeit: **10 min**
+Sozialform: **Einzellarbeit**
+Auftrag: **Denken Sie mal über ihr Kreativitätstechnik nach und Sammeln Sie Information.**
 
 ::: split
 
-- Dauer: **25 Minuten**
-- Sozialform: **6er Gruppen**
-- Produkt:
-  - **Ausgefüllte Blätter** der 635-Methode
-  - Ihre **Erkenntnisse festgehalten** zur Weitergabe im Plenum
-  - **10 Min. Besprechung** im Plenum
-- Informationen
-  - Beschrieb 635-Methode
+- Pair
+Zeit: **15 min**
+Sozialform: **Partnerarbeit**
+Auftrag: **Tauschen Sie sich mit Ihrem/ Ihrer Partner/in aus und halten Sie das Ergebnis auf einem Flipchart fest.**
+
+::: split
+
+- Share
+Zeit: **20 min**
+Sozialform: **Plenum**
+Auftrag: **Sie Präsentieren Ihr Ergebnis der Klasse.**
 
 :::
