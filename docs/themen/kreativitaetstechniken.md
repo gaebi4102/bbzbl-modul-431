@@ -38,5 +38,6 @@ keywords:
 - https://karrierebibel.de/brainstorming/
 - https://answergarden.ch/
 
-
-
+### Übersicht von Kreativitätstechniken
+- https://karrierebibel.de/kreativitaetstechniken/
+- https://www.ideenfindung.de/%C3%9Cbersicht-Liste-Kreativitaetstechniken-Ideenfindung.html
