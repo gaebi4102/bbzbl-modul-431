@@ -42,8 +42,8 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 <!-- ![bg right fit](./images/goals.png) -->
 
-- Ich habe die 635 Methode angewandt und konnte direkte Schlüsse
-daraus ziehen.
+- Ich kenne verschieden Kreativitätstechniken und kann diese Anwenden.
+
 - **Präsentationskonzept** ist fertiggestellt
 - **Präsentation** ist auf einem guten Weg
 
