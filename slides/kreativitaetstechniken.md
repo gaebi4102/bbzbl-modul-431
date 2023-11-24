@@ -3,7 +3,7 @@ marp: true
 theme: bbzbl
 paginate: true
 header: Modul 431 - Kreativitätstechniken
-footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
+footer: BBZBL / Lukas Hodel & Gianluca Aebi / Aufträge im IT-Umfeld selbstständig durchführen
 ---
 
 <!-- _class: big center -->
