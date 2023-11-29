@@ -15,10 +15,20 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 
 <!-- _class: big -->
 
-# **Aufträge** im eigenen Berufsumfeld **selbstständig durchführen**
+# Kreativitätstechniken
 
 ---
+# KAWA
+## zu Kreativitätstechniken
+![bg right fit](./images/KAWA_Erfolgreich_FINAL_full_resolution-1024x724_optimiert.jpg)
 
+::: footnotes
+
+Quelle: [blog.brain-friendly.de](https://blog.brain-friendly.de/2020/10/die-2-erfolgreichsten-denkwerkzeuge-von-vera-f-birkenbihl-abc-listen-und-analograffiti/)
+
+:::
+
+---
 # Ablauf
 
 ::: columns
@@ -53,26 +63,3 @@ footer: BBZBL / Lukas Hodel / Aufträge im IT-Umfeld selbstständig durchführen
 - **Vorgehensmodelle** kennen und eines genauer aufzeigen bzw. beschreiben
 - Die Vorbereitung der **Präsentationen** sind **beendet**
 - ePortfolio Eintrag für Projektmanagement begonnen
-
----
-
-# Ausblick
-
-::: columns
-
-## Option 1
-
-Der PM-Test wird vor den Ferien stattfinden, zusammen mit den Präsentationen!
-
-- Projektmanagement Teil 2
-
-::: split
-
-## Option 2
-
-Der PM-Test wird erst nach den Ferien gemacht
-
-- Präsentationen
-- Start Projektmanagement Teil 2
-
-:::

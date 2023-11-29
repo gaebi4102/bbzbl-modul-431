@@ -12,21 +12,6 @@ footer: BBZBL / Lukas Hodel & Gianluca Aebi / Aufträge im IT-Umfeld selbststän
 ## Modul 431
 
 ---
-# KAWA
-## zu Kreativitätstechniken
-![bg right fit](./images/KAWA_Erfolgreich_FINAL_full_resolution-1024x724_optimiert.jpg)
-
-::: footnotes
-
-Quelle: [blog.brain-friendly.de](https://blog.brain-friendly.de/2020/10/die-2-erfolgreichsten-denkwerkzeuge-von-vera-f-birkenbihl-abc-listen-und-analograffiti/)
-
-:::
-
-
-
-
-
----
 # Kreativität
 
 ![bg right fit](https://www.tinguely.ch/.imaging/tinguely_jpg/dam/Newsletter-Bilder/jean-tinguely-meta-matic-no-10-1959.jpg)

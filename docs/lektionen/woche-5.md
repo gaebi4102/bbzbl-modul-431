@@ -4,7 +4,8 @@ sidebar_position: 5
 ---
 
 # Woche 5
-
+> :scroll: [Unterrichts Ablauf](../../woche-05)
+>
 > [Projektmanagement](../themen/projektmanagement.md)
 
 [:computer: Open in Browser](pathname:///slides/woche-5) | [:floppy_disk: download PDF](pathname:///slides/woche-5.pdf) 
